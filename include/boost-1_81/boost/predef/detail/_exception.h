@@ -1,15 +1,3 @@
-/*
-Copyright Rene Rivera 2011-2012
-Distributed under the Boost Software License, Version 1.0.
-(See accompanying file LICENSE_1_0.txt or copy at
-http://www.boost.org/LICENSE_1_0.txt)
-*/
-
-#ifndef BOOST_PREDEF_DETAIL__EXCEPTION_H
-#define BOOST_PREDEF_DETAIL__EXCEPTION_H
-
-#if defined(__cplusplus)
-#include <exception>
-#endif
-
-#endif
+version https://git-lfs.github.com/spec/v1
+oid sha256:e2de231d34cfd30a6511240375592a5e2b1c15f79d8e598c46caf49557d5f34f
+size 345

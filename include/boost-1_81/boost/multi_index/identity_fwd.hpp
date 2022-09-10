@@ -1,26 +1,3 @@
-/* Copyright 2003-2013 Joaquin M Lopez Munoz.
- * Distributed under the Boost Software License, Version 1.0.
- * (See accompanying file LICENSE_1_0.txt or copy at
- * http://www.boost.org/LICENSE_1_0.txt)
- *
- * See http://www.boost.org/libs/multi_index for library home page.
- */
-
-#ifndef BOOST_MULTI_INDEX_IDENTITY_FWD_HPP
-#define BOOST_MULTI_INDEX_IDENTITY_FWD_HPP
-
-#if defined(_MSC_VER)
-#pragma once
-#endif
-
-namespace boost{
-
-namespace multi_index{
-
-template<class Type> struct identity;
-
-} /* namespace multi_index */
-
-} /* namespace boost */
-
-#endif
+version https://git-lfs.github.com/spec/v1
+oid sha256:8d559410d356cca26f66a1f8a21dbe24a10bfd4518b1925adaaeb29834ca2614
+size 578

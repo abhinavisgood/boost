@@ -1,11 +1,3 @@
-#ifndef BOOST_QVM_LITE_HPP_INCLUDED
-#define BOOST_QVM_LITE_HPP_INCLUDED
-
-// Copyright 2008-2022 Emil Dotchevski and Reverge Studios, Inc.
-
-// Distributed under the Boost Software License, Version 1.0. (See accompanying
-// file LICENSE_1_0.txt or copy at http://www.boost.org/LICENSE_1_0.txt)
-
-#include <boost/qvm/lite.hpp>
-
-#endif
+version https://git-lfs.github.com/spec/v1
+oid sha256:10928cfba2a73da6419823fb4d12860f583836c38c6bbf6b7196d670e076d9d8
+size 342

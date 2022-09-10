@@ -1,20 +1,3 @@
-#ifndef BOOST_METAPARSE_FIRST_OF_HPP
-#define BOOST_METAPARSE_FIRST_OF_HPP
-
-// Copyright Abel Sinkovics (abel@sinkovics.hu)  2013.
-// Distributed under the Boost Software License, Version 1.0.
-//    (See accompanying file LICENSE_1_0.txt or copy at
-//          http://www.boost.org/LICENSE_1_0.txt)
-
-#include <boost/metaparse/v1/first_of.hpp>
-
-namespace boost
-{
-  namespace metaparse
-  {
-    using v1::first_of;
-  }
-}
-
-#endif
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:933bb85910149735b32f3eccbe079982353c59d872ec00f81cf15ed8a6b895e1
+size 446

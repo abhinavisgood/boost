@@ -1,12 +1,3 @@
-/*=============================================================================
-  Copyright (c) 2001-2008 Joel de Guzman
-  Copyright (c) 2001-2008 Hartmut Kaiser
-  http://spirit.sourceforge.net/
-
-  Distributed under the Boost Software License, Version 1.0. (See accompanying
-  file LICENSE_1_0.txt or copy at http://www.boost.org/LICENSE_1_0.txt)
-=============================================================================*/
-#ifndef BOOST_SPIRIT_INCLUDE_CLASSIC_SEQUENTIAL_OR
-#define BOOST_SPIRIT_INCLUDE_CLASSIC_SEQUENTIAL_OR
-#include <boost/spirit/home/classic/core/composite/sequential_or.hpp>
-#endif
+version https://git-lfs.github.com/spec/v1
+oid sha256:34db88a9531a6e84a07045e785fd1f46783e3cd38519735d1dd65ea6a36803be
+size 618

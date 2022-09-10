@@ -1,12 +1,3 @@
-/*=============================================================================
-  Copyright (c) 2001-2008 Joel de Guzman
-  Copyright (c) 2001-2008 Hartmut Kaiser
-  http://spirit.sourceforge.net/
-
-  Distributed under the Boost Software License, Version 1.0. (See accompanying
-  file LICENSE_1_0.txt or copy at http://www.boost.org/LICENSE_1_0.txt)
-=============================================================================*/
-#ifndef BOOST_SPIRIT_INCLUDE_CLASSIC_DISTINCT
-#define BOOST_SPIRIT_INCLUDE_CLASSIC_DISTINCT
-#include <boost/spirit/home/classic/utility/distinct.hpp>
-#endif
+version https://git-lfs.github.com/spec/v1
+oid sha256:4d77a8d30e3ddfd69f33e382f792ab9ae7f286548f4e73cfc3025c132a609a8f
+size 596

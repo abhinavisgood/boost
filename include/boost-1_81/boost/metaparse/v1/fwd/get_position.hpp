@@ -1,25 +1,3 @@
-#ifndef BOOST_METAPARSE_V1_FWD_GET_POSITION_HPP
-#define BOOST_METAPARSE_V1_FWD_GET_POSITION_HPP
-
-//    Copyright Abel Sinkovics (abel@sinkovics.hu) 2013.
-// Distributed under the Boost Software License, Version 1.0.
-//    (See accompanying file LICENSE_1_0.txt or copy at
-//          http://www.boost.org/LICENSE_1_0.txt)
-
-namespace boost
-{
-  namespace metaparse
-  {
-    namespace v1
-    {
-      template <class>
-      struct get_position_impl;
-
-      template <class>
-      struct get_position;
-    }
-  }
-}
-
-#endif
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:b65b57ccc82ad382c5bd022b924f30ed5ef7f72a58d50a3e5328c58f1d403631
+size 542

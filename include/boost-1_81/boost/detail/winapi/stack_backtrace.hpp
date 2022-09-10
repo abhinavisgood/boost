@@ -1,24 +1,3 @@
-/*
- * Copyright 2017 Andrey Semashev
- *
- * Distributed under the Boost Software License, Version 1.0.
- * See http://www.boost.org/LICENSE_1_0.txt
- *
- * This header is deprecated, use boost/winapi/stack_backtrace.hpp instead.
- */
-
-#ifndef BOOST_DETAIL_WINAPI_STACK_BACKTRACE_HPP_INCLUDED_
-#define BOOST_DETAIL_WINAPI_STACK_BACKTRACE_HPP_INCLUDED_
-
-#include <boost/config/header_deprecated.hpp>
-
-BOOST_HEADER_DEPRECATED("<boost/winapi/stack_backtrace.hpp>")
-
-#include <boost/winapi/stack_backtrace.hpp>
-#include <boost/detail/winapi/detail/deprecated_namespace.hpp>
-
-#ifdef BOOST_HAS_PRAGMA_ONCE
-#pragma once
-#endif
-
-#endif // BOOST_DETAIL_WINAPI_STACK_BACKTRACE_HPP_INCLUDED_
+version https://git-lfs.github.com/spec/v1
+oid sha256:67e27b24e420e00724a4370d262f4e121c5a87cca97e6288fc7abefd9e467d8b
+size 699

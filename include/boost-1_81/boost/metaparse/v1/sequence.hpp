@@ -1,18 +1,3 @@
-#ifndef BOOST_METAPARSE_V1_SEQUENCE_HPP
-#define BOOST_METAPARSE_V1_SEQUENCE_HPP
-
-// Copyright Abel Sinkovics (abel@sinkovics.hu)  2018.
-// Distributed under the Boost Software License, Version 1.0.
-//    (See accompanying file LICENSE_1_0.txt or copy at
-//          http://www.boost.org/LICENSE_1_0.txt)
-
-#include <boost/metaparse/config.hpp>
-
-#if BOOST_METAPARSE_STD >= 2011
-#  include <boost/metaparse/v1/cpp11/sequence.hpp>
-#else
-#  include <boost/metaparse/v1/cpp98/sequence.hpp>
-#endif
-
-#endif
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:ec2af393afc69c89d8730c80daba3b64949d741c0b29ab8fc6cc8f492a2e4ba1
+size 518

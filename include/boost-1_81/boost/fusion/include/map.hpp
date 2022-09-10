@@ -1,13 +1,3 @@
-/*=============================================================================
-    Copyright (c) 2001-2007 Joel de Guzman
-
-    Distributed under the Boost Software License, Version 1.0. (See accompanying
-    file LICENSE_1_0.txt or copy at http://www.boost.org/LICENSE_1_0.txt)
-==============================================================================*/
-#if !defined(FUSION_INCLUDE_MAP)
-#define FUSION_INCLUDE_MAP
-
-#include <boost/fusion/support/config.hpp>
-#include <boost/fusion/container/map.hpp>
-
-#endif
+version https://git-lfs.github.com/spec/v1
+oid sha256:3a59c9765504754428730f557cbc44f9f15ec0f70382b38a2c842356a8d5977d
+size 527

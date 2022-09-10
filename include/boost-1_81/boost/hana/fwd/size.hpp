@@ -1,33 +1,3 @@
-/*!
-@file
-Forward declares `boost::hana::size`.
-
-@copyright Louis Dionne 2013-2017
-Distributed under the Boost Software License, Version 1.0.
-(See accompanying file LICENSE.md or copy at http://boost.org/LICENSE_1_0.txt)
- */
-
-#ifndef BOOST_HANA_FWD_SIZE_HPP
-#define BOOST_HANA_FWD_SIZE_HPP
-
-#include <boost/hana/config.hpp>
-#include <boost/hana/fwd/length.hpp>
-
-
-namespace boost { namespace hana {
-    //! Equivalent to `length`; provided for consistency with the
-    //! standard library.
-    //! @ingroup group-Foldable
-    //!
-    //! This method is an alias to `length` provided for convenience and
-    //! consistency with the standard library. As an alias, `size` is not
-    //! tag-dispatched on its own and `length` should be customized instead.
-    //!
-    //!
-    //! Example
-    //! -------
-    //! @include example/size.cpp
-    BOOST_HANA_INLINE_VARIABLE constexpr auto size = hana::length;
-}} // end namespace boost::hana
-
-#endif // !BOOST_HANA_FWD_SIZE_HPP
+version https://git-lfs.github.com/spec/v1
+oid sha256:5c91b9da5745ea2840353ab346e4ed1d0c9f549ee1bb6252b9ff95e4f60d4541
+size 1004

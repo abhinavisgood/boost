@@ -1,22 +1,3 @@
-
-#ifndef BOOST_MPL_MODULUS_HPP_INCLUDED
-#define BOOST_MPL_MODULUS_HPP_INCLUDED
-
-// Copyright Aleksey Gurtovoy 2000-2004
-//
-// Distributed under the Boost Software License, Version 1.0. 
-// (See accompanying file LICENSE_1_0.txt or copy at 
-// http://www.boost.org/LICENSE_1_0.txt)
-//
-// See http://www.boost.org/libs/mpl for documentation.
-
-// $Id$
-// $Date$
-// $Revision$
-
-#define AUX778076_OP_NAME modulus
-#define AUX778076_OP_TOKEN %
-#define AUX778076_OP_ARITY 2
-#include <boost/mpl/aux_/arithmetic_op.hpp>
-
-#endif // BOOST_MPL_MODULUS_HPP_INCLUDED
+version https://git-lfs.github.com/spec/v1
+oid sha256:7829f1a8a91062f688617e5df13e9c5587c6a86190caa89776e80f4d5dc3c512
+size 574

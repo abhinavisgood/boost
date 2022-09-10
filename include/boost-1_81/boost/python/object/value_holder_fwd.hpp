@@ -1,16 +1,3 @@
-// Copyright David Abrahams 2002.
-// Distributed under the Boost Software License, Version 1.0. (See
-// accompanying file LICENSE_1_0.txt or copy at
-// http://www.boost.org/LICENSE_1_0.txt)
-#ifndef VALUE_HOLDER_FWD_DWA2002311_HPP
-# define VALUE_HOLDER_FWD_DWA2002311_HPP
-
-namespace boost { namespace python { namespace objects { 
-
-struct no_back_reference;
-
-template <class CallbackType = no_back_reference> struct value_holder_generator;
-
-}}} // namespace boost::python::object
-
-#endif // VALUE_HOLDER_FWD_DWA2002311_HPP
+version https://git-lfs.github.com/spec/v1
+oid sha256:c5cfd4d9100d69fd44b6b03041f63339b87e1e25124767de44f2ee3d22a08c89
+size 538

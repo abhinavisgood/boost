@@ -1,18 +1,3 @@
-/*=============================================================================
-    Copyright (c) 2001-2011 Joel de Guzman
-    Copyright (c) 2001-2011 Hartmut Kaiser
-    http://spirit.sourceforge.net/
-
-    Distributed under the Boost Software License, Version 1.0. (See accompanying
-    file LICENSE_1_0.txt or copy at http://www.boost.org/LICENSE_1_0.txt)
-=============================================================================*/
-#ifndef BOOST_SPIRIT_INCLUDE_QI_SEQUENCE
-#define BOOST_SPIRIT_INCLUDE_QI_SEQUENCE
-
-#if defined(_MSC_VER)
-#pragma once
-#endif
-
-#include <boost/spirit/home/qi/operator/sequence.hpp>
-
-#endif
+version https://git-lfs.github.com/spec/v1
+oid sha256:fb8a5196c841812411b67825be4accb7f9d9ab3d27982dcce0ad2d3aa840fb55
+size 643

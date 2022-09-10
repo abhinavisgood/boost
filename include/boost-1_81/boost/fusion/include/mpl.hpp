@@ -1,14 +1,3 @@
-/*=============================================================================
-    Copyright (c) 2001-2007 Joel de Guzman
-
-    Distributed under the Boost Software License, Version 1.0. (See accompanying
-    file LICENSE_1_0.txt or copy at http://www.boost.org/LICENSE_1_0.txt)
-==============================================================================*/
-#if !defined(FUSION_INCLUDE_MPL)
-#define FUSION_INCLUDE_MPL
-
-#include <boost/fusion/support/config.hpp>
-#include <boost/fusion/adapted/mpl.hpp>
-#include <boost/fusion/mpl.hpp>
-
-#endif
+version https://git-lfs.github.com/spec/v1
+oid sha256:9046ad63cc43a214dd8ec22a76b77ce1a7abb10aa1276d3ed4edf5713faf45f5
+size 558

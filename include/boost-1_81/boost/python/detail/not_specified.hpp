@@ -1,14 +1,3 @@
-// Copyright David Abrahams 2002.
-// Distributed under the Boost Software License, Version 1.0. (See
-// accompanying file LICENSE_1_0.txt or copy at
-// http://www.boost.org/LICENSE_1_0.txt)
-#ifndef NOT_SPECIFIED_DWA2002321_HPP
-# define NOT_SPECIFIED_DWA2002321_HPP
-
-namespace boost { namespace python { namespace detail { 
-
-  struct not_specified {};
-
-}}} // namespace boost::python::detail
-
-#endif // NOT_SPECIFIED_DWA2002321_HPP
+version https://git-lfs.github.com/spec/v1
+oid sha256:26156095382370e0bcfd3d8a7bb9ec80342dbda07f3a5b7471452bddaf1b6655
+size 445

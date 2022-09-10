@@ -1,15 +1,3 @@
-//  (C) Copyright Dave Abrahams, Steve Cleary, Beman Dawes, Howard
-//  Hinnant & John Maddock 2000.  
-//  Use, modification and distribution are subject to the Boost Software License,
-//  Version 1.0. (See accompanying file LICENSE_1_0.txt or copy at
-//  http://www.boost.org/LICENSE_1_0.txt).
-//
-//  See http://www.boost.org/libs/type_traits for most recent version including documentation.
-
-
-#ifndef BOOST_TT_ARRAY_TRAITS_HPP_INCLUDED
-#define BOOST_TT_ARRAY_TRAITS_HPP_INCLUDED
-
-#include <boost/type_traits/is_array.hpp>
-
-#endif // BOOST_TT_ARRAY_TRAITS_HPP_INCLUDED
+version https://git-lfs.github.com/spec/v1
+oid sha256:b2b3b38204aad2e96684cf3ddd6ba9c013c2742e866e731c61137bfdd7dd3f56
+size 584

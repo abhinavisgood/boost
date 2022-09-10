@@ -1,15 +1,3 @@
-#ifndef BOOST_QVM_OPERATIONS_HPP_INCLUDED
-#define BOOST_QVM_OPERATIONS_HPP_INCLUDED
-
-// Copyright 2008-2022 Emil Dotchevski and Reverge Studios, Inc.
-
-// Distributed under the Boost Software License, Version 1.0. (See accompanying
-// file LICENSE_1_0.txt or copy at http://www.boost.org/LICENSE_1_0.txt)
-
-#include <boost/qvm/quat_operations.hpp>
-#include <boost/qvm/vec_operations.hpp>
-#include <boost/qvm/mat_operations.hpp>
-#include <boost/qvm/quat_vec_operations.hpp>
-#include <boost/qvm/vec_mat_operations.hpp>
-
-#endif
+version https://git-lfs.github.com/spec/v1
+oid sha256:b69f97965e34f6bdaee8c3335366ce7756b7f9fedbbb3fdd952074735b5bc11b
+size 538

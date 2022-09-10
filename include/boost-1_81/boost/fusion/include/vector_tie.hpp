@@ -1,13 +1,3 @@
-/*=============================================================================
-    Copyright (c) 2001-2007 Joel de Guzman
-
-    Distributed under the Boost Software License, Version 1.0. (See accompanying
-    file LICENSE_1_0.txt or copy at http://www.boost.org/LICENSE_1_0.txt)
-==============================================================================*/
-#if !defined(FUSION_INCLUDE_VECTOR_TIE)
-#define FUSION_INCLUDE_VECTOR_TIE
-
-#include <boost/fusion/support/config.hpp>
-#include <boost/fusion/container/generation/vector_tie.hpp>
-
-#endif
+version https://git-lfs.github.com/spec/v1
+oid sha256:72ec64dcd1bad798ca4537e14f27c708fe6d129dc651ee6df42cec60d3be27e9
+size 559

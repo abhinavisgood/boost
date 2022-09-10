@@ -1,32 +1,3 @@
-/*==============================================================================
-    Copyright (c) 2005-2010 Joel de Guzman
-    Copyright (c) 2010 Thomas Heller
-
-    Distributed under the Boost Software License, Version 1.0. (See accompanying
-    file LICENSE_1_0.txt or copy at http://www.boost.org/LICENSE_1_0.txt)
-==============================================================================*/
-#ifndef BOOST_PHOENIX_OPERATOR_SELF_HPP
-#define BOOST_PHOENIX_OPERATOR_SELF_HPP
-
-#include <boost/phoenix/operator/detail/define_operator.hpp>
-#include <boost/phoenix/core/expression.hpp>
-#include <boost/proto/operators.hpp>
-
-namespace boost { namespace phoenix
-{
-    BOOST_PHOENIX_UNARY_OPERATORS(
-        (address_of)
-        (dereference)
-    )
-    BOOST_PHOENIX_BINARY_OPERATORS(
-        (assign)
-        (subscript)
-    )
-    
-    using proto::exprns_::operator&;
-    using proto::exprns_::operator*;
-}}
-
-#include <boost/phoenix/operator/detail/undef_operator.hpp>
-
-#endif
+version https://git-lfs.github.com/spec/v1
+oid sha256:f978db2e02b6e7d1e03bcf3ad6995fe8de132530aeb036526bfef67de46f429d
+size 1007

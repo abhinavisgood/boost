@@ -1,18 +1,3 @@
-#ifndef BOOST_METAPARSE_V1_ONE_CHAR_EXCEPT_C_HPP
-#define BOOST_METAPARSE_V1_ONE_CHAR_EXCEPT_C_HPP
-
-// Copyright Abel Sinkovics (abel@sinkovics.hu)  2017.
-// Distributed under the Boost Software License, Version 1.0.
-//    (See accompanying file LICENSE_1_0.txt or copy at
-//          http://www.boost.org/LICENSE_1_0.txt)
-
-#include <boost/metaparse/config.hpp>
-
-#if BOOST_METAPARSE_STD >= 2011
-#  include <boost/metaparse/v1/cpp11/one_char_except_c.hpp>
-#else
-#  include <boost/metaparse/v1/cpp98/one_char_except_c.hpp>
-#endif
-
-#endif
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:f8339bf4481faf076bd204d24554f44bbe33339a1881f4e61cb01f4a6ad1aa64
+size 554

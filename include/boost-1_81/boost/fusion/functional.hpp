@@ -1,18 +1,3 @@
-/*=============================================================================
-    Copyright (c) 2006-2007 Tobias Schwinger
-  
-    Use modification and distribution are subject to the Boost Software 
-    License, Version 1.0. (See accompanying file LICENSE_1_0.txt or copy at
-    http://www.boost.org/LICENSE_1_0.txt).
-==============================================================================*/
-
-#if !defined(BOOST_FUSION_FUNCTIONAL_HPP_INCLUDED)
-#define BOOST_FUSION_FUNCTIONAL_HPP_INCLUDED
-
-#include <boost/fusion/support/config.hpp>
-#include <boost/fusion/functional/invocation.hpp>
-#include <boost/fusion/functional/adapter.hpp>
-#include <boost/fusion/functional/generation.hpp>
-
-#endif
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:ef22eee0cefb3db68780d640a1168117671d185dbb095490965441aa93f6f579
+size 716

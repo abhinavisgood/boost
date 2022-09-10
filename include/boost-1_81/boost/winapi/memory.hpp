@@ -1,19 +1,3 @@
-/*
- * Copyright 2010 Vicente J. Botet Escriba
- * Copyright 2015 Andrey Semashev
- *
- * Distributed under the Boost Software License, Version 1.0.
- * See http://www.boost.org/LICENSE_1_0.txt
- */
-
-#ifndef BOOST_WINAPI_MEMORY_HPP_INCLUDED_
-#define BOOST_WINAPI_MEMORY_HPP_INCLUDED_
-
-#include <boost/winapi/heap_memory.hpp>
-#include <boost/winapi/local_memory.hpp>
-
-#ifdef BOOST_HAS_PRAGMA_ONCE
-#pragma once
-#endif
-
-#endif // BOOST_WINAPI_MEMORY_HPP_INCLUDED_
+version https://git-lfs.github.com/spec/v1
+oid sha256:841567585a412c6e2ce3a07eb8c215a8f7adc53064bc1da905dc4dbd6f8df7ee
+size 474

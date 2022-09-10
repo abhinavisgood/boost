@@ -1,20 +1,3 @@
-#ifndef BOOST_METAPARSE_REPEATED_ONE_OF1_HPP
-#define BOOST_METAPARSE_REPEATED_ONE_OF1_HPP
-
-// Copyright Abel Sinkovics (abel@sinkovics.hu)  2013.
-// Distributed under the Boost Software License, Version 1.0.
-//    (See accompanying file LICENSE_1_0.txt or copy at
-//          http://www.boost.org/LICENSE_1_0.txt)
-
-#include <boost/metaparse/v1/repeated_one_of1.hpp>
-
-namespace boost
-{
-  namespace metaparse
-  {
-    using v1::repeated_one_of1;
-  }
-}
-
-#endif
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:79e802ede821ba8f6f95e95d1bb6d13773f4001b27bc9b5f83305651351f5d2a
+size 478

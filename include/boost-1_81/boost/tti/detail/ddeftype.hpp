@@ -1,23 +1,3 @@
-
-//  (C) Copyright Edward Diener 2012
-//  Use, modification and distribution are subject to the Boost Software License,
-//  Version 1.0. (See accompanying file LICENSE_1_0.txt or copy at
-//  http://www.boost.org/LICENSE_1_0.txt).
-
-#if !defined(BOOST_TTI_DETAIL_DEFTYPE_HPP)
-#define BOOST_TTI_DETAIL_DEFTYPE_HPP
-
-namespace boost
-  {
-  namespace tti
-    {
-    namespace detail
-      {
-      struct deftype
-        {
-        };
-      }
-    }
-  }
-  
-#endif // BOOST_TTI_DETAIL_DEFTYPE_HPP
+version https://git-lfs.github.com/spec/v1
+oid sha256:9feca11a1554dc2f029a168cdabfceeb4a2465c4ea3ab74d03131a67a27dc1b3
+size 508

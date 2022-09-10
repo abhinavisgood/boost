@@ -1,20 +1,3 @@
-#ifndef BOOST_METAPARSE_FOLDR_START_WITH_PARSER_HPP
-#define BOOST_METAPARSE_FOLDR_START_WITH_PARSER_HPP
-
-// Copyright Abel Sinkovics (abel@sinkovics.hu)  2013.
-// Distributed under the Boost Software License, Version 1.0.
-//    (See accompanying file LICENSE_1_0.txt or copy at
-//          http://www.boost.org/LICENSE_1_0.txt)
-
-#include <boost/metaparse/v1/foldr_start_with_parser.hpp>
-
-namespace boost
-{
-  namespace metaparse
-  {
-    using v1::foldr_start_with_parser;
-  }
-}
-
-#endif
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:9a5f791aa49ba3d494b1e1944d124c70a888a77b038c0c4e09de9043ef14c0e4
+size 506

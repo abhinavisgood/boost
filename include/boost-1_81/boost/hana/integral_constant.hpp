@@ -1,15 +1,3 @@
-/*!
-@file
-Defines `boost::hana::integral_constant`.
-
-@copyright Louis Dionne 2013-2017
-Distributed under the Boost Software License, Version 1.0.
-(See accompanying file LICENSE.md or copy at http://boost.org/LICENSE_1_0.txt)
- */
-
-#ifndef BOOST_HANA_INTEGRAL_CONSTANT_HPP
-#define BOOST_HANA_INTEGRAL_CONSTANT_HPP
-
-#include <boost/hana/bool.hpp>
-
-#endif // !BOOST_HANA_INTEGRAL_CONSTANT_HPP
+version https://git-lfs.github.com/spec/v1
+oid sha256:09e55ce94bee8494a71c1e01494dab042858d773a0a26d9e48914202d54769c5
+size 404

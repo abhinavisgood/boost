@@ -1,36 +1,3 @@
-
-#ifndef BOOST_MPL_FIXED_C_HPP_INCLUDED
-#define BOOST_MPL_FIXED_C_HPP_INCLUDED
-
-// Copyright Aleksey Gurtovoy 2000-2004
-//
-// Distributed under the Boost Software License, Version 1.0. 
-// (See accompanying file LICENSE_1_0.txt or copy at 
-// http://www.boost.org/LICENSE_1_0.txt)
-//
-// See http://www.boost.org/libs/mpl for documentation.
-
-// $Id$
-// $Date$
-// $Revision$
-
-#include <boost/mpl/aux_/config/static_constant.hpp>
-
-namespace boost { namespace mpl {
-
-template<
-      long IntegerPart
-    , unsigned long FractionPart
-    >
-struct fixed_c
-{
-    BOOST_STATIC_CONSTANT(long, integer_part = IntegerPart);
-    BOOST_STATIC_CONSTANT(unsigned long, fraction_part = FractionPart);
-    typedef fixed_c<IntegerPart, FractionPart> type;
-    
-    fixed_c() {}
-};
-
-}}
-
-#endif // BOOST_MPL_FIXED_C_HPP_INCLUDED
+version https://git-lfs.github.com/spec/v1
+oid sha256:d5c94f9624cc5ec22b34e10ec8c9be40e21853335a625e1a2a1c86612754c2c4
+size 845

@@ -1,18 +1,3 @@
-#ifndef BOOST_METAPARSE_V1_FWD_STRING_HPP
-#define BOOST_METAPARSE_V1_FWD_STRING_HPP
-
-// Copyright Abel Sinkovics (abel@sinkovics.hu)  2017.
-// Distributed under the Boost Software License, Version 1.0.
-//    (See accompanying file LICENSE_1_0.txt or copy at
-//          http://www.boost.org/LICENSE_1_0.txt)
-
-#include <boost/metaparse/config.hpp>
-
-#if BOOST_METAPARSE_STD >= 2011
-#  include <boost/metaparse/v1/cpp11/fwd/string.hpp>
-#else
-#  include <boost/metaparse/v1/cpp98/fwd/string.hpp>
-#endif
-
-#endif
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:d6758e49db15eaee288be7c6eddc2ef2e4651e2dc1ac509e898a3871b7ba152f
+size 526

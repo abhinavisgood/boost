@@ -1,13 +1,3 @@
-/*=============================================================================
-    Copyright (c) 2001-2007 Joel de Guzman
-
-    Distributed under the Boost Software License, Version 1.0. (See accompanying
-    file LICENSE_1_0.txt or copy at http://www.boost.org/LICENSE_1_0.txt)
-==============================================================================*/
-#if !defined(FUSION_INCLUDE_TUPLE_TIE)
-#define FUSION_INCLUDE_TUPLE_TIE
-
-#include <boost/fusion/support/config.hpp>
-#include <boost/fusion/tuple/tuple_tie.hpp>
-
-#endif
+version https://git-lfs.github.com/spec/v1
+oid sha256:c88dbf6ea7fe1912a4f35fd5481c647192f8deb6c066809ff6ba6ef447cc40b9
+size 541

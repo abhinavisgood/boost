@@ -1,12 +1,3 @@
-/*=============================================================================
-  Copyright (c) 2001-2008 Joel de Guzman
-  Copyright (c) 2001-2008 Hartmut Kaiser
-  http://spirit.sourceforge.net/
-
-  Distributed under the Boost Software License, Version 1.0. (See accompanying
-  file LICENSE_1_0.txt or copy at http://www.boost.org/LICENSE_1_0.txt)
-=============================================================================*/
-#ifndef BOOST_SPIRIT_INCLUDE_CLASSIC_DEBUG
-#define BOOST_SPIRIT_INCLUDE_CLASSIC_DEBUG
-#include <boost/spirit/home/classic/debug.hpp>
-#endif
+version https://git-lfs.github.com/spec/v1
+oid sha256:3c36e67adc499d7d9708b3827f358498cdcfc54e7c50edbcb93366c5d9d7c4d4
+size 579

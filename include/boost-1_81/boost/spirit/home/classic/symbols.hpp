@@ -1,21 +1,3 @@
-/*=============================================================================
-    Copyright (c) 2001-2003 Joel de Guzman
-    http://spirit.sourceforge.net/
-
-  Distributed under the Boost Software License, Version 1.0. (See accompanying
-  file LICENSE_1_0.txt or copy at http://www.boost.org/LICENSE_1_0.txt)
-=============================================================================*/
-#if !defined(BOOST_SPIRIT_SYMBOLS_MAIN_HPP)
-#define BOOST_SPIRIT_SYMBOLS_MAIN_HPP
-
-#include <boost/spirit/home/classic/version.hpp>
-
-///////////////////////////////////////////////////////////////////////////////
-//
-//  Master header for Spirit.Symbols
-//
-///////////////////////////////////////////////////////////////////////////////
-
-#include <boost/spirit/home/classic/symbols/symbols.hpp>
-
-#endif // !defined(BOOST_SPIRIT_SYMBOLS_MAIN_HPP)
+version https://git-lfs.github.com/spec/v1
+oid sha256:e15c1e8e1e0d317b886d60f6fd57ac8dd5a5d8a1176eaa6e74bb31f06ac31a8d
+size 856

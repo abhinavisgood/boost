@@ -1,30 +1,3 @@
-/*
- *          Copyright Andrey Semashev 2007 - 2015.
- * Distributed under the Boost Software License, Version 1.0.
- *    (See accompanying file LICENSE_1_0.txt or copy at
- *          http://www.boost.org/LICENSE_1_0.txt)
- */
-
-BOOST_LOG_AUX_OVERLOAD(const&, const&)
-BOOST_LOG_AUX_OVERLOAD(&, const&)
-BOOST_LOG_AUX_OVERLOAD(const&, &)
-BOOST_LOG_AUX_OVERLOAD(&, &)
-
-#if !defined(BOOST_NO_CXX11_RVALUE_REFERENCES)
-
-BOOST_LOG_AUX_OVERLOAD(const&&, const&&)
-BOOST_LOG_AUX_OVERLOAD(&&, const&&)
-BOOST_LOG_AUX_OVERLOAD(const&&, &&)
-BOOST_LOG_AUX_OVERLOAD(&&, &&)
-
-BOOST_LOG_AUX_OVERLOAD(const&&, const&)
-BOOST_LOG_AUX_OVERLOAD(&&, const&)
-BOOST_LOG_AUX_OVERLOAD(const&&, &)
-BOOST_LOG_AUX_OVERLOAD(&&, &)
-
-BOOST_LOG_AUX_OVERLOAD(const&, const&&)
-BOOST_LOG_AUX_OVERLOAD(&, const&&)
-BOOST_LOG_AUX_OVERLOAD(const&, &&)
-BOOST_LOG_AUX_OVERLOAD(&, &&)
-
-#endif // !defined(BOOST_NO_CXX11_RVALUE_REFERENCES)
+version https://git-lfs.github.com/spec/v1
+oid sha256:c3faa720676e2a6090f25b360de817963cc0f33b296a708aee52330392190969
+size 922

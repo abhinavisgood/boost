@@ -1,18 +1,3 @@
-
-//  (C) Copyright Edward Diener 2015
-//  Use, modification and distribution are subject to the Boost Software License,
-//  Version 1.0. (See accompanying file LICENSE_1_0.txt or copy at
-//  http://www.boost.org/LICENSE_1_0.txt).
-
-#if !defined(BOOST_VMD_LIST_HPP)
-#define BOOST_VMD_LIST_HPP
-
-#include <boost/vmd/detail/setup.hpp>
-
-#if BOOST_PP_VARIADICS
-
-#include <boost/vmd/list/to_seq.hpp>
-#include <boost/vmd/list/to_tuple.hpp>
-
-#endif /* BOOST_PP_VARIADICS */
-#endif /* BOOST_VMD_LIST_HPP */
+version https://git-lfs.github.com/spec/v1
+oid sha256:acff28ede60626716f1603ca71536acd7dc61954e5e3a3b4f3f9f974cd0e37b8
+size 514

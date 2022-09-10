@@ -1,17 +1,3 @@
-
-// (C) Copyright Tobias Schwinger
-//
-// Use modification and distribution are subject to the boost Software License,
-// Version 1.0. (See http://www.boost.org/LICENSE_1_0.txt).
-
-//------------------------------------------------------------------------------
-
-// no include guards, this file is intended for multiple inclusions
-
-  struct BOOST_FT_cc_name
-  {
-    typedef detail::encode_bits<0,BOOST_FT_cc_id> bits;
-    typedef detail::constant<BOOST_FT_cc_mask> mask;
-  };
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:5f5d1fbdf82d8db13a38b4743b78a74b55935fa942d3bdad8437f820eaf6b711
+size 493

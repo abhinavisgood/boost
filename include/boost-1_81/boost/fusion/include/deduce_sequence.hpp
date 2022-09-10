@@ -1,13 +1,3 @@
-/*=============================================================================
-    Copyright (c) 2001-2007 Joel de Guzman
-
-    Distributed under the Boost Software License, Version 1.0. (See accompanying
-    file LICENSE_1_0.txt or copy at http://www.boost.org/LICENSE_1_0.txt)
-==============================================================================*/
-#if !defined(FUSION_INCLUDE_DEDUCE_SEQUENCE)
-#define FUSION_INCLUDE_DEDUCE_SEQUENCE
-
-#include <boost/fusion/support/config.hpp>
-#include <boost/fusion/support/deduce_sequence.hpp>
-
-#endif
+version https://git-lfs.github.com/spec/v1
+oid sha256:efae15464f6040a34ba34afbc470df1f15d0d74f115cb364734a173676e23c6b
+size 561

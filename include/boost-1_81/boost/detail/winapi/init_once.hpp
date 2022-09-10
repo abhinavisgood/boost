@@ -1,26 +1,3 @@
-/*
- * Copyright 2017 Andrey Semashev
- *
- * Distributed under the Boost Software License, Version 1.0.
- * See http://www.boost.org/LICENSE_1_0.txt
- *
- * This header is deprecated, use boost/winapi/init_once.hpp instead.
- */
-
-#ifndef BOOST_DETAIL_WINAPI_INIT_ONCE_HPP
-#define BOOST_DETAIL_WINAPI_INIT_ONCE_HPP
-
-#include <boost/config/header_deprecated.hpp>
-
-BOOST_HEADER_DEPRECATED("<boost/winapi/init_once.hpp>")
-
-#include <boost/winapi/init_once.hpp>
-#include <boost/detail/winapi/detail/deprecated_namespace.hpp>
-
-#ifdef BOOST_HAS_PRAGMA_ONCE
-#pragma once
-#endif
-
-#define BOOST_DETAIL_WINAPI_INIT_ONCE_STATIC_INIT BOOST_WINAPI_INIT_ONCE_STATIC_INIT
-
-#endif // BOOST_DETAIL_WINAPI_INIT_ONCE_HPP
+version https://git-lfs.github.com/spec/v1
+oid sha256:1fb93a560daa860128d54416a0be7e1ec50d4f05d3b397c3a6571054010fccf7
+size 721

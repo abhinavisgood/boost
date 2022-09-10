@@ -1,18 +1,3 @@
-//  Copyright (c) 2001-2011 Hartmut Kaiser
-//  Copyright (c) 2001-2011 Joel de Guzman
-//
-//  Distributed under the Boost Software License, Version 1.0. (See accompanying
-//  file LICENSE_1_0.txt or copy at http://www.boost.org/LICENSE_1_0.txt)
-
-#ifndef BOOST_SPIRIT_REPOSITORY_KARMA_HPP
-#define BOOST_SPIRIT_REPOSITORY_KARMA_HPP
-
-#if defined(_MSC_VER)
-#pragma once
-#endif
-
-#include <boost/spirit/repository/home/karma/directive.hpp>
-#include <boost/spirit/repository/home/karma/nonterminal.hpp>
-
-#endif
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:bf43aeaa6c596b5d7f9a0b7f85a68cd95378839db80e783590752f6c8d708748
+size 522

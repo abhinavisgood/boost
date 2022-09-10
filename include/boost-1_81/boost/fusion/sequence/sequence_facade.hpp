@@ -1,30 +1,3 @@
-/*=============================================================================
-    Copyright (c) 2001-2011 Joel de Guzman
-
-    Distributed under the Boost Software License, Version 1.0. (See accompanying
-    file LICENSE_1_0.txt or copy at http://www.boost.org/LICENSE_1_0.txt)
-==============================================================================*/
-#if !defined(FUSION_SEQUENCE_FACADE_09252006_1044)
-#define FUSION_SEQUENCE_FACADE_09252006_1044
-
-#include <boost/fusion/support/config.hpp>
-#include <boost/fusion/support/sequence_base.hpp>
-#include <boost/mpl/bool.hpp>
-
-namespace boost { namespace fusion
-{
-    struct sequence_facade_tag;
-
-    template <typename Derived, typename Category, typename IsView = mpl::false_>
-    struct sequence_facade : sequence_base<Derived>
-    {
-        typedef fusion_sequence_tag tag;
-        typedef sequence_facade_tag fusion_tag;
-        typedef Derived derived_type;
-        typedef Category category;
-        typedef IsView is_view;
-        typedef mpl::false_ is_segmented;
-    };
-}}
-
-#endif
+version https://git-lfs.github.com/spec/v1
+oid sha256:f48ef8480969020e87e7b0b44c746a7c99da5e8896f0954a8df22d4442ec8a74
+size 1075

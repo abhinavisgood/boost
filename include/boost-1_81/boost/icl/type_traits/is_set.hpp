@@ -1,26 +1,3 @@
-/*-----------------------------------------------------------------------------+    
-Copyright (c) 2008-2009: Joachim Faulhaber
-+------------------------------------------------------------------------------+
-   Distributed under the Boost Software License, Version 1.0.
-      (See accompanying file LICENCE.txt or copy at
-           http://www.boost.org/LICENSE_1_0.txt)
-+-----------------------------------------------------------------------------*/
-#ifndef BOOST_ICL_TYPE_TRAITS_IS_SET_HPP_JOFA_081004
-#define BOOST_ICL_TYPE_TRAITS_IS_SET_HPP_JOFA_081004
-
-#include <boost/config.hpp>
-#include <boost/icl/type_traits/is_container.hpp>
-
-namespace boost{ namespace icl
-{
-    template <class Type> struct is_set
-    { 
-        typedef is_set<Type> type;
-        BOOST_STATIC_CONSTANT(bool, value = is_std_set<Type>::value); 
-    };
-
-}} // namespace boost icl
-
-#endif
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:a1a44c3117337518e769c1454b3eac9952d83cbaf4fc8fb967fcc9cf8a415bcb
+size 895

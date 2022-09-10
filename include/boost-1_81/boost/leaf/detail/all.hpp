@@ -1,16 +1,3 @@
-// Copyright 2018-2022 Emil Dotchevski and Reverge Studios, Inc.
-
-// Distributed under the Boost Software License, Version 1.0. (See accompanying
-// file LICENSE_1_0.txt or copy at http://www.boost.org/LICENSE_1_0.txt)
-
-#include <boost/leaf/config.hpp>
-#include <boost/leaf/capture.hpp>
-#include <boost/leaf/common.hpp>
-#include <boost/leaf/context.hpp>
-#include <boost/leaf/error.hpp>
-#include <boost/leaf/exception.hpp>
-#include <boost/leaf/handle_errors.hpp>
-#include <boost/leaf/on_error.hpp>
-#include <boost/leaf/pred.hpp>
-#include <boost/leaf/result.hpp>
-#include <boost/leaf/to_variant.hpp>
+version https://git-lfs.github.com/spec/v1
+oid sha256:6fa1c1f9a55da34f894e08a8e8d799bae2266ab06f34c264e9094e4d2525582a
+size 614

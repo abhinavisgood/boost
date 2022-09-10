@@ -1,26 +1,3 @@
-// Copyright 2005 Alexander Nasonov.
-// Distributed under the Boost Software License, Version 1.0. (See
-// accompanying file LICENSE_1_0.txt or copy at
-// http://www.boost.org/LICENSE_1_0.txt)
-
-#ifndef FILE_boost_type_traits_promote_hpp_INCLUDED
-#define FILE_boost_type_traits_promote_hpp_INCLUDED
-
-#include <boost/config.hpp>
-#include <boost/type_traits/integral_promotion.hpp>
-#include <boost/type_traits/floating_point_promotion.hpp>
-
-namespace boost {
-
-template<class T> struct promote : public integral_promotion<typename floating_point_promotion<T>::type>{};
-
-#if !defined(BOOST_NO_CXX11_TEMPLATE_ALIASES)
-
-   template <class T> using promote_t = typename promote<T>::type;
-
-#endif
-
-}
-
-#endif // #ifndef FILE_boost_type_traits_promote_hpp_INCLUDED
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:927c0f6332b3e924294f1f7f3bc7d69c37c5ba97d0535790a0c8eebe87eee9f5
+size 781

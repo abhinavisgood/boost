@@ -1,13 +1,3 @@
-/*=============================================================================
-    Copyright (c) 2001-2007 Joel de Guzman
-
-    Distributed under the Boost Software License, Version 1.0. (See accompanying 
-    file LICENSE_1_0.txt or copy at http://www.boost.org/LICENSE_1_0.txt)
-==============================================================================*/
-#if !defined(FUSION_INCLUDE_JOINT_VIEW)
-#define FUSION_INCLUDE_JOINT_VIEW
-
-#include <boost/fusion/support/config.hpp>
-#include <boost/fusion/view/joint_view.hpp>
-
-#endif
+version https://git-lfs.github.com/spec/v1
+oid sha256:613c24dbb6b6b3b3a40b65b65726cf9ed4a74d4344897b06d9bf6b1a2d7e26fe
+size 544

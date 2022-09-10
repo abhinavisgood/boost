@@ -1,18 +1,3 @@
-/*=============================================================================
-    Copyright (c) 2001-2011 Joel de Guzman
-    Copyright (c) 2001-2011 Hartmut Kaiser
-    http://spirit.sourceforge.net/
-
-    Distributed under the Boost Software License, Version 1.0. (See accompanying
-    file LICENSE_1_0.txt or copy at http://www.boost.org/LICENSE_1_0.txt)
-=============================================================================*/
-#ifndef BOOST_SPIRIT_INCLUDE_QI_DIFFERENCE
-#define BOOST_SPIRIT_INCLUDE_QI_DIFFERENCE
-
-#if defined(_MSC_VER)
-#pragma once
-#endif
-
-#include <boost/spirit/home/qi/operator/difference.hpp>
-
-#endif
+version https://git-lfs.github.com/spec/v1
+oid sha256:d3941a458ae6b302c7daee7fe1dfc8a9460c10dd0d6520ccfa7330cbe1a340d6
+size 649

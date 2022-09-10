@@ -1,14 +1,3 @@
-//
-// Copyright 2008 Christian Henning
-//
-// Distributed under the Boost Software License, Version 1.0
-// See accompanying file LICENSE_1_0.txt or copy at
-// http://www.boost.org/LICENSE_1_0.txt
-//
-#ifndef BOOST_GIL_EXTENSION_IO_PNM_HPP
-#define BOOST_GIL_EXTENSION_IO_PNM_HPP
-
-#include <boost/gil/extension/io/pnm/read.hpp>
-#include <boost/gil/extension/io/pnm/write.hpp>
-
-#endif
+version https://git-lfs.github.com/spec/v1
+oid sha256:df6de460e0dfd24de60495382acb4807281cbda342dc3b0eab632071e808bd19
+size 394

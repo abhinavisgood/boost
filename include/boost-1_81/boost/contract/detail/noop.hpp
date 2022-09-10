@@ -1,19 +1,3 @@
-
-#ifndef BOOST_CONTRACT_DETAIL_NOOP_HPP_
-#define BOOST_CONTRACT_DETAIL_NOOP_HPP_
-
-// Copyright (C) 2008-2018 Lorenzo Caminiti
-// Distributed under the Boost Software License, Version 1.0 (see accompanying
-// file LICENSE_1_0.txt or a copy at http://www.boost.org/LICENSE_1_0.txt).
-// See: http://www.boost.org/doc/libs/release/libs/contract/doc/html/index.html
-
-// Following must be expressions, not statements (as used with if.., etc.).
-
-#define BOOST_CONTRACT_DETAIL_NOOP ((void)0)
-
-// Following always compiles but never evaluates cond (so check correct syntax).
-#define BOOST_CONTRACT_DETAIL_NOEVAL(cond) \
-    (true || (cond) ? BOOST_CONTRACT_DETAIL_NOOP : BOOST_CONTRACT_DETAIL_NOOP)
-
-#endif // #include guard
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:a249d1ed671b7681c1b8d499be5e9fdeb3474d0833029df4adb1d9e9f2fbdbb7
+size 736

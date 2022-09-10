@@ -1,14 +1,3 @@
-/*=============================================================================
-    Copyright (c) 2001-2007 Joel de Guzman
-
-    Distributed under the Boost Software License, Version 1.0. (See accompanying
-    file LICENSE_1_0.txt or copy at http://www.boost.org/LICENSE_1_0.txt)
-==============================================================================*/
-
-#ifndef BOOST_FUSION_INCLUDE_ADAPT_STRUCT_HPP
-#define BOOST_FUSION_INCLUDE_ADAPT_STRUCT_HPP
-
-#include <boost/fusion/support/config.hpp>
-#include <boost/fusion/adapted/struct/adapt_struct.hpp>
-
-#endif
+version https://git-lfs.github.com/spec/v1
+oid sha256:32cc7bf8205717b06bc47428080ca9438c74dbfac276842fc211a8cd70cb90eb
+size 575

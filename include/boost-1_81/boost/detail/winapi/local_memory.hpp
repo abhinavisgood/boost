@@ -1,24 +1,3 @@
-/*
- * Copyright 2017 Andrey Semashev
- *
- * Distributed under the Boost Software License, Version 1.0.
- * See http://www.boost.org/LICENSE_1_0.txt
- *
- * This header is deprecated, use boost/winapi/local_memory.hpp instead.
- */
-
-#ifndef BOOST_DETAIL_WINAPI_LOCAL_MEMORY_HPP
-#define BOOST_DETAIL_WINAPI_LOCAL_MEMORY_HPP
-
-#include <boost/config/header_deprecated.hpp>
-
-BOOST_HEADER_DEPRECATED("<boost/winapi/local_memory.hpp>")
-
-#include <boost/winapi/local_memory.hpp>
-#include <boost/detail/winapi/detail/deprecated_namespace.hpp>
-
-#ifdef BOOST_HAS_PRAGMA_ONCE
-#pragma once
-#endif
-
-#endif // BOOST_DETAIL_WINAPI_LOCAL_MEMORY_HPP
+version https://git-lfs.github.com/spec/v1
+oid sha256:74206751b0bc951fbe1da0c44f7f1b223b2dfc3eca318c395414fa846b30f59e
+size 651

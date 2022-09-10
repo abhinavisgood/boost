@@ -1,13 +1,3 @@
-/*=============================================================================
-    Copyright (c) 2001-2007 Joel de Guzman
-
-    Distributed under the Boost Software License, Version 1.0. (See accompanying
-    file LICENSE_1_0.txt or copy at http://www.boost.org/LICENSE_1_0.txt)
-==============================================================================*/
-#if !defined(FUSION_INCLUDE_ARRAY)
-#define FUSION_INCLUDE_ARRAY
-
-#include <boost/fusion/support/config.hpp>
-#include <boost/fusion/adapted/array.hpp>
-
-#endif
+version https://git-lfs.github.com/spec/v1
+oid sha256:e17a3a21d494d68bb05658e0319d1d67cf5c6f4e2863573db41f9dfe1ef8eb62
+size 531

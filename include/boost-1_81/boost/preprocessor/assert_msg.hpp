@@ -1,17 +1,3 @@
-# /* **************************************************************************
-#  *                                                                          *
-#  *     (C) Copyright Paul Mensonides 2002.
-#  *     Distributed under the Boost Software License, Version 1.0. (See
-#  *     accompanying file LICENSE_1_0.txt or copy at
-#  *     http://www.boost.org/LICENSE_1_0.txt)
-#  *                                                                          *
-#  ************************************************************************** */
-#
-# /* See http://www.boost.org for most recent version. */
-#
-# ifndef BOOST_PREPROCESSOR_ASSERT_MSG_HPP
-# define BOOST_PREPROCESSOR_ASSERT_MSG_HPP
-#
-# include <boost/preprocessor/debug/assert.hpp>
-#
-# endif
+version https://git-lfs.github.com/spec/v1
+oid sha256:97175ac79bf96c00f0eb1227b2dd7f0d0852ae7c6c09f66c366dc8ad2c1e4ca4
+size 765

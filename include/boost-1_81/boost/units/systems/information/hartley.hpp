@@ -1,33 +1,3 @@
-// Boost.Units - A C++ library for zero-overhead dimensional analysis and 
-// unit/quantity manipulation and conversion
-//
-// Copyright (C) 2014 Erik Erlandson
-//
-// Distributed under the Boost Software License, Version 1.0. (See
-// accompanying file LICENSE_1_0.txt or copy at
-// http://www.boost.org/LICENSE_1_0.txt)
-
-#ifndef BOOST_UNITS_SYSTEMS_INFORMATION_HARTLEY_HPP_INCLUDED
-#define BOOST_UNITS_SYSTEMS_INFORMATION_HARTLEY_HPP_INCLUDED
-
-#include <boost/units/systems/information/byte.hpp>
-#include <boost/units/base_units/information/hartley.hpp>
-
-namespace boost {
-namespace units { 
-namespace information {
-
-namespace hu {
-namespace hartley {
-typedef unit<information_dimension, make_system<hartley_base_unit>::type> info;
-} // namespace bit
-} // namespace hu
-
-BOOST_UNITS_STATIC_CONSTANT(hartley, hu::hartley::info);
-BOOST_UNITS_STATIC_CONSTANT(hartleys, hu::hartley::info);
-
-} // namespace information
-} // namespace units
-} // namespace boost
-
-#endif // BOOST_UNITS_SYSTEMS_INFORMATION_HARTLEY_HPP_INCLUDED
+version https://git-lfs.github.com/spec/v1
+oid sha256:cb060b01ac52c2ac1520a50f9dd825a701906533cd1264fa6df6d9c0bbfa76f3
+size 1051

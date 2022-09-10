@@ -1,28 +1,3 @@
-#ifndef BOOST_METAPARSE_V1_TOKEN_HPP
-#define BOOST_METAPARSE_V1_TOKEN_HPP
-
-// Copyright Abel Sinkovics (abel@sinkovics.hu)  2009 - 2010.
-// Distributed under the Boost Software License, Version 1.0.
-//    (See accompanying file LICENSE_1_0.txt or copy at
-//          http://www.boost.org/LICENSE_1_0.txt)
-
-#include <boost/metaparse/v1/space.hpp>
-#include <boost/metaparse/v1/repeated.hpp>
-#include <boost/metaparse/v1/first_of.hpp>
-
-#include <boost/mpl/void.hpp>
-
-namespace boost
-{
-  namespace metaparse
-  {
-    namespace v1
-    {
-      template <class P>
-      struct token : first_of<P, repeated<space> > {};
-    }
-  }
-}
-
-#endif
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:4fc77b6366090d18da5f5b01c34ac920e69946e72bae44ba6584fb251c49d8f7
+size 660

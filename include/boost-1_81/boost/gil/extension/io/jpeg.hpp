@@ -1,14 +1,3 @@
-//
-// Copyright 2007-2008 Christian Henning
-//
-// Distributed under the Boost Software License, Version 1.0
-// See accompanying file LICENSE_1_0.txt or copy at
-// http://www.boost.org/LICENSE_1_0.txt
-//
-#ifndef BOOST_GIL_EXTENSION_IO_JPEG_HPP
-#define BOOST_GIL_EXTENSION_IO_JPEG_HPP
-
-#include <boost/gil/extension/io/jpeg/read.hpp>
-#include <boost/gil/extension/io/jpeg/write.hpp>
-
-#endif
+version https://git-lfs.github.com/spec/v1
+oid sha256:0a375047fc5ed0bb6e251dbae693cde25a89fd3428f7d03a2f2b221e3a7e19ee
+size 403

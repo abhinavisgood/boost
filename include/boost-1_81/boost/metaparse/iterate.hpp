@@ -1,20 +1,3 @@
-#ifndef BOOST_METAPARSE_ITERATE_HPP
-#define BOOST_METAPARSE_ITERATE_HPP
-
-// Copyright Abel Sinkovics (abel@sinkovics.hu)  2013.
-// Distributed under the Boost Software License, Version 1.0.
-//    (See accompanying file LICENSE_1_0.txt or copy at
-//          http://www.boost.org/LICENSE_1_0.txt)
-
-#include <boost/metaparse/v1/iterate.hpp>
-
-namespace boost
-{
-  namespace metaparse
-  {
-    using v1::iterate;
-  }
-}
-
-#endif
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:cad7a0303ef1ff7eb9af4831ea0a5280dccfe12806a21b87eb655b48b2aa3ffd
+size 442

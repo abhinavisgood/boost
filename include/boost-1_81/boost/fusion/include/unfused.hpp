@@ -1,14 +1,3 @@
-/*=============================================================================
-    Copyright (c) 2010 Christopher Schmidt
-
-    Distributed under the Boost Software License, Version 1.0. (See accompanying
-    file LICENSE_1_0.txt or copy at http://www.boost.org/LICENSE_1_0.txt)
-==============================================================================*/
-
-#ifndef BOOST_FUSION_INCLUDE_UNFUSED_HPP
-#define BOOST_FUSION_INCLUDE_UNFUSED_HPP
-
-#include <boost/fusion/support/config.hpp>
-#include <boost/fusion/functional/adapter/unfused.hpp>
-
-#endif
+version https://git-lfs.github.com/spec/v1
+oid sha256:3538685da1bc3005aab87cb22f08c41aa842fb4d08183a2353e15127a9305dbe
+size 564

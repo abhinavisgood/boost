@@ -1,14 +1,3 @@
-#ifndef BOOST_QVM_VEC_REGISTER_HPP_INCLUDED
-#define BOOST_QVM_VEC_REGISTER_HPP_INCLUDED
-
-// Copyright 2008-2022 Emil Dotchevski and Reverge Studios, Inc.
-// Copyright 2018 agate-pris
-
-// Distributed under the Boost Software License, Version 1.0. (See accompanying
-// file LICENSE_1_0.txt or copy at http://www.boost.org/LICENSE_1_0.txt)
-
-#include <boost/qvm/vec_register2.hpp>
-#include <boost/qvm/vec_register3.hpp>
-#include <boost/qvm/vec_register4.hpp>
-
-#endif
+version https://git-lfs.github.com/spec/v1
+oid sha256:cc7db8868fe7929a8352eb85c329c46f2314859f9782f89a249c8f694652ca96
+size 477

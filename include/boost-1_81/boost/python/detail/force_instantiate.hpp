@@ -1,18 +1,3 @@
-// Copyright David Abrahams 2002.
-// Distributed under the Boost Software License, Version 1.0. (See
-// accompanying file LICENSE_1_0.txt or copy at
-// http://www.boost.org/LICENSE_1_0.txt)
-#ifndef FORCE_INSTANTIATE_DWA200265_HPP
-# define FORCE_INSTANTIATE_DWA200265_HPP
-
-namespace boost { namespace python { namespace detail { 
-
-// Allows us to force the argument to be instantiated without
-// incurring unused variable warnings
-
-template <class T>
-inline void force_instantiate(T const&) {}
-
-}}} // namespace boost::python::detail
-
-#endif // FORCE_INSTANTIATE_DWA200265_HPP
+version https://git-lfs.github.com/spec/v1
+oid sha256:6c0b7f41839c76af80551a090b66d5d73fd2dc1936bda643191fc1023acf307f
+size 594

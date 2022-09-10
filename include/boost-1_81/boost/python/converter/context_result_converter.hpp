@@ -1,17 +1,3 @@
-// Copyright David Abrahams 2003.
-// Distributed under the Boost Software License, Version 1.0. (See
-// accompanying file LICENSE_1_0.txt or copy at
-// http://www.boost.org/LICENSE_1_0.txt)
-#ifndef CONTEXT_RESULT_CONVERTER_DWA2003917_HPP
-# define CONTEXT_RESULT_CONVERTER_DWA2003917_HPP
-
-namespace boost { namespace python { namespace converter { 
-
-// A ResultConverter base class used to indicate that this result
-// converter should be constructed with the original Python argument
-// list.
-struct context_result_converter {};
-
-}}} // namespace boost::python::converter
-
-#endif // CONTEXT_RESULT_CONVERTER_DWA2003917_HPP
+version https://git-lfs.github.com/spec/v1
+oid sha256:6c17d8e7661a8aeb8667936e16c8b5053577d0ad640284756940a03ede26624a
+size 640

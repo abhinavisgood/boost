@@ -1,24 +1,3 @@
-/*
- * Copyright 2017 Andrey Semashev
- *
- * Distributed under the Boost Software License, Version 1.0.
- * See http://www.boost.org/LICENSE_1_0.txt
- *
- * This header is deprecated, use boost/winapi/file_management.hpp instead.
- */
-
-#ifndef BOOST_DETAIL_WINAPI_FILE_MANAGEMENT_HPP
-#define BOOST_DETAIL_WINAPI_FILE_MANAGEMENT_HPP
-
-#include <boost/config/header_deprecated.hpp>
-
-BOOST_HEADER_DEPRECATED("<boost/winapi/file_management.hpp>")
-
-#include <boost/winapi/file_management.hpp>
-#include <boost/detail/winapi/detail/deprecated_namespace.hpp>
-
-#ifdef BOOST_HAS_PRAGMA_ONCE
-#pragma once
-#endif
-
-#endif // BOOST_DETAIL_WINAPI_FILE_MANAGEMENT_HPP
+version https://git-lfs.github.com/spec/v1
+oid sha256:22a55239ad72f2da31c911c0de8f25eda20e3c42b86fda1705e186803da47109
+size 669

@@ -1,13 +1,3 @@
-/*=============================================================================
-    Copyright (c) 2001-2007 Joel de Guzman
-
-    Distributed under the Boost Software License, Version 1.0. (See accompanying
-    file LICENSE_1_0.txt or copy at http://www.boost.org/LICENSE_1_0.txt)
-==============================================================================*/
-#if !defined(FUSION_INCLUDE_IS_ITERATOR)
-#define FUSION_INCLUDE_IS_ITERATOR
-
-#include <boost/fusion/support/config.hpp>
-#include <boost/fusion/support/is_iterator.hpp>
-
-#endif
+version https://git-lfs.github.com/spec/v1
+oid sha256:dbc7a7faca184488ddc8724785a3d12173616c74d8ee797d83bcf6565a89ea8f
+size 549

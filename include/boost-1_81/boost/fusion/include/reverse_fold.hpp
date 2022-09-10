@@ -1,14 +1,3 @@
-/*=============================================================================
-    Copyright (c) 2010 Christopher Schmidt
-
-    Distributed under the Boost Software License, Version 1.0. (See accompanying
-    file LICENSE_1_0.txt or copy at http://www.boost.org/LICENSE_1_0.txt)
-==============================================================================*/
-
-#ifndef BOOST_FUSION_INCLUDE_REVERSE_FOLD_HPP
-#define BOOST_FUSION_INCLUDE_REVERSE_FOLD_HPP
-
-#include <boost/fusion/support/config.hpp>
-#include <boost/fusion/algorithm/iteration/reverse_fold.hpp>
-
-#endif
+version https://git-lfs.github.com/spec/v1
+oid sha256:cd32691e9f2abda5722d56b9b9d3610b7c965777fe7330627ccf4403738e3ce3
+size 580

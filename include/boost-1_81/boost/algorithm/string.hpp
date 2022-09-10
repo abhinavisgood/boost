@@ -1,31 +1,3 @@
-//  Boost string_algo library string_algo.hpp header file  ---------------------------//
-
-//  Copyright Pavol Droba 2002-2004.
-//
-// Distributed under the Boost Software License, Version 1.0.
-//    (See accompanying file LICENSE_1_0.txt or copy at
-//          http://www.boost.org/LICENSE_1_0.txt)
-
-//  See http://www.boost.org/ for updates, documentation, and revision history.
-
-#ifndef BOOST_STRING_ALGO_HPP
-#define BOOST_STRING_ALGO_HPP
-
-/*! \file
-    Cumulative include for string_algo library
-*/
-
-#include <boost/algorithm/string/std_containers_traits.hpp>
-#include <boost/algorithm/string/trim.hpp>
-#include <boost/algorithm/string/case_conv.hpp>
-#include <boost/algorithm/string/predicate.hpp>
-#include <boost/algorithm/string/find.hpp>
-#include <boost/algorithm/string/split.hpp>
-#include <boost/algorithm/string/join.hpp>
-#include <boost/algorithm/string/replace.hpp>
-#include <boost/algorithm/string/erase.hpp>
-#include <boost/algorithm/string/classification.hpp>
-#include <boost/algorithm/string/find_iterator.hpp>
-
-
-#endif  // BOOST_STRING_ALGO_HPP
+version https://git-lfs.github.com/spec/v1
+oid sha256:2b89cb7dc26ffc0f524a7db9fd3ad92d7c8ce82eb20738cc588de943733bc2fb
+size 1092

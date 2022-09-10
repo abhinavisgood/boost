@@ -1,17 +1,3 @@
-/*=============================================================================
-    Copyright (c) 2001-2011 Joel de Guzman
-
-    Distributed under the Boost Software License, Version 1.0. (See accompanying
-    file LICENSE_1_0.txt or copy at http://www.boost.org/LICENSE_1_0.txt)
-==============================================================================*/
-#if !defined(FUSION_SEQUENCE_CLASS_LIST_10022005_0605)
-#define FUSION_SEQUENCE_CLASS_LIST_10022005_0605
-
-#include <boost/fusion/support/config.hpp>
-#include <boost/fusion/container/list/cons.hpp>
-#include <boost/fusion/container/list/cons_iterator.hpp>
-#include <boost/fusion/container/list/list.hpp>
-#include <boost/fusion/container/list/list_fwd.hpp>
-#include <boost/fusion/container/list/convert.hpp>
-
-#endif
+version https://git-lfs.github.com/spec/v1
+oid sha256:8acd9abf9bc3586f4f187eddeaf9b51306bb9ba71a7179c27f9074398b97ae47
+size 789

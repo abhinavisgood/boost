@@ -1,12 +1,3 @@
-/*=============================================================================
-  Copyright (c) 2001-2008 Joel de Guzman
-  Copyright (c) 2001-2008 Hartmut Kaiser
-  http://spirit.sourceforge.net/
-
-  Distributed under the Boost Software License, Version 1.0. (See accompanying
-  file LICENSE_1_0.txt or copy at http://www.boost.org/LICENSE_1_0.txt)
-=============================================================================*/
-#ifndef BOOST_SPIRIT_INCLUDE_CLASSIC_LOOPS
-#define BOOST_SPIRIT_INCLUDE_CLASSIC_LOOPS
-#include <boost/spirit/home/classic/utility/loops.hpp>
-#endif
+version https://git-lfs.github.com/spec/v1
+oid sha256:64dad20b262adcf068f2e1376ecf17a2bb7a60ac4595b1856f42918e145b13ca
+size 587

@@ -1,18 +1,3 @@
-/*=============================================================================
-    Copyright (c) 2001-2011 Joel de Guzman
-    Copyright (c) 2001-2011 Hartmut Kaiser
-    http://spirit.sourceforge.net/
-
-    Distributed under the Boost Software License, Version 1.0. (See accompanying
-    file LICENSE_1_0.txt or copy at http://www.boost.org/LICENSE_1_0.txt)
-=============================================================================*/
-#ifndef BOOST_SPIRIT_INCLUDE_SUPPORT_ANY_IF_NS_SO
-#define BOOST_SPIRIT_INCLUDE_SUPPORT_ANY_IF_NS_SO
-
-#if defined(_MSC_VER)
-#pragma once
-#endif
-
-#include <boost/spirit/home/support/algorithm/any_if_ns_so.hpp>
-
-#endif
+version https://git-lfs.github.com/spec/v1
+oid sha256:fd0c3728ce103e84de15d952b9422381b76a266c744c1f5fc33d495372ce4995
+size 671

@@ -1,24 +1,3 @@
-/*=============================================================================
-    Copyright (c) 2009 Christopher Schmidt
-
-    Distributed under the Boost Software License, Version 1.0. (See accompanying
-    file LICENSE_1_0.txt or copy at http://www.boost.org/LICENSE_1_0.txt)
-==============================================================================*/
-
-#ifndef BOOST_FUSION_CONTAINER_SET_DETAIL_VALUE_OF_DATA_IMPL_HPP
-#define BOOST_FUSION_CONTAINER_SET_DETAIL_VALUE_OF_DATA_IMPL_HPP
-
-#include <boost/fusion/support/config.hpp>
-
-namespace boost { namespace fusion { namespace extension
-{
-    template <typename>
-    struct value_of_data_impl;
-
-    template <>
-    struct value_of_data_impl<set_iterator_tag>
-      : value_of_impl<set_iterator_tag>
-    {};
-}}}
-
-#endif
+version https://git-lfs.github.com/spec/v1
+oid sha256:bd5c5a88c85cf6d2c15f41d1f2ce75a375bee9993aff3cfeea0eb7d57a8e6f63
+size 799

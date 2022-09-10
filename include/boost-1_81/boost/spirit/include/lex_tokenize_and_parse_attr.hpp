@@ -1,18 +1,3 @@
-/*=============================================================================
-    Copyright (c) 2001-2010 Joel de Guzman
-    Copyright (c) 2001-2010 Hartmut Kaiser
-    http://spirit.sourceforge.net/
-
-    Distributed under the Boost Software License, Version 1.0. (See accompanying
-    file LICENSE_1_0.txt or copy at http://www.boost.org/LICENSE_1_0.txt)
-=============================================================================*/
-#ifndef BOOST_SPIRIT_INCLUDE_LEX_TOKENIZE_AND_PARSE_ATTR
-#define BOOST_SPIRIT_INCLUDE_LEX_TOKENIZE_AND_PARSE_ATTR
-
-#if defined(_MSC_VER)
-#pragma once
-#endif
-
-#include <boost/spirit/home/lex/tokenize_and_parse_attr.hpp>
-
-#endif
+version https://git-lfs.github.com/spec/v1
+oid sha256:c18663271316d842c0cdd3ff9eecc7486f2367dce083d8d9de95252bc076fa1e
+size 682

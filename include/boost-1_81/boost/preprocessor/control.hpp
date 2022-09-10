@@ -1,22 +1,3 @@
-# /* **************************************************************************
-#  *                                                                          *
-#  *     (C) Copyright Paul Mensonides 2002.
-#  *     Distributed under the Boost Software License, Version 1.0. (See
-#  *     accompanying file LICENSE_1_0.txt or copy at
-#  *     http://www.boost.org/LICENSE_1_0.txt)
-#  *                                                                          *
-#  ************************************************************************** */
-#
-# /* See http://www.boost.org for most recent version. */
-#
-# ifndef BOOST_PREPROCESSOR_CONTROL_HPP
-# define BOOST_PREPROCESSOR_CONTROL_HPP
-#
-# include <boost/preprocessor/control/deduce_d.hpp>
-# include <boost/preprocessor/control/expr_if.hpp>
-# include <boost/preprocessor/control/expr_iif.hpp>
-# include <boost/preprocessor/control/if.hpp>
-# include <boost/preprocessor/control/iif.hpp>
-# include <boost/preprocessor/control/while.hpp>
-#
-# endif
+version https://git-lfs.github.com/spec/v1
+oid sha256:4a16c8ebff3097214c33aac6ac73b5cf8c685ff2b73d232f904babbdff2d41c0
+size 1013

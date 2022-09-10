@@ -1,17 +1,3 @@
-/*=============================================================================
-    Copyright (c) 2001-2011 Hartmut Kaiser
-
-    Distributed under the Boost Software License, Version 1.0. (See accompanying
-    file LICENSE_1_0.txt or copy at http://www.boost.org/LICENSE_1_0.txt)
-==============================================================================*/
-
-#if !defined(BOOST_SPIRIT_STREAM_MAY_05_2007_1227PM)
-#define BOOST_SPIRIT_STREAM_MAY_05_2007_1227PM
-
-#if defined(_MSC_VER)
-#pragma once
-#endif
-
-#include <boost/spirit/home/qi/stream/stream.hpp>
-
-#endif
+version https://git-lfs.github.com/spec/v1
+oid sha256:d7851536d7091bb47ee8052c7ed727ed5c046ff01f48b126557a2a32863b7c3c
+size 580

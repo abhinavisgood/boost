@@ -1,22 +1,3 @@
-/*=============================================================================
-    Copyright (c) 2009-2010 Christopher Schmidt
-
-    Distributed under the Boost Software License, Version 1.0. (See accompanying
-    file LICENSE_1_0.txt or copy at http://www.boost.org/LICENSE_1_0.txt)
-==============================================================================*/
-
-#ifndef BOOST_FUSION_ADAPTED_STRUCT_DETAIL_VALUE_OF_DATA_IMPL_HPP
-#define BOOST_FUSION_ADAPTED_STRUCT_DETAIL_VALUE_OF_DATA_IMPL_HPP
-
-namespace boost { namespace fusion { namespace extension
-{
-    template <typename>
-    struct value_of_data_impl;
-
-    template <>
-    struct value_of_data_impl<struct_iterator_tag>
-      : value_of_impl<struct_iterator_tag>
-    {};
-}}}
-
-#endif
+version https://git-lfs.github.com/spec/v1
+oid sha256:e4c43f03f3b54b9e26d24a9b12b4b0921dde05c52f4c42eac39f3a3aeb861c7c
+size 766

@@ -1,20 +1,3 @@
-#ifndef BOOST_METAPARSE_LAST_OF_HPP
-#define BOOST_METAPARSE_LAST_OF_HPP
-
-// Copyright Abel Sinkovics (abel@sinkovics.hu)  2013.
-// Distributed under the Boost Software License, Version 1.0.
-//    (See accompanying file LICENSE_1_0.txt or copy at
-//          http://www.boost.org/LICENSE_1_0.txt)
-
-#include <boost/metaparse/v1/last_of.hpp>
-
-namespace boost
-{
-  namespace metaparse
-  {
-    using v1::last_of;
-  }
-}
-
-#endif
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:ebc0e4963574262fc3569ffb7f636aeae06522ba5d04c4d5f1ca8779a7c879fe
+size 442

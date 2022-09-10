@@ -1,12 +1,3 @@
-/*=============================================================================
-    Copyright (c) 2014 Kohei Takahashi
-    Distributed under the Boost Software License, Version 1.0. (See accompanying
-    file LICENSE_1_0.txt or copy at http://www.boost.org/LICENSE_1_0.txt)
-==============================================================================*/
-#ifndef FUSION_INCLUDE_STD_TUPLE
-#define FUSION_INCLUDE_STD_TUPLE
-
-#include <boost/fusion/support/config.hpp>
-#include <boost/fusion/adapted/std_tuple.hpp>
-
-#endif
+version https://git-lfs.github.com/spec/v1
+oid sha256:7f824a763ed0a4fc4440f00f66a22a77f74f6d7ee0f375afcf3e654ab0dbfd3c
+size 531

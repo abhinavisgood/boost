@@ -1,13 +1,3 @@
-/*=============================================================================
-    Copyright (c) 2001-2007 Joel de Guzman
-
-    Distributed under the Boost Software License, Version 1.0. (See accompanying
-    file LICENSE_1_0.txt or copy at http://www.boost.org/LICENSE_1_0.txt)
-==============================================================================*/
-#if !defined(FUSION_INCLUDE_INSERT_RANGE)
-#define FUSION_INCLUDE_INSERT_RANGE
-
-#include <boost/fusion/support/config.hpp>
-#include <boost/fusion/algorithm/transformation/insert_range.hpp>
-
-#endif
+version https://git-lfs.github.com/spec/v1
+oid sha256:028db1f20f3ba3a4e001252a34721f8715d035c724c1ef2a9c703b445a70dd88
+size 569

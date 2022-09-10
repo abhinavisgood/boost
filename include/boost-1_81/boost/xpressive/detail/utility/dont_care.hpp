@@ -1,25 +1,3 @@
-///////////////////////////////////////////////////////////////////////////////
-// dont_care.hpp
-//
-//  Copyright 2008 Eric Niebler. Distributed under the Boost
-//  Software License, Version 1.0. (See accompanying file
-//  LICENSE_1_0.txt or copy at http://www.boost.org/LICENSE_1_0.txt)
-
-#ifndef BOOST_XPRESSIVE_DETAIL_UTILITY_DONT_CARE_HPP_EAN_10_04_2005
-#define BOOST_XPRESSIVE_DETAIL_UTILITY_DONT_CARE_HPP_EAN_10_04_2005
-
-namespace boost { namespace xpressive { namespace detail
-{
-    ///////////////////////////////////////////////////////////////////////////////
-    // for function arguments we don't care about
-    struct dont_care
-    {
-        dont_care() {}
-
-        template<typename T>
-        dont_care(T const &) {}
-    };
-
-}}}
-
-#endif
+version https://git-lfs.github.com/spec/v1
+oid sha256:d46447e9701d15830833af4a12d5ce004c0bc5c178a80f8bce4b7a65b0bb5991
+size 776

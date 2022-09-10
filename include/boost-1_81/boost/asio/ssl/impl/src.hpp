@@ -1,29 +1,3 @@
-//
-// impl/ssl/src.hpp
-// ~~~~~~~~~~~~~~~~
-//
-// Copyright (c) 2003-2022 Christopher M. Kohlhoff (chris at kohlhoff dot com)
-//
-// Distributed under the Boost Software License, Version 1.0. (See accompanying
-// file LICENSE_1_0.txt or copy at http://www.boost.org/LICENSE_1_0.txt)
-//
-
-#ifndef BOOST_ASIO_SSL_IMPL_SRC_HPP
-#define BOOST_ASIO_SSL_IMPL_SRC_HPP
-
-#define BOOST_ASIO_SOURCE
-
-#include <boost/asio/detail/config.hpp>
-
-#if defined(BOOST_ASIO_HEADER_ONLY)
-# error Do not compile Asio library source with BOOST_ASIO_HEADER_ONLY defined
-#endif
-
-#include <boost/asio/ssl/impl/context.ipp>
-#include <boost/asio/ssl/impl/error.ipp>
-#include <boost/asio/ssl/detail/impl/engine.ipp>
-#include <boost/asio/ssl/detail/impl/openssl_init.ipp>
-#include <boost/asio/ssl/impl/host_name_verification.ipp>
-#include <boost/asio/ssl/impl/rfc2818_verification.ipp>
-
-#endif // BOOST_ASIO_SSL_IMPL_SRC_HPP
+version https://git-lfs.github.com/spec/v1
+oid sha256:a1445570f72d55cfc2a7e19f2b9401feacc17e64d26877e7f63f9832b476c703
+size 919

@@ -1,17 +1,3 @@
-/*
- * Copyright (c) 2014 Glen Fernandes
- *
- * Distributed under the Boost Software License, Version 1.0. (See
- * accompanying file LICENSE_1_0.txt or copy at
- * http://www.boost.org/LICENSE_1_0.txt)
- */
-
-#ifndef BOOST_DETAIL_LIGHTWEIGHT_TEST_HPP
-#define BOOST_DETAIL_LIGHTWEIGHT_TEST_HPP
-
-// The header file at this path is deprecated;
-// use boost/core/lightweight_test.hpp instead.
-
-#include <boost/core/lightweight_test.hpp>
-
-#endif
+version https://git-lfs.github.com/spec/v1
+oid sha256:9e61d50c38292b926f882c90e5e8389ef4c2b750560f4c8e6f9965887264979f
+size 453

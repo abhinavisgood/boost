@@ -1,24 +1,3 @@
-/*
- * Copyright 2017 Andrey Semashev
- *
- * Distributed under the Boost Software License, Version 1.0.
- * See http://www.boost.org/LICENSE_1_0.txt
- *
- * This header is deprecated, use boost/winapi/apc.hpp instead.
- */
-
-#ifndef BOOST_DETAIL_WINAPI_APC_HPP
-#define BOOST_DETAIL_WINAPI_APC_HPP
-
-#include <boost/config/header_deprecated.hpp>
-
-BOOST_HEADER_DEPRECATED("<boost/winapi/apc.hpp>")
-
-#include <boost/winapi/apc.hpp>
-#include <boost/detail/winapi/detail/deprecated_namespace.hpp>
-
-#ifdef BOOST_HAS_PRAGMA_ONCE
-#pragma once
-#endif
-
-#endif // BOOST_DETAIL_WINAPI_APC_HPP
+version https://git-lfs.github.com/spec/v1
+oid sha256:5e999be683b6ad0452ead3b3beb09f680daf6b21171b138cd1ff3049ec23ac7d
+size 597

@@ -1,10 +1,3 @@
-// Copyright David Abrahams 2006. Distributed under the Boost
-// Software License, Version 1.0. (See accompanying
-// file LICENSE_1_0.txt or copy at http://www.boost.org/LICENSE_1_0.txt)
-#ifndef BOOST_DETAIL_FUNCTION3_DWA2006514_HPP
-# define BOOST_DETAIL_FUNCTION3_DWA2006514_HPP
-
-# define args (3)
-# include <boost/accumulators/numeric/detail/function_n.hpp>
-
-#endif // BOOST_DETAIL_FUNCTION3_DWA2006514_HPP
+version https://git-lfs.github.com/spec/v1
+oid sha256:8d86615b70b3cbc85bbdf7bd10c09679c68042d122cb79d311e88622c4456d6e
+size 419

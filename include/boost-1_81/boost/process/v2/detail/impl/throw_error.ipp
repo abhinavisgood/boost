@@ -1,31 +1,3 @@
-// Copyright (c) 2022 Klemens D. Morgenstern
-//
-// Distributed under the Boost Software License, Version 1.0. (See accompanying
-// file LICENSE_1_0.txt or copy at http://www.boost.org/LICENSE_1_0.txt)
-#ifndef BOOST_PROCESS_V2_DETAIL_IMPL_THROW_ERROR_IPP
-#define BOOST_PROCESS_V2_DETAIL_IMPL_THROW_ERROR_IPP
-
-#include <boost/process/v2/detail/config.hpp>
-#include <boost/process/v2/detail/throw_error.hpp>
-#include <boost/process/v2/detail/throw_exception.hpp>
-
-BOOST_PROCESS_V2_BEGIN_NAMESPACE
-namespace detail
-{
-
-void do_throw_error(const error_code& err)
-{
-    system_error e(err);
-    throw_exception(e);
-}
-
-void do_throw_error(const error_code& err, const char* location)
-{
-    system_error e(err, location);
-    throw_exception(e);
-}
-
-}
-BOOST_PROCESS_V2_END_NAMESPACE
-
-#endif //BOOST_PROCESS_V2_DETAIL_IMPL_THROW_ERROR_IPP
+version https://git-lfs.github.com/spec/v1
+oid sha256:4c9f926b859ea87f1e8fa587e9b070bd478ec80a4cbf8c6074e7d62e1d2bc16f
+size 859

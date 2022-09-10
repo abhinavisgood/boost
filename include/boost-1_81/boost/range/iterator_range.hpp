@@ -1,16 +1,3 @@
-// Boost.Range library
-//
-//  Copyright Neil Groves 2009.
-//  Use, modification and distribution is subject to the Boost Software
-//  License, Version 1.0. (See accompanying file LICENSE_1_0.txt or copy at
-//  http://www.boost.org/LICENSE_1_0.txt)
-//
-// For more information, see http://www.boost.org/libs/range/
-//
-#ifndef BOOST_RANGE_ITERATOR_RANGE_HPP_INCLUDED
-#define BOOST_RANGE_ITERATOR_RANGE_HPP_INCLUDED
-
-#include "boost/range/iterator_range_core.hpp"
-#include "boost/range/iterator_range_io.hpp"
-
-#endif // include guard
+version https://git-lfs.github.com/spec/v1
+oid sha256:14f87ddc239c229c6083a30553534dc73bc5a37f3cd30361e8f262b20627aa3e
+size 546

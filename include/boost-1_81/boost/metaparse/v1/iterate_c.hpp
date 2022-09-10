@@ -1,26 +1,3 @@
-#ifndef BOOST_METAPARSE_V1_ITERATE_C_HPP
-#define BOOST_METAPARSE_V1_ITERATE_C_HPP
-
-// Copyright Abel Sinkovics (abel@sinkovics.hu)  2011.
-// Distributed under the Boost Software License, Version 1.0.
-//    (See accompanying file LICENSE_1_0.txt or copy at
-//          http://www.boost.org/LICENSE_1_0.txt)
-
-#include <boost/metaparse/v1/impl/iterate_impl.hpp>
-
-#include <boost/mpl/deque.hpp>
-
-namespace boost
-{
-  namespace metaparse
-  {
-    namespace v1
-    {
-      template <class P, int N>
-      struct iterate_c : impl::iterate_impl<N, P, boost::mpl::deque<> > {};
-    }
-  }
-}
-
-#endif
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:dfa70dd19ede7b05688251ce3b6174945a73bb0659ab37b9d122a0e92e1b6e14
+size 614

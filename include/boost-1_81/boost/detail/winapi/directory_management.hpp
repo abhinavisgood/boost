@@ -1,24 +1,3 @@
-/*
- * Copyright 2017 Andrey Semashev
- *
- * Distributed under the Boost Software License, Version 1.0.
- * See http://www.boost.org/LICENSE_1_0.txt
- *
- * This header is deprecated, use boost/winapi/directory_management.hpp instead.
- */
-
-#ifndef BOOST_DETAIL_WINAPI_DIRECTORY_MANAGEMENT_HPP
-#define BOOST_DETAIL_WINAPI_DIRECTORY_MANAGEMENT_HPP
-
-#include <boost/config/header_deprecated.hpp>
-
-BOOST_HEADER_DEPRECATED("<boost/winapi/directory_management.hpp>")
-
-#include <boost/winapi/directory_management.hpp>
-#include <boost/detail/winapi/detail/deprecated_namespace.hpp>
-
-#ifdef BOOST_HAS_PRAGMA_ONCE
-#pragma once
-#endif
-
-#endif // BOOST_DETAIL_WINAPI_DIRECTORY_MANAGEMENT_HPP
+version https://git-lfs.github.com/spec/v1
+oid sha256:c8eebaded1f458359a005e2fd16ebc9925ade909a96f8130f93272c777f878f8
+size 699

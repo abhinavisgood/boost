@@ -1,18 +1,3 @@
-//  (C) Copyright Gennadiy Rozental 2001.
-//  Distributed under the Boost Software License, Version 1.0.
-//  (See accompanying file LICENSE_1_0.txt or copy at
-//  http://www.boost.org/LICENSE_1_0.txt)
-
-//  See http://www.boost.org/libs/test for the library home page.
-//
-//! @file
-//! @brief Deprecated header
-//! @deprecated Use boost/test/tools/floating_point_comparison.hpp instead
-// ***************************************************************************
-
-#include <boost/config/header_deprecated.hpp>
-BOOST_HEADER_DEPRECATED( "<boost/test/tools/floating_point_comparison.hpp>" )
-
-
-// Boost.Test
-#include <boost/test/tools/floating_point_comparison.hpp>
+version https://git-lfs.github.com/spec/v1
+oid sha256:a18e07a9287ff63043a778a3bf2115f833d5ada387cd006485d551de039c34d3
+size 681

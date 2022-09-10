@@ -1,12 +1,3 @@
-/*=============================================================================
-  Copyright (c) 2001-2008 Joel de Guzman
-  Copyright (c) 2001-2008 Hartmut Kaiser
-  http://spirit.sourceforge.net/
-
-  Distributed under the Boost Software License, Version 1.0. (See accompanying
-  file LICENSE_1_0.txt or copy at http://www.boost.org/LICENSE_1_0.txt)
-=============================================================================*/
-#ifndef BOOST_SPIRIT_INCLUDE_CLASSIC_PARAMETRIC
-#define BOOST_SPIRIT_INCLUDE_CLASSIC_PARAMETRIC
-#include <boost/spirit/home/classic/attribute/parametric.hpp>
-#endif
+version https://git-lfs.github.com/spec/v1
+oid sha256:558453c54fd5e585b0c86c8b1d4bb4b409e3da63a5c3b7637a1f7e7ae8e6d934
+size 604

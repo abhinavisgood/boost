@@ -1,34 +1,3 @@
-/*//////////////////////////////////////////////////////////////////////////////
-    Copyright (c) 2014 Jamboree
-
-    Distributed under the Boost Software License, Version 1.0. (See accompanying
-    file LICENSE_1_0.txt or copy at http://www.boost.org/LICENSE_1_0.txt)
-//////////////////////////////////////////////////////////////////////////////*/
-#ifndef BOOST_SPIRIT_X3_IS_CALLABLE_HPP_INCLUDED
-#define BOOST_SPIRIT_X3_IS_CALLABLE_HPP_INCLUDED
-
-#include <boost/mpl/bool.hpp>
-
-namespace boost { namespace spirit { namespace x3 { namespace detail
-{
-    template <typename Sig, typename Enable = void>
-    struct is_callable_impl : mpl::false_ {};
-
-    template <typename F, typename... A>
-    struct is_callable_impl<F(A...),
-        decltype(void(std::declval<F>()(std::declval<A>()...)))>
-      : mpl::true_
-    {};
-}}}}
-
-namespace boost { namespace spirit { namespace x3
-{
-    template <typename Sig>
-    struct is_callable;
-
-    template <typename F, typename... A>
-    struct is_callable<F(A...)> : detail::is_callable_impl<F(A...)> {};
-}}}
-
-
-#endif
+version https://git-lfs.github.com/spec/v1
+oid sha256:08a5ea8e4c48c320f2d8af0fa83fb7871d622ca4291db3b34273845d81295390
+size 1091

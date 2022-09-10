@@ -1,24 +1,3 @@
-//////////////////////////////////////////////////////////////////////////////
-//
-// (C) Copyright Vicente J. Botet Escriba 20010.
-// Distributed under the Boost Software License, Version 1.0.
-// (See accompanying file LICENSE_1_0.txt or
-// copy at http://www.boost.org/LICENSE_1_0.txt)
-//
-// Based on the unique_threader/unique_joiner design from of Kevlin Henney (n1883)
-//
-// See http://www.boost.org/libs/chrono for documentation.
-//
-//////////////////////////////////////////////////////////////////////////////
-
-#ifndef BOOST_CHRONO_TYPEOF_RATIO_HPP
-#define BOOST_CHRONO_TYPEOF_RATIO_HPP
-
-#include <boost/ratio/ratio.hpp>
-#include <boost/typeof/typeof.hpp>
-
-#include BOOST_TYPEOF_INCREMENT_REGISTRATION_GROUP()
-
-BOOST_TYPEOF_REGISTER_TEMPLATE(boost::ratio, (boost::intmax_t)(boost::intmax_t))
-
-#endif
+version https://git-lfs.github.com/spec/v1
+oid sha256:d95060e8466a9c355e45691ce88cf9350c03e4f0d7f98c32f7cdfe3e361185f7
+size 831

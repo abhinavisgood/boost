@@ -1,24 +1,3 @@
-/*
- * Copyright 2017 Andrey Semashev
- *
- * Distributed under the Boost Software License, Version 1.0.
- * See http://www.boost.org/LICENSE_1_0.txt
- *
- * This header is deprecated, use boost/winapi/error_codes.hpp instead.
- */
-
-#ifndef BOOST_DETAIL_WINAPI_ERROR_CODES_HPP_
-#define BOOST_DETAIL_WINAPI_ERROR_CODES_HPP_
-
-#include <boost/config/header_deprecated.hpp>
-
-BOOST_HEADER_DEPRECATED("<boost/winapi/error_codes.hpp>")
-
-#include <boost/winapi/error_codes.hpp>
-#include <boost/detail/winapi/detail/deprecated_namespace.hpp>
-
-#ifdef BOOST_HAS_PRAGMA_ONCE
-#pragma once
-#endif
-
-#endif // BOOST_DETAIL_WINAPI_ERROR_CODES_HPP_
+version https://git-lfs.github.com/spec/v1
+oid sha256:816765dc00ed4a90d1cc6e1573fdf5ba4877ec6cf61cf28e3f6c358b41bbad9a
+size 648

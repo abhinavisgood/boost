@@ -1,25 +1,3 @@
-
-#ifndef BOOST_MPL_ARITHMETIC_HPP_INCLUDED
-#define BOOST_MPL_ARITHMETIC_HPP_INCLUDED
-
-// Copyright Aleksey Gurtovoy 2000-2004
-//
-// Distributed under the Boost Software License, Version 1.0. 
-// (See accompanying file LICENSE_1_0.txt or copy at 
-// http://www.boost.org/LICENSE_1_0.txt)
-//
-// See http://www.boost.org/libs/mpl for documentation.
-
-// $Id$
-// $Date$
-// $Revision$
-
-#include <boost/mpl/plus.hpp>
-#include <boost/mpl/minus.hpp>
-#include <boost/mpl/times.hpp>
-#include <boost/mpl/divides.hpp>
-#include <boost/mpl/modulus.hpp>
-#include <boost/mpl/negate.hpp>
-#include <boost/mpl/multiplies.hpp> // deprecated
-
-#endif // BOOST_MPL_ARITHMETIC_HPP_INCLUDED
+version https://git-lfs.github.com/spec/v1
+oid sha256:68b2628a91c95271696db183d2b45e0a51c1169e80ef449b2e738e6761661dd1
+size 690

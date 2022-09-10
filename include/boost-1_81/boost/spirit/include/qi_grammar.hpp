@@ -1,18 +1,3 @@
-/*=============================================================================
-    Copyright (c) 2001-2011 Joel de Guzman
-    Copyright (c) 2001-2011 Hartmut Kaiser
-    http://spirit.sourceforge.net/
-
-    Distributed under the Boost Software License, Version 1.0. (See accompanying
-    file LICENSE_1_0.txt or copy at http://www.boost.org/LICENSE_1_0.txt)
-=============================================================================*/
-#ifndef BOOST_SPIRIT_INCLUDE_QI_GRAMMAR
-#define BOOST_SPIRIT_INCLUDE_QI_GRAMMAR
-
-#if defined(_MSC_VER)
-#pragma once
-#endif
-
-#include <boost/spirit/home/qi/nonterminal/grammar.hpp>
-
-#endif
+version https://git-lfs.github.com/spec/v1
+oid sha256:abef2d6f3c1a7b597b3a3579d1089dcb63cce66ed030243a56cab767c81d4ef0
+size 643

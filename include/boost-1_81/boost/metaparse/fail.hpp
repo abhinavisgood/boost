@@ -1,20 +1,3 @@
-#ifndef BOOST_METAPARSE_FAIL_HPP
-#define BOOST_METAPARSE_FAIL_HPP
-
-// Copyright Abel Sinkovics (abel@sinkovics.hu)  2013.
-// Distributed under the Boost Software License, Version 1.0.
-//    (See accompanying file LICENSE_1_0.txt or copy at
-//          http://www.boost.org/LICENSE_1_0.txt)
-
-#include <boost/metaparse/v1/fail.hpp>
-
-namespace boost
-{
-  namespace metaparse
-  {
-    using v1::fail;
-  }
-}
-
-#endif
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:b51ab1e3b68c88b195a37f398dcb555b83e0aad8f4d270363fca6ae73812aacd
+size 430

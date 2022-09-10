@@ -1,21 +1,3 @@
-/*
- * Copyright (c) 2014 Glen Fernandes
- *
- * Distributed under the Boost Software License, Version 1.0. (See
- * accompanying file LICENSE_1_0.txt or copy at
- * http://www.boost.org/LICENSE_1_0.txt)
- */
-
-#ifndef BOOST_DETAIL_NO_EXCEPTIONS_SUPPORT_HPP
-#define BOOST_DETAIL_NO_EXCEPTIONS_SUPPORT_HPP
-
-// The header file at this path is deprecated;
-// use boost/core/no_exceptions_support.hpp instead.
-
-#include <boost/config/header_deprecated.hpp>
-
-BOOST_HEADER_DEPRECATED("<boost/core/no_exceptions_support.hpp>")
-
-#include <boost/core/no_exceptions_support.hpp>
-
-#endif
+version https://git-lfs.github.com/spec/v1
+oid sha256:f58535cf9a0e6f10b76fbf51f7b62ae05dfccc8949c70f8bd99dd3661db081d7
+size 591

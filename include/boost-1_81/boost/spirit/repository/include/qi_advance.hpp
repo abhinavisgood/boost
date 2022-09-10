@@ -1,17 +1,3 @@
-/*=============================================================================
-    Copyright (c) 2011 Aaron Graham
-    http://spirit.sourceforge.net/
-
-    Distributed under the Boost Software License, Version 1.0. (See accompanying
-    file LICENSE_1_0.txt or copy at http://www.boost.org/LICENSE_1_0.txt)
-=============================================================================*/
-#ifndef BOOST_SPIRIT_INCLUDE_QI_REPOSITORY_ADVANCE
-#define BOOST_SPIRIT_INCLUDE_QI_REPOSITORY_ADVANCE
-
-#if defined(_MSC_VER)
-#pragma once
-#endif
-
-#include <boost/spirit/repository/home/qi/primitive/advance.hpp>
-
-#endif
+version https://git-lfs.github.com/spec/v1
+oid sha256:6b1401764286ccc763c2ac9314738ac602f83c915e040d353de6a398a0612a8a
+size 623

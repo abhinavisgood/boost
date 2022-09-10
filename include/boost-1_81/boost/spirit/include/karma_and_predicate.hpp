@@ -1,18 +1,3 @@
-/*=============================================================================
-    Copyright (c) 2001-2011 Joel de Guzman
-    Copyright (c) 2001-2011 Hartmut Kaiser
-    http://spirit.sourceforge.net/
-
-    Distributed under the Boost Software License, Version 1.0. (See accompanying
-    file LICENSE_1_0.txt or copy at http://www.boost.org/LICENSE_1_0.txt)
-=============================================================================*/
-#ifndef BOOST_SPIRIT_INCLUDE_KARMA_AND_PREDICATE
-#define BOOST_SPIRIT_INCLUDE_KARMA_AND_PREDICATE
-
-#if defined(_MSC_VER)
-#pragma once
-#endif
-
-#include <boost/spirit/home/karma/operator/and_predicate.hpp>
-
-#endif
+version https://git-lfs.github.com/spec/v1
+oid sha256:6e2575d0d9c2ee623b6760a61db33a1e1ccb904ce8e2e2e357cd3000a8941973
+size 667

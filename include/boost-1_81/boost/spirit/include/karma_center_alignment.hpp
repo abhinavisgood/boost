@@ -1,18 +1,3 @@
-/*=============================================================================
-    Copyright (c) 2001-2011 Joel de Guzman
-    Copyright (c) 2001-2011 Hartmut Kaiser
-    http://spirit.sourceforge.net/
-
-    Distributed under the Boost Software License, Version 1.0. (See accompanying
-    file LICENSE_1_0.txt or copy at http://www.boost.org/LICENSE_1_0.txt)
-=============================================================================*/
-#ifndef BOOST_SPIRIT_INCLUDE_KARMA_CENTER_ALIGNMENT
-#define BOOST_SPIRIT_INCLUDE_KARMA_CENTER_ALIGNMENT
-
-#if defined(_MSC_VER)
-#pragma once
-#endif
-
-#include <boost/spirit/home/karma/directive/center_alignment.hpp>
-
-#endif
+version https://git-lfs.github.com/spec/v1
+oid sha256:3f22c4d3f9e25dbe4645c9df061d8280ff4630d3f72218a1dcc2223ca9fb53bc
+size 677

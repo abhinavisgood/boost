@@ -1,12 +1,3 @@
-// Copyright Daniel Wallin 2005.
-// Distributed under the Boost Software License, Version 1.0.
-// (See accompanying file LICENSE_1_0.txt or copy at
-// http://www.boost.org/LICENSE_1_0.txt)
-
-#ifndef BOOST_PARAMETER_FLATTEN_051217_HPP
-#define BOOST_PARAMETER_FLATTEN_051217_HPP
-
-#include <boost/parameter/aux_/preprocessor/impl/flatten.hpp>
-
-#endif  // include guard
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:b3821b460c16fb6827a6ce83d4d359802d69ff0e6c421134b5fbc18372b031aa
+size 378

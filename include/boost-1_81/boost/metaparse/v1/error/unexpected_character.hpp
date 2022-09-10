@@ -1,29 +1,3 @@
-#ifndef BOOST_METAPARSE_V1_ERROR_UNEXPECTED_CHARACTER_HPP
-#define BOOST_METAPARSE_V1_ERROR_UNEXPECTED_CHARACTER_HPP
-
-// Copyright Abel Sinkovics (abel@sinkovics.hu)  2013.
-// Distributed under the Boost Software License, Version 1.0.
-//    (See accompanying file LICENSE_1_0.txt or copy at
-//          http://www.boost.org/LICENSE_1_0.txt)
-
-#include <boost/metaparse/v1/define_error.hpp>
-
-namespace boost
-{
-  namespace metaparse
-  {
-    namespace v1
-    {
-      namespace error
-      {
-        BOOST_METAPARSE_V1_DEFINE_ERROR(
-          unexpected_character,
-          "Unexpected character"
-        );
-      }
-    }
-  }
-}
-
-#endif
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:6ed7b7acc23e5db09310c292f1faf3760eff6f31406263cbf1f125ec783a67ad
+size 661

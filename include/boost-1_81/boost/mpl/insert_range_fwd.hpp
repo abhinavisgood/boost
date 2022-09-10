@@ -1,24 +1,3 @@
-
-#ifndef BOOST_MPL_INSERT_RANGE_FWD_HPP_INCLUDED
-#define BOOST_MPL_INSERT_RANGE_FWD_HPP_INCLUDED
-
-// Copyright Aleksey Gurtovoy 2000-2004
-//
-// Distributed under the Boost Software License, Version 1.0. 
-// (See accompanying file LICENSE_1_0.txt or copy at 
-// http://www.boost.org/LICENSE_1_0.txt)
-//
-// See http://www.boost.org/libs/mpl for documentation.
-
-// $Id$
-// $Date$
-// $Revision$
-
-namespace boost { namespace mpl {
-
-template< typename Tag > struct insert_range_impl;
-template< typename Sequence, typename Pos, typename Range > struct insert_range;
-
-}}
-
-#endif // BOOST_MPL_INSERT_RANGE_FWD_HPP_INCLUDED
+version https://git-lfs.github.com/spec/v1
+oid sha256:f4204d69fcd75f8116a71f7cf6b69954af27b94b504bb3b6c3994c4565222c0c
+size 638

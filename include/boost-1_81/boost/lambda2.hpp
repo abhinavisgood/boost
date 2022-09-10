@@ -1,10 +1,3 @@
-#ifndef BOOST_LAMBDA2_HPP_INCLUDED
-#define BOOST_LAMBDA2_HPP_INCLUDED
-
-// Copyright 2020 Peter Dimov
-// Distributed under the Boost Software License, Version 1.0.
-// https://www.boost.org/LICENSE_1_0.txt
-
-#include <boost/lambda2/lambda2.hpp>
-
-#endif // #ifndef BOOST_LAMBDA2_HPP_INCLUDED
+version https://git-lfs.github.com/spec/v1
+oid sha256:56a4aee3d3cc9e7a63e076d4a80145abf545151bb7de7129d74b2fe9b6870e08
+size 298

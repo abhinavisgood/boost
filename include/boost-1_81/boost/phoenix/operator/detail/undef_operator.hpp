@@ -1,17 +1,3 @@
-/*==============================================================================
-    Copyright (c) 2010 Thomas Heller
-
-    Distributed under the Boost Software License, Version 1.0. (See accompanying
-    file LICENSE_1_0.txt or copy at http://www.boost.org/LICENSE_1_0.txt)
-==============================================================================*/
-
-#undef BOOST_PHOENIX_UNARY_RULE
-#undef BOOST_PHOENIX_UNARY_FUNCTIONAL
-#undef BOOST_PHOENIX_BINARY_RULE
-#undef BOOST_PHOENIX_BINARY_FUNCTIONAL
-#undef BOOST_PHOENIX_UNARY_EXPRESSION
-#undef BOOST_PHOENIX_BINARY_EXPRESSION
-#undef BOOST_PHOENIX_GRAMMAR
-#undef BOOST_PHOENIX_UNARY_OPERATORS
-#undef BOOST_PHOENIX_BINARY_OPERATORS
-#undef BOOST_PHOENIX_DEFINE_OPERATOR_HPP
+version https://git-lfs.github.com/spec/v1
+oid sha256:968a62a6fc5d90af1287cf784e099c4ba749ec4720e2c4ce51c8fd2df05be986
+size 737

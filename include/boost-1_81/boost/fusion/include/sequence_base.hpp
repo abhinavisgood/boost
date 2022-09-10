@@ -1,13 +1,3 @@
-/*=============================================================================
-    Copyright (c) 2001-2007 Joel de Guzman
-
-    Distributed under the Boost Software License, Version 1.0. (See accompanying
-    file LICENSE_1_0.txt or copy at http://www.boost.org/LICENSE_1_0.txt)
-==============================================================================*/
-#if !defined(FUSION_INCLUDE_SEQUENCE_BASE)
-#define FUSION_INCLUDE_SEQUENCE_BASE
-
-#include <boost/fusion/support/config.hpp>
-#include <boost/fusion/support/sequence_base.hpp>
-
-#endif
+version https://git-lfs.github.com/spec/v1
+oid sha256:64c50a3de492fd131204f257c6bb84302a00f60745f2d39039c40e59ccd0a458
+size 555

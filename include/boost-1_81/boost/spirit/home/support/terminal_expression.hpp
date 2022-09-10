@@ -1,12 +1,3 @@
-/*=============================================================================
-    Copyright (c) 2001-2011 Joel de Guzman
-    Copyright (c) 2001-2011 Hartmut Kaiser
-    Copyright (c)      2011 Thomas Heller
-
-    Distributed under the Boost Software License, Version 1.0. (See accompanying
-    file LICENSE_1_0.txt or copy at http://www.boost.org/LICENSE_1_0.txt)
-==============================================================================*/
-#if !defined(BOOST_SPIRIT_TERMINAL_EXPRESSION_MARCH_24_2011_1210AM)
-#define BOOST_SPIRIT_TERMINAL_EXPRESSION_MARCH_24_2011_1210AM
-
-#endif
+version https://git-lfs.github.com/spec/v1
+oid sha256:2ae7f900cb48fd8fd0e0ee2fc8b9d95a0da858da94d6ae2cd98594f365cd56ac
+size 595

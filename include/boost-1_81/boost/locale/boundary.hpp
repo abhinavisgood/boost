@@ -1,16 +1,3 @@
-//
-// Copyright (c) 2009-2011 Artyom Beilis (Tonkikh)
-//
-// Distributed under the Boost Software License, Version 1.0.
-// https://www.boost.org/LICENSE_1_0.txt
-
-#ifndef BOOST_LOCALE_BOUNDARY_HPP_INCLUDED
-#define BOOST_LOCALE_BOUNDARY_HPP_INCLUDED
-
-#include <boost/locale/boundary/types.hpp>
-#include <boost/locale/boundary/facets.hpp>
-#include <boost/locale/boundary/segment.hpp>
-#include <boost/locale/boundary/boundary_point.hpp>
-#include <boost/locale/boundary/index.hpp>
-
-#endif
+version https://git-lfs.github.com/spec/v1
+oid sha256:182d4cc2357ab0462acda82b48a986efbea57952ecd4ecde065d35eee555784f
+size 499

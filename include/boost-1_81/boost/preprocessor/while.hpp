@@ -1,17 +1,3 @@
-# /* **************************************************************************
-#  *                                                                          *
-#  *     (C) Copyright Paul Mensonides 2002.
-#  *     Distributed under the Boost Software License, Version 1.0. (See
-#  *     accompanying file LICENSE_1_0.txt or copy at
-#  *     http://www.boost.org/LICENSE_1_0.txt)
-#  *                                                                          *
-#  ************************************************************************** */
-#
-# /* See http://www.boost.org for most recent version. */
-#
-# ifndef BOOST_PREPROCESSOR_WHILE_HPP
-# define BOOST_PREPROCESSOR_WHILE_HPP
-#
-# include <boost/preprocessor/control/while.hpp>
-#
-# endif
+version https://git-lfs.github.com/spec/v1
+oid sha256:ffa8fb972a597cb52b4d5ab4235beb3dea163dc3a11e2255fe55e6df48f54ab0
+size 756

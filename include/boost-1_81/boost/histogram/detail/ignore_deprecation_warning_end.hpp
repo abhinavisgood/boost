@@ -1,6 +1,3 @@
-#if (defined(__GNUC__) || defined(__clang__))
-#pragma GCC diagnostic pop
-
-#elif defined(_MSC_VER)
-#pragma warning(pop)
-#endif
+version https://git-lfs.github.com/spec/v1
+oid sha256:db5f07093aabd3729913a3417387388066ce17e5ead24dc14d108e0983125747
+size 132

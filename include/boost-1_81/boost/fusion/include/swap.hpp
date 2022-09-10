@@ -1,13 +1,3 @@
-/*=============================================================================
-    Copyright (c) 2001-2007 Joel de Guzman
-
-    Distributed under the Boost Software License, Version 1.0. (See accompanying
-    file LICENSE_1_0.txt or copy at http://www.boost.org/LICENSE_1_0.txt)
-==============================================================================*/
-#if !defined(FUSION_INCLUDE_SWAP)
-#define FUSION_INCLUDE_SWAP
-
-#include <boost/fusion/support/config.hpp>
-#include <boost/fusion/sequence/intrinsic/swap.hpp>
-
-#endif
+version https://git-lfs.github.com/spec/v1
+oid sha256:73c60a51ba24ff2da7c925747409c41c76f8f0ece7cb61b93a6cfc6d0af257f7
+size 539

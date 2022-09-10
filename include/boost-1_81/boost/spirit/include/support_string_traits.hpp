@@ -1,18 +1,3 @@
-/*=============================================================================
-    Copyright (c) 2001-2011 Joel de Guzman
-    Copyright (c) 2001-2011 Hartmut Kaiser
-    http://spirit.sourceforge.net/
-
-    Distributed under the Boost Software License, Version 1.0. (See accompanying
-    file LICENSE_1_0.txt or copy at http://www.boost.org/LICENSE_1_0.txt)
-=============================================================================*/
-#ifndef BOOST_SPIRIT_INCLUDE_SUPPORT_STRING_TRAITS
-#define BOOST_SPIRIT_INCLUDE_SUPPORT_STRING_TRAITS
-
-#if defined(_MSC_VER)
-#pragma once
-#endif
-
-#include <boost/spirit/home/support/string_traits.hpp>
-
-#endif
+version https://git-lfs.github.com/spec/v1
+oid sha256:785ab449c1a5b5adc2d6b529c1ce9fb69d98c0b08a6b944c5465addbf5123069
+size 664

@@ -1,23 +1,3 @@
-#ifndef BOOST_METAPARSE_UTIL_IS_UCASE_LETTER_HPP
-#define BOOST_METAPARSE_UTIL_IS_UCASE_LETTER_HPP
-
-// Copyright Abel Sinkovics (abel@sinkovics.hu)  2013.
-// Distributed under the Boost Software License, Version 1.0.
-//    (See accompanying file LICENSE_1_0.txt or copy at
-//          http://www.boost.org/LICENSE_1_0.txt)
-
-#include <boost/metaparse/v1/util/is_ucase_letter.hpp>
-
-namespace boost
-{
-  namespace metaparse
-  {
-    namespace util
-    {
-      using v1::util::is_ucase_letter;
-    }
-  }
-}
-
-#endif
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:7712e8b097b231446d17c228b2a36a7e1de29562d7fb4f6d12440c2402afcda0
+size 531

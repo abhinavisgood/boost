@@ -1,23 +1,3 @@
-#ifndef BOOST_METAPARSE_ERROR_UNPAIRED_HPP
-#define BOOST_METAPARSE_ERROR_UNPAIRED_HPP
-
-// Copyright Abel Sinkovics (abel@sinkovics.hu)  2015.
-// Distributed under the Boost Software License, Version 1.0.
-//    (See accompanying file LICENSE_1_0.txt or copy at
-//          http://www.boost.org/LICENSE_1_0.txt)
-
-#include <boost/metaparse/v1/error/unpaired.hpp>
-
-namespace boost
-{
-  namespace metaparse
-  {
-    namespace error
-    {
-      using v1::error::unpaired;
-    }
-  }
-}
-
-#endif
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:b5f65982eaf60dff54c7385ec8985e06a8b9bea0aed7c7ec5666f80a72026a92
+size 508

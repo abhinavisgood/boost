@@ -1,20 +1,3 @@
-//  Copyright 2009-2010 Vicente J. Botet Escriba
-
-//  Distributed under the Boost Software License, Version 1.0.
-//  See http://www.boost.org/LICENSE_1_0.txt
-
-#ifndef BOOST_CHRONO_DETAIL_SYSTEM_HPP
-#define BOOST_CHRONO_DETAIL_SYSTEM_HPP
-
-#if !defined BOOST_CHRONO_DONT_PROVIDE_HYBRID_ERROR_HANDLING
-
-#include <boost/system/error_code.hpp>
-
-namespace boost {
-namespace chrono {
-    inline bool is_throws(system::error_code  & ec) { return (&ec==&boost::throws()); }
-}
-}
-
-#endif
-#endif
+version https://git-lfs.github.com/spec/v1
+oid sha256:1ac02920f5c49a5245be7a10841768849cf964e9c243b8a44f326c705477399a
+size 504

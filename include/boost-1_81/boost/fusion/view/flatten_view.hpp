@@ -1,15 +1,3 @@
-/*==============================================================================
-    Copyright (c) 2013 Jamboree
-
-    Distributed under the Boost Software License, Version 1.0. (See accompanying
-    file LICENSE_1_0.txt or copy at http://www.boost.org/LICENSE_1_0.txt)
-==============================================================================*/
-#ifndef BOOST_FUSION_SEQUENCE_FLATTEN_VIEW_HPP_INCLUDED
-#define BOOST_FUSION_SEQUENCE_FLATTEN_VIEW_HPP_INCLUDED
-
-
-#include <boost/fusion/view/flatten_view/flatten_view.hpp>
-#include <boost/fusion/view/flatten_view/flatten_view_iterator.hpp>
-
-
-#endif
+version https://git-lfs.github.com/spec/v1
+oid sha256:574ab70a255905815847b158e83e36e78c9ffb26905569ed1a7e32e7a28bc9bf
+size 615

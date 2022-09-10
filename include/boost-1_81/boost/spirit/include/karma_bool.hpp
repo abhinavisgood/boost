@@ -1,18 +1,3 @@
-/*=============================================================================
-    Copyright (c) 2001-2011 Joel de Guzman
-    Copyright (c) 2001-2011 Hartmut Kaiser
-    http://spirit.sourceforge.net/
-
-    Distributed under the Boost Software License, Version 1.0. (See accompanying
-    file LICENSE_1_0.txt or copy at http://www.boost.org/LICENSE_1_0.txt)
-=============================================================================*/
-#ifndef BOOST_SPIRIT_INCLUDE_KARMA_BOOL
-#define BOOST_SPIRIT_INCLUDE_KARMA_BOOL
-
-#if defined(_MSC_VER)
-#pragma once
-#endif
-
-#include <boost/spirit/home/karma/numeric/bool.hpp>
-
-#endif
+version https://git-lfs.github.com/spec/v1
+oid sha256:ed75d5d8106e1eecd243c1c7ad732452fbb2e1096c945b02f7b5e4c9811f5bc3
+size 639

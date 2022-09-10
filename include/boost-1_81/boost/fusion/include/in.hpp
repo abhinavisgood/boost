@@ -1,13 +1,3 @@
-/*=============================================================================
-    Copyright (c) 2001-2007 Hartmut Kaiser
-
-    Distributed under the Boost Software License, Version 1.0. (See accompanying
-    file LICENSE_1_0.txt or copy at http://www.boost.org/LICENSE_1_0.txt)
-==============================================================================*/
-#if !defined(FUSION_INCLUDE_IN)
-#define FUSION_INCLUDE_IN
-
-#include <boost/fusion/support/config.hpp>
-#include <boost/fusion/sequence/io/in.hpp>
-
-#endif
+version https://git-lfs.github.com/spec/v1
+oid sha256:b0024aa729e9f8cbbafd0cead36de94653ff2a4d3348811fc2306ae845a74fe5
+size 526

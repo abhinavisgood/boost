@@ -1,20 +1,3 @@
-#ifndef BOOST_METAPARSE_RETURN__HPP
-#define BOOST_METAPARSE_RETURN__HPP
-
-// Copyright Abel Sinkovics (abel@sinkovics.hu)  2013.
-// Distributed under the Boost Software License, Version 1.0.
-//    (See accompanying file LICENSE_1_0.txt or copy at
-//          http://www.boost.org/LICENSE_1_0.txt)
-
-#include <boost/metaparse/v1/return_.hpp>
-
-namespace boost
-{
-  namespace metaparse
-  {
-    using v1::return_;
-  }
-}
-
-#endif
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:0a68cb9270f6d00b6c6947042330798bc5d0626350f882cd9a8caabc4e923afe
+size 442

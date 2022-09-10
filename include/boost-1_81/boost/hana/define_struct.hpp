@@ -1,17 +1,3 @@
-/*!
-@file
-Defines the `BOOST_HANA_DEFINE_STRUCT` macro.
-
-@copyright Louis Dionne 2013-2017
-Distributed under the Boost Software License, Version 1.0.
-(See accompanying file LICENSE.md or copy at http://boost.org/LICENSE_1_0.txt)
- */
-
-#ifndef BOOST_HANA_DEFINE_STRUCT_HPP
-#define BOOST_HANA_DEFINE_STRUCT_HPP
-
-#include <boost/hana/fwd/define_struct.hpp>
-
-#include <boost/hana/detail/struct_macros.hpp>
-
-#endif // !BOOST_HANA_DEFINE_STRUCT_HPP
+version https://git-lfs.github.com/spec/v1
+oid sha256:09c91dd1dccb6818d743108c54705caf8c7b36ea0db5c3f0e0b3db8a48dc42b5
+size 459

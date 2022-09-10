@@ -1,13 +1,3 @@
-/*=============================================================================
-    Copyright (c) 2001-2007 Joel de Guzman
-
-    Distributed under the Boost Software License, Version 1.0. (See accompanying
-    file LICENSE_1_0.txt or copy at http://www.boost.org/LICENSE_1_0.txt)
-==============================================================================*/
-#if !defined(FUSION_INCLUDE_COUNT)
-#define FUSION_INCLUDE_COUNT
-
-#include <boost/fusion/support/config.hpp>
-#include <boost/fusion/algorithm/query/count.hpp>
-
-#endif
+version https://git-lfs.github.com/spec/v1
+oid sha256:1502ab73572f8a884d495c6de32dddea4db22831c1eba989e4de97f7c22c4bbf
+size 539

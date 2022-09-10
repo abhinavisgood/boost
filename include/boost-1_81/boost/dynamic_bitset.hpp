@@ -1,17 +1,3 @@
-// -----------------------------------------------------------
-//
-//   Copyright (c) 2001-2002 Chuck Allison and Jeremy Siek
-//        Copyright (c) 2003-2004, 2008 Gennaro Prota
-//
-// Distributed under the Boost Software License, Version 1.0.
-//    (See accompanying file LICENSE_1_0.txt or copy at
-//          http://www.boost.org/LICENSE_1_0.txt)
-//
-// -----------------------------------------------------------
-
-#ifndef BOOST_DYNAMIC_BITSET_HPP
-#define BOOST_DYNAMIC_BITSET_HPP
-
-#include "boost/dynamic_bitset/dynamic_bitset.hpp"
-
-#endif // include guard
+version https://git-lfs.github.com/spec/v1
+oid sha256:c87cafcef1c6812300b8e400481b23628f5a50bd5ae8917f347717a686bff184
+size 577

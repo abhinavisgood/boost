@@ -1,12 +1,3 @@
-// Boost.Function library
-
-//  Copyright Douglas Gregor 2002-2003. Use, modification and
-//  distribution is subject to the Boost Software License, Version
-//  1.0. (See accompanying file LICENSE_1_0.txt or copy at
-//  http://www.boost.org/LICENSE_1_0.txt)
-
-// For more information, see http://www.boost.org
-
-#define BOOST_FUNCTION_NUM_ARGS 10
-#include <boost/function/detail/maybe_include.hpp>
-#undef BOOST_FUNCTION_NUM_ARGS
+version https://git-lfs.github.com/spec/v1
+oid sha256:7c4f9f04492fe060a2c6256af36e8c05112f2f7c54f00913660819836f4993fc
+size 438

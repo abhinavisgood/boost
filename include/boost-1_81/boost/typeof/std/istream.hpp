@@ -1,21 +1,3 @@
-// Copyright (C) 2005 Arkadiy Vertleyb, Peder Holt.
-// Use, modification and distribution is subject to the Boost Software
-// License, Version 1.0. (http://www.boost.org/LICENSE_1_0.txt)
-
-#ifndef BOOST_TYPEOF_STD_istream_hpp_INCLUDED
-#define BOOST_TYPEOF_STD_istream_hpp_INCLUDED
-
-#include <istream>
-#include <boost/typeof/typeof.hpp>
-#include <boost/typeof/std/string.hpp>
-
-#include BOOST_TYPEOF_INCREMENT_REGISTRATION_GROUP()
-
-BOOST_TYPEOF_REGISTER_TEMPLATE(std::basic_istream, 1)
-BOOST_TYPEOF_REGISTER_TEMPLATE(std::basic_istream, 2)
-BOOST_TYPEOF_REGISTER_TEMPLATE(std::basic_iostream, 1)
-BOOST_TYPEOF_REGISTER_TEMPLATE(std::basic_iostream, 2)
-BOOST_TYPEOF_REGISTER_TYPE(std::istream)
-BOOST_TYPEOF_REGISTER_TYPE(std::iostream)
-
-#endif//BOOST_TYPEOF_STD_istream_hpp_INCLUDED
+version https://git-lfs.github.com/spec/v1
+oid sha256:810609718b9ca7ff8739acdc115118e54437d6d6ea3860e6801ffbc7bdaa7194
+size 798

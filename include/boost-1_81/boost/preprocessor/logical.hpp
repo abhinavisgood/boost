@@ -1,29 +1,3 @@
-# /* Copyright (C) 2001
-#  * Housemarque Oy
-#  * http://www.housemarque.com
-#  *
-#  * Distributed under the Boost Software License, Version 1.0. (See
-#  * accompanying file LICENSE_1_0.txt or copy at
-#  * http://www.boost.org/LICENSE_1_0.txt)
-#  */
-#
-# /* Revised by Paul Mensonides (2002) */
-#
-# /* See http://www.boost.org for most recent version. */
-#
-# ifndef BOOST_PREPROCESSOR_LOGICAL_HPP
-# define BOOST_PREPROCESSOR_LOGICAL_HPP
-#
-# include <boost/preprocessor/logical/and.hpp>
-# include <boost/preprocessor/logical/bitand.hpp>
-# include <boost/preprocessor/logical/bitnor.hpp>
-# include <boost/preprocessor/logical/bitor.hpp>
-# include <boost/preprocessor/logical/bitxor.hpp>
-# include <boost/preprocessor/logical/bool.hpp>
-# include <boost/preprocessor/logical/compl.hpp>
-# include <boost/preprocessor/logical/nor.hpp>
-# include <boost/preprocessor/logical/not.hpp>
-# include <boost/preprocessor/logical/or.hpp>
-# include <boost/preprocessor/logical/xor.hpp>
-#
-# endif
+version https://git-lfs.github.com/spec/v1
+oid sha256:48b2f8a17d8df4e6dd645206a89a71c64ed26c4a74e0b4267b18150350cd5aa3
+size 1006

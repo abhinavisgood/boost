@@ -1,22 +1,3 @@
-/*=============================================================================
-    Copyright (c) 2001-2011 Joel de Guzman
-
-    Distributed under the Boost Software License, Version 1.0. (See accompanying 
-    file LICENSE_1_0.txt or copy at http://www.boost.org/LICENSE_1_0.txt)
-==============================================================================*/
-#if !defined(FUSION_TRANSFORM_VIEW_FORWARD_01052006_1839)
-#define FUSION_TRANSFORM_VIEW_FORWARD_01052006_1839
-
-namespace boost { namespace fusion
-{
-    struct void_;
-    struct transform_view_tag;
-    struct transform_view2_tag;
-
-    template <typename A, typename B, typename C = void_>
-    struct transform_view;
-}}
-
-#endif
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:3cebf6fa7aa2b13ff3e93efa101a6c6f020a5da149e9755a5c337b5f61b3a8ec
+size 711

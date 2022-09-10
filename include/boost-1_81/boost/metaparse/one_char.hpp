@@ -1,21 +1,3 @@
-#ifndef BOOST_METAPARSE_ONE_CHAR_HPP
-#define BOOST_METAPARSE_ONE_CHAR_HPP
-
-// Copyright Abel Sinkovics (abel@sinkovics.hu)  2013.
-// Distributed under the Boost Software License, Version 1.0.
-//    (See accompanying file LICENSE_1_0.txt or copy at
-//          http://www.boost.org/LICENSE_1_0.txt)
-
-#include <boost/metaparse/v1/one_char.hpp>
-
-namespace boost
-{
-  namespace metaparse
-  {
-    using v1::one_char;
-  }
-}
-
-#endif
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:c905fd56be7ab42759d1decd156c94a4ac2af92a64fd829e05f035d4c6bfc3d2
+size 448

@@ -1,20 +1,3 @@
-//
-// ts/io_context.hpp
-// ~~~~~~~~~~~~~~~~~
-//
-// Copyright (c) 2003-2022 Christopher M. Kohlhoff (chris at kohlhoff dot com)
-//
-// Distributed under the Boost Software License, Version 1.0. (See accompanying
-// file LICENSE_1_0.txt or copy at http://www.boost.org/LICENSE_1_0.txt)
-//
-
-#ifndef BOOST_ASIO_TS_IO_CONTEXT_HPP
-#define BOOST_ASIO_TS_IO_CONTEXT_HPP
-
-#if defined(_MSC_VER) && (_MSC_VER >= 1200)
-# pragma once
-#endif // defined(_MSC_VER) && (_MSC_VER >= 1200)
-
-#include <boost/asio/io_context.hpp>
-
-#endif // BOOST_ASIO_TS_IO_CONTEXT_HPP
+version https://git-lfs.github.com/spec/v1
+oid sha256:a401e6c11fbfdf7d2dc4d4fa94a599121f5ebb418d80c01e07e1ab48f3ca3922
+size 568

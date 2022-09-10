@@ -1,23 +1,3 @@
-
-#ifndef BOOST_MPL_MULTISET_AUX_TAG_HPP_INCLUDED
-#define BOOST_MPL_MULTISET_AUX_TAG_HPP_INCLUDED
-
-// Copyright Aleksey Gurtovoy 2003-2004
-//
-// Distributed under the Boost Software License, Version 1.0. 
-// (See accompanying file LICENSE_1_0.txt or copy at 
-// http://www.boost.org/LICENSE_1_0.txt)
-//
-// See http://www.boost.org/libs/mpl for documentation.
-
-// $Id$
-// $Date$
-// $Revision$
-
-namespace boost { namespace mpl { namespace aux {
-
-struct multiset_tag;
-
-}}}
-
-#endif // BOOST_MPL_MULTISET_AUX_TAG_HPP_INCLUDED
+version https://git-lfs.github.com/spec/v1
+oid sha256:5e2057a28abdae459c8e4dc2d35d7b35d30845a4c7862f49d691feb2fe23cf62
+size 543

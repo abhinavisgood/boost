@@ -1,13 +1,3 @@
-/*=============================================================================
-    Copyright (c) 2001-2007 Joel de Guzman
-
-    Distributed under the Boost Software License, Version 1.0. (See accompanying
-    file LICENSE_1_0.txt or copy at http://www.boost.org/LICENSE_1_0.txt)
-==============================================================================*/
-#if !defined(FUSION_INCLUDE_BEGIN)
-#define FUSION_INCLUDE_BEGIN
-
-#include <boost/fusion/support/config.hpp>
-#include <boost/fusion/sequence/intrinsic/begin.hpp>
-
-#endif
+version https://git-lfs.github.com/spec/v1
+oid sha256:9c75a57e10401a4311249fed62879ba08510812da050276fba9a5b7d40493a7c
+size 542

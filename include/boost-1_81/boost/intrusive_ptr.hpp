@@ -1,18 +1,3 @@
-#ifndef BOOST_INTRUSIVE_PTR_HPP_INCLUDED
-#define BOOST_INTRUSIVE_PTR_HPP_INCLUDED
-
-//
-//  intrusive_ptr.hpp
-//
-//  Copyright (c) 2001, 2002 Peter Dimov
-//
-//  Distributed under the Boost Software License, Version 1.0.
-//  See accompanying file LICENSE_1_0.txt or copy at
-//  http://www.boost.org/LICENSE_1_0.txt
-//
-//  See http://www.boost.org/libs/smart_ptr/ for documentation.
-//
-
-#include <boost/smart_ptr/intrusive_ptr.hpp>
-
-#endif  // #ifndef BOOST_INTRUSIVE_PTR_HPP_INCLUDED
+version https://git-lfs.github.com/spec/v1
+oid sha256:a8f86f42be2063c864b2df8ba75c704dce324e2689ef81b1d5e46cadd1cbe1d5
+size 499

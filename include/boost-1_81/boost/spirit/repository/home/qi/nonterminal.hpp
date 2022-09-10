@@ -1,18 +1,3 @@
-//  Copyright (c) 2001-2011 Hartmut Kaiser
-//  Copyright (c) 2001-2011 Joel de Guzman
-//  Copyright (c) 2009 Francois Barel
-//
-//  Distributed under the Boost Software License, Version 1.0. (See accompanying
-//  file LICENSE_1_0.txt or copy at http://www.boost.org/LICENSE_1_0.txt)
-
-#ifndef BOOST_SPIRIT_REPOSITORY_QI_NONTERMINAL_HPP
-#define BOOST_SPIRIT_REPOSITORY_QI_NONTERMINAL_HPP
-
-#if defined(_MSC_VER)
-#pragma once
-#endif
-
-#include <boost/spirit/repository/home/qi/nonterminal/subrule.hpp>
-
-#endif
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:a6c2c2979a8a48ecae73d1aedf5576ceebdaad4958b1dfc0378038ed9fcedb8c
+size 523

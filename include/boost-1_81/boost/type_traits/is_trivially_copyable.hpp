@@ -1,31 +1,3 @@
-/*
-Copyright 2020 Glen Joseph Fernandes
-(glenjofe@gmail.com)
-
-Distributed under the Boost Software License,
-Version 1.0. (See accompanying file LICENSE_1_0.txt
-or copy at http://www.boost.org/LICENSE_1_0.txt)
-*/
-
-#ifndef BOOST_TT_IS_TRIVIALLY_COPYABLE_HPP_INCLUDED
-#define BOOST_TT_IS_TRIVIALLY_COPYABLE_HPP_INCLUDED
-
-#include <boost/type_traits/has_trivial_assign.hpp>
-#include <boost/type_traits/has_trivial_copy.hpp>
-#include <boost/type_traits/has_trivial_destructor.hpp>
-#include <boost/type_traits/has_trivial_move_assign.hpp>
-#include <boost/type_traits/has_trivial_move_constructor.hpp>
-
-namespace boost {
-
-template<class T>
-struct is_trivially_copyable
-    : integral_constant<bool, has_trivial_copy<T>::value &&
-        has_trivial_assign<T>::value &&
-        has_trivial_move_constructor<T>::value &&
-        has_trivial_move_assign<T>::value &&
-        has_trivial_destructor<T>::value> { };
-
-} /* boost */
-
-#endif
+version https://git-lfs.github.com/spec/v1
+oid sha256:3dfa0b8227c5c17b9eec248a75922cdd081e4bc63eddae8f3a6749c18e8b62e4
+size 958

@@ -1,25 +1,3 @@
-//---------------------------------------------------------------------------//
-// Copyright (c) 2013 Kyle Lutz <kyle.r.lutz@gmail.com>
-//
-// Distributed under the Boost Software License, Version 1.0
-// See accompanying file LICENSE_1_0.txt or copy at
-// http://www.boost.org/LICENSE_1_0.txt
-//
-// See http://boostorg.github.com/compute for more information.
-//---------------------------------------------------------------------------//
-
-#ifndef BOOST_COMPUTE_CONTAINER_STRING_HPP
-#define BOOST_COMPUTE_CONTAINER_STRING_HPP
-
-#include <boost/compute/types/fundamental.hpp>
-#include <boost/compute/container/basic_string.hpp>
-
-namespace boost {
-namespace compute {
-
-typedef basic_string<char_> string;
-
-} // end compute namespace
-} // end boost namespace
-
-#endif // BOOST_COMPUTE_CONTAINER_STRING_HPP
+version https://git-lfs.github.com/spec/v1
+oid sha256:60da9be606b2017fb531b03a56b679d786d582dd52ffffb1e032688e38b155e2
+size 826

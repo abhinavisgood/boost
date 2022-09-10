@@ -1,24 +1,3 @@
-#ifndef BOOST_METAPARSE_V1_CPP98_IMPL_ONE_CHAR_EXCEPT_NOT_USED_HPP
-#define BOOST_METAPARSE_V1_CPP98_IMPL_ONE_CHAR_EXCEPT_NOT_USED_HPP
-
-// Copyright Abel Sinkovics (abel@sinkovics.hu)  2013.
-// Distributed under the Boost Software License, Version 1.0.
-//    (See accompanying file LICENSE_1_0.txt or copy at
-//          http://www.boost.org/LICENSE_1_0.txt)
-
-namespace boost
-{
-  namespace metaparse
-  {
-    namespace v1
-    {
-      namespace impl
-      {
-        struct one_char_except_not_used {};
-      }
-    }
-  }
-}
-
-#endif
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:18502b572d16dcd42c82bac1c323bc16f4a0fc7a49b37b8c4b71cf3e2e0264af
+size 552

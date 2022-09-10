@@ -1,12 +1,3 @@
-/*=============================================================================
-  Copyright (c) 2001-2008 Joel de Guzman
-  Copyright (c) 2001-2008 Hartmut Kaiser
-  http://spirit.sourceforge.net/
-
-  Distributed under the Boost Software License, Version 1.0. (See accompanying
-  file LICENSE_1_0.txt or copy at http://www.boost.org/LICENSE_1_0.txt)
-=============================================================================*/
-#ifndef BOOST_SPIRIT_INCLUDE_CLASSIC_WHILE
-#define BOOST_SPIRIT_INCLUDE_CLASSIC_WHILE
-#include <boost/spirit/home/classic/dynamic/while.hpp>
-#endif
+version https://git-lfs.github.com/spec/v1
+oid sha256:08e44ab54da8bb5e8da3c035c494c880eb3e4496f65ce314c0eaeae457940b70
+size 587

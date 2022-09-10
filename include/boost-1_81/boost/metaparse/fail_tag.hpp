@@ -1,21 +1,3 @@
-#ifndef BOOST_METAPARSE_FAIL_TAG_HPP
-#define BOOST_METAPARSE_FAIL_TAG_HPP
-
-// Copyright Abel Sinkovics (abel@sinkovics.hu)  2013.
-// Distributed under the Boost Software License, Version 1.0.
-//    (See accompanying file LICENSE_1_0.txt or copy at
-//          http://www.boost.org/LICENSE_1_0.txt)
-
-#include <boost/metaparse/v1/fail_tag.hpp>
-
-namespace boost
-{
-  namespace metaparse
-  {
-    using v1::fail_tag;
-  }
-}
-
-#endif
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:f44a44be58e445c8d96e0e4ff8f51cb9c6a5404919df7d813abee5959b82aab9
+size 448

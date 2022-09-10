@@ -1,14 +1,3 @@
-/*=============================================================================
-    Copyright (c) 2010 Christopher Schmidt
-
-    Distributed under the Boost Software License, Version 1.0. (See accompanying
-    file LICENSE_1_0.txt or copy at http://www.boost.org/LICENSE_1_0.txt)
-==============================================================================*/
-
-#ifndef BOOST_FUSION_INCLUDE_ADAPT_ADT_NAMED_HPP
-#define BOOST_FUSION_INCLUDE_ADAPT_ADT_NAMED_HPP
-
-#include <boost/fusion/support/config.hpp>
-#include <boost/fusion/adapted/adt/adapt_adt_named.hpp>
-
-#endif
+version https://git-lfs.github.com/spec/v1
+oid sha256:eb5c8e40befc60ff99f2ac10f97cb8f82551e263dd654149408e7b1fb6a1a063
+size 581

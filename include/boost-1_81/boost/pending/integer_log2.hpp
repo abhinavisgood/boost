@@ -1,9 +1,3 @@
-#ifndef BOOST_PENDING_INTEGER_LOG2_HPP
-#define BOOST_PENDING_INTEGER_LOG2_HPP
-
-#include <boost/integer/integer_log2.hpp>
-#include <boost/config/header_deprecated.hpp>
-
-BOOST_HEADER_DEPRECATED("<boost/integer/integer_log2.hpp>");
-
-#endif
+version https://git-lfs.github.com/spec/v1
+oid sha256:5a06629b307e3ca89681f21d92cdfcdd10f75ec8bde9a9a23c62e72e509e0745
+size 246

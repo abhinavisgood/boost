@@ -1,31 +1,3 @@
-// Copyright Antony Polukhin, 2016-2022.
-//
-// Distributed under the Boost Software License, Version 1.0. (See
-// accompanying file LICENSE_1_0.txt or copy at
-// http://www.boost.org/LICENSE_1_0.txt)
-
-// No include guards! Intentionally.
-
-// Link or header only
-#if !defined(BOOST_STACKTRACE_LINK) && defined(BOOST_STACKTRACE_DYN_LINK)
-#   define BOOST_STACKTRACE_LINK
-#endif
-
-#if defined(BOOST_STACKTRACE_LINK) && !defined(BOOST_STACKTRACE_DYN_LINK) && defined(BOOST_ALL_DYN_LINK)
-#   define BOOST_STACKTRACE_DYN_LINK
-#endif
-
-#ifdef BOOST_STACKTRACE_LINK
-#   if defined(BOOST_STACKTRACE_DYN_LINK)
-#       ifdef BOOST_STACKTRACE_INTERNAL_BUILD_LIBS
-#           define BOOST_STACKTRACE_FUNCTION BOOST_SYMBOL_EXPORT
-#       else
-#           define BOOST_STACKTRACE_FUNCTION BOOST_SYMBOL_IMPORT
-#       endif
-#   else
-#       define BOOST_STACKTRACE_FUNCTION
-#   endif
-#elif !defined(BOOST_STACKTRACE_DOXYGEN_INVOKED)
-#   define BOOST_STACKTRACE_FUNCTION inline
-#endif
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:3a349808df9f6f9a3ca7fc03db0e4aae10f8745e480822f90206451c0fc2ef37
+size 998

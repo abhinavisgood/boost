@@ -1,13 +1,3 @@
-/*=============================================================================
-    Copyright (c) 2001-2007 Joel de Guzman
-
-    Distributed under the Boost Software License, Version 1.0. (See accompanying
-    file LICENSE_1_0.txt or copy at http://www.boost.org/LICENSE_1_0.txt)
-==============================================================================*/
-#if !defined(FUSION_INCLUDE_TRANSFORMATION)
-#define FUSION_INCLUDE_TRANSFORMATION
-
-#include <boost/fusion/support/config.hpp>
-#include <boost/fusion/algorithm/transformation.hpp>
-
-#endif
+version https://git-lfs.github.com/spec/v1
+oid sha256:b09d2b5f4306f6bd9487fd59227959b9ebcc9b5a6dbc8de7e383233702893b24
+size 560

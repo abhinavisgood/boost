@@ -1,20 +1,3 @@
-#ifndef BOOST_METAPARSE_TOKEN_HPP
-#define BOOST_METAPARSE_TOKEN_HPP
-
-// Copyright Abel Sinkovics (abel@sinkovics.hu)  2013.
-// Distributed under the Boost Software License, Version 1.0.
-//    (See accompanying file LICENSE_1_0.txt or copy at
-//          http://www.boost.org/LICENSE_1_0.txt)
-
-#include <boost/metaparse/v1/token.hpp>
-
-namespace boost
-{
-  namespace metaparse
-  {
-    using v1::token;
-  }
-}
-
-#endif
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:65939eb7096a73b9372d78956fa8280442e5ebd7245662597aa9038c71e760e2
+size 434

@@ -1,20 +1,3 @@
-
-//  (C) Copyright John Maddock and Steve Cleary 2000.
-//  Use, modification and distribution are subject to the Boost Software License,
-//  Version 1.0. (See accompanying file LICENSE_1_0.txt or copy at
-//  http://www.boost.org/LICENSE_1_0.txt).
-//
-//  See http://www.boost.org/libs/type_traits for most recent version including documentation.
-//
-//  macros and helpers for working with integral-constant-expressions.
-
-#ifndef BOOST_TT_ICE_HPP_INCLUDED
-#define BOOST_TT_ICE_HPP_INCLUDED
-
-#include <boost/type_traits/detail/yes_no_type.hpp>
-#include <boost/type_traits/detail/ice_or.hpp>
-#include <boost/type_traits/detail/ice_and.hpp>
-#include <boost/type_traits/detail/ice_not.hpp>
-#include <boost/type_traits/detail/ice_eq.hpp>
-
-#endif // BOOST_TT_ICE_HPP_INCLUDED
+version https://git-lfs.github.com/spec/v1
+oid sha256:2b03a38f886de7d1643999e8d2d4ce2c72711c3256b5611c1769146e78256a8d
+size 788

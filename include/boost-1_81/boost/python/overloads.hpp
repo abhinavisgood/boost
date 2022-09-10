@@ -1,13 +1,3 @@
-// Copyright David Abrahams 2002.
-// Distributed under the Boost Software License, Version 1.0. (See
-// accompanying file LICENSE_1_0.txt or copy at
-// http://www.boost.org/LICENSE_1_0.txt)
-#ifndef OVERLOADS_DWA2002101_HPP
-# define OVERLOADS_DWA2002101_HPP
-
-# include <boost/python/detail/prefix.hpp>
-
-# include <boost/python/detail/overloads_fwd.hpp>
-# include <boost/python/detail/defaults_def.hpp>
-
-#endif // OVERLOADS_DWA2002101_HPP
+version https://git-lfs.github.com/spec/v1
+oid sha256:c27c86982c1f943889f3d8a62bc077d393caaa8d43e7218ade40c10be6435aee
+size 450

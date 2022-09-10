@@ -1,20 +1,3 @@
-#ifndef BOOST_METAPARSE_GET_LINE_HPP
-#define BOOST_METAPARSE_GET_LINE_HPP
-
-//    Copyright Abel Sinkovics (abel@sinkovics.hu) 2013.
-// Distributed under the Boost Software License, Version 1.0.
-//    (See accompanying file LICENSE_1_0.txt or copy at
-//          http://www.boost.org/LICENSE_1_0.txt)
-
-#include <boost/metaparse/v1/get_line.hpp>
-
-namespace boost
-{
-  namespace metaparse
-  {
-    using v1::get_line;
-  }
-}
-
-#endif
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:0770b7d231410bfe22b01c6255f3c5f64a71584d29b6f5340318c0f2b937069d
+size 448

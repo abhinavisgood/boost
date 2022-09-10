@@ -1,27 +1,3 @@
-#ifndef BOOST_DESCRIBE_DETAIL_LIST_HPP_INCLUDED
-#define BOOST_DESCRIBE_DETAIL_LIST_HPP_INCLUDED
-
-// Copyright 2020 Peter Dimov
-// Distributed under the Boost Software License, Version 1.0.
-// https://www.boost.org/LICENSE_1_0.txt
-
-#include <boost/describe/detail/config.hpp>
-
-#if defined(BOOST_DESCRIBE_CXX11)
-
-namespace boost
-{
-namespace describe
-{
-namespace detail
-{
-
-template<class... T> struct list {};
-
-} // namespace detail
-} // namespace describe
-} // namespace boost
-
-#endif // defined(BOOST_DESCRIBE_CXX11)
-
-#endif // #ifndef BOOST_DESCRIBE_DETAIL_LIST_HPP_INCLUDED
+version https://git-lfs.github.com/spec/v1
+oid sha256:3476653020c56d41e8f9f83c33d9beda212f3958b95c2c37481e55508d637727
+size 602

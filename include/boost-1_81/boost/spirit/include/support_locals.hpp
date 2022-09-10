@@ -1,18 +1,3 @@
-/*=============================================================================
-    Copyright (c) 2001-2011 Joel de Guzman
-    Copyright (c) 2001-2011 Hartmut Kaiser
-    http://spirit.sourceforge.net/
-
-    Distributed under the Boost Software License, Version 1.0. (See accompanying
-    file LICENSE_1_0.txt or copy at http://www.boost.org/LICENSE_1_0.txt)
-=============================================================================*/
-#ifndef BOOST_SPIRIT_INCLUDE_SUPPORT_LOCALS
-#define BOOST_SPIRIT_INCLUDE_SUPPORT_LOCALS
-
-#if defined(_MSC_VER)
-#pragma once
-#endif
-
-#include <boost/spirit/home/support/nonterminal/locals.hpp>
-
-#endif
+version https://git-lfs.github.com/spec/v1
+oid sha256:540b03c5e6047b73657765b12832d4e26b82f63eec6f1c2082218420e2e7fa9e
+size 655

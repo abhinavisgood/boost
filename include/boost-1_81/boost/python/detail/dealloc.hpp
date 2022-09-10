@@ -1,17 +1,3 @@
-// Copyright Gottfried Ganßauge 2003.
-// Distributed under the Boost Software License, Version 1.0. (See
-// accompanying file LICENSE_1_0.txt or copy at
-// http://www.boost.org/LICENSE_1_0.txt)
-
-# ifndef BOOST_PYTHON_DETAIL_DEALLOC_HPP_
-# define BOOST_PYTHON_DETAIL_DEALLOC_HPP_
-namespace boost { namespace python { namespace detail {
-    extern "C"
-    {
-        inline void dealloc(PyObject* self)
-        {
-          PyObject_Del(self);
-        }
-    }
-}}} // namespace boost::python::detail
-# endif    // BOOST_PYTHON_DETAIL_DEALLOC_HPP_
+version https://git-lfs.github.com/spec/v1
+oid sha256:f4159ff5cb583a5cf8e7b626d813d1f54195b202bf2a5f892d440036753d6bb0
+size 560

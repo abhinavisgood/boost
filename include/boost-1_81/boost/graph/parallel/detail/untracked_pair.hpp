@@ -1,11 +1,3 @@
-// Copyright (C) 2007 Matthias Troyer
-//
-// Use, modification and distribution is subject to the Boost Software
-// License, Version 1.0. (See accompanying file LICENSE_1_0.txt or copy at
-//
-// This file contains helper data structures for use in transmitting
-// properties. The basic idea is to optimize away any storage for the
-// properties when no properties are specified.
-
-// File moved
-#include <boost/property_map/parallel/detail/untracked_pair.hpp>
+version https://git-lfs.github.com/spec/v1
+oid sha256:ef7b82d65cbe9e5824c68c43f20abd492b47019c9f7b0cf0d613a5af5c5cd770
+size 468

@@ -1,33 +1,3 @@
-// Boost.Units - A C++ library for zero-overhead dimensional analysis and 
-// unit/quantity manipulation and conversion
-//
-// Copyright (C) 2003-2008 Matthias Christian Schabel
-// Copyright (C) 2008 Steven Watanabe
-//
-// Distributed under the Boost Software License, Version 1.0. (See
-// accompanying file LICENSE_1_0.txt or copy at
-// http://www.boost.org/LICENSE_1_0.txt)
-
-#ifndef BOOST_UNITS_SI_ILLUMINANCE_HPP
-#define BOOST_UNITS_SI_ILLUMINANCE_HPP
-
-#include <boost/units/systems/si/base.hpp>
-#include <boost/units/physical_dimensions/illuminance.hpp>
-
-namespace boost {
-
-namespace units { 
-
-namespace si {
-
-typedef unit<illuminance_dimension,si::system>      illuminance;
-    
-BOOST_UNITS_STATIC_CONSTANT(lux,illuminance); 
-
-} // namespace si
-
-} // namespace units
-
-} // namespace boost
-
-#endif // BOOST_UNITS_SI_ILLUMINANCE_HPP
+version https://git-lfs.github.com/spec/v1
+oid sha256:b34a60e3d628546a817a5a8453b6708e4ca1276e9b865fa27ce6e3bb260f95fe
+size 867

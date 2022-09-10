@@ -1,16 +1,3 @@
-//
-// Copyright 2005-2007 Adobe Systems Incorporated
-// Copyright 2021 Pranam Lashkari <plashkari628@gmail.com>
-//
-// Distributed under the Boost Software License, Version 1.0
-// See accompanying file LICENSE_1_0.txt or copy at
-// http://www.boost.org/LICENSE_1_0.txt
-//
-#ifndef BOOST_GIL_EXTENSION_NUMERIC_PIXEL_NUMERIC_OPERATIONS_HPP
-#define BOOST_GIL_EXTENSION_NUMERIC_PIXEL_NUMERIC_OPERATIONS_HPP
-
-#include <boost/config/header_deprecated.hpp>
-
-BOOST_HEADER_DEPRECATED("<boost/gil/pixel_numeric_operations.hpp>")
-
-#endif
+version https://git-lfs.github.com/spec/v1
+oid sha256:65f93431a67f2e12b73e2d2c5baf8a697b59d14de2c54ad2ae5948d22c595c67
+size 541

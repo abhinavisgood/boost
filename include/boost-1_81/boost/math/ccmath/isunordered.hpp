@@ -1,31 +1,3 @@
-//  (C) Copyright Matt Borland 2022.
-//  Use, modification and distribution are subject to the
-//  Boost Software License, Version 1.0. (See accompanying file
-//  LICENSE_1_0.txt or copy at http://www.boost.org/LICENSE_1_0.txt)
-
-#ifndef BOOST_MATH_CCMATH_ISUNORDERED_HPP
-#define BOOST_MATH_CCMATH_ISUNORDERED_HPP
-
-#include <cmath>
-#include <boost/math/tools/is_constant_evaluated.hpp>
-#include <boost/math/ccmath/isnan.hpp>
-
-namespace boost::math::ccmath {
-
-template <typename T>
-inline constexpr bool isunordered(const T x, const T y) noexcept
-{
-    if(BOOST_MATH_IS_CONSTANT_EVALUATED(x))
-    {
-        return boost::math::ccmath::isnan(x) || boost::math::ccmath::isnan(y);
-    }
-    else
-    {
-        using std::isunordered;
-        return isunordered(x, y);
-    }
-}
-
-} // Namespaces
-
-#endif // BOOST_MATH_CCMATH_ISUNORDERED_HPP
+version https://git-lfs.github.com/spec/v1
+oid sha256:3a5d28baf70907dd93b8a442e2f14b5ca981a2d0e3b78334199d15d134bdc33e
+size 864

@@ -1,25 +1,3 @@
-// -----------------------------------------------------------
-//
-//   Copyright (c) 2001-2002 Chuck Allison and Jeremy Siek
-//            Copyright (c) 2003-2004 Gennaro Prota
-//
-// Distributed under the Boost Software License, Version 1.0.
-//    (See accompanying file LICENSE_1_0.txt or copy at
-//          http://www.boost.org/LICENSE_1_0.txt)
-//
-// -----------------------------------------------------------
-
-#ifndef BOOST_DYNAMIC_BITSET_FWD_HPP
-#define BOOST_DYNAMIC_BITSET_FWD_HPP
-
-#include <memory>
-
-namespace boost {
-
-template <typename Block = unsigned long,
-          typename Allocator = std::allocator<Block> >
-class dynamic_bitset;
-
-}
-
-#endif // include guard
+version https://git-lfs.github.com/spec/v1
+oid sha256:5efeef8a9eadb91c42c91fb438ab68e6138a95aa31607455f964ab0f22e7f152
+size 700

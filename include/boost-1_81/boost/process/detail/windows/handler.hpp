@@ -1,20 +1,3 @@
-// Copyright (c) 2016 Klemens D. Morgenstern
-//
-// Distributed under the Boost Software License, Version 1.0. (See accompanying
-// file LICENSE_1_0.txt or copy at http://www.boost.org/LICENSE_1_0.txt)
-
-#ifndef BOOST_PROCESS_DETAIL_WINDOWS_HANDLER_HPP_
-#define BOOST_PROCESS_DETAIL_WINDOWS_HANDLER_HPP_
-
-#include <boost/process/detail/handler_base.hpp>
-
-namespace boost { namespace process { namespace detail { namespace windows {
-
-//does not extend anything.
-struct handler_base_ext : handler_base {};
-
-}}}}
-
-
-
-#endif /* BOOST_PROCESS_DETAIL_WINDOWS_HANDLER_HPP_ */
+version https://git-lfs.github.com/spec/v1
+oid sha256:61e8468afca0d01db4e11715b512d0a9bd9d2c41060f5aaafecda25c3513bb00
+size 586

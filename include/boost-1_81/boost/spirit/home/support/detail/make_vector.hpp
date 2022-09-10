@@ -1,21 +1,3 @@
-/*=============================================================================
-    Copyright (c) 2001-2010 Joel de Guzman
-
-    Distributed under the Boost Software License, Version 1.0. (See accompanying
-    file LICENSE_1_0.txt or copy at http://www.boost.org/LICENSE_1_0.txt)
-==============================================================================*/
-#ifndef BOOST_SPIRIT_SUPPORT_DETAIL_MAKE_VECTOR_HPP
-#define BOOST_SPIRIT_SUPPORT_DETAIL_MAKE_VECTOR_HPP
-
-#include <boost/fusion/include/make_vector.hpp>
-
-namespace boost { namespace spirit { namespace detail
-{
-    namespace result_of
-    {
-        using fusion::result_of::make_vector;
-    }
-    using fusion::make_vector;
-}}}
-
-#endif
+version https://git-lfs.github.com/spec/v1
+oid sha256:c1372bee2513ce120f465cab681c89cbd19b58323d4953c825470edc6510fa4e
+size 716

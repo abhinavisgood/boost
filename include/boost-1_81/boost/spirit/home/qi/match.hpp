@@ -1,16 +1,3 @@
-//  Copyright (c) 2001-2011 Hartmut Kaiser
-//
-//  Distributed under the Boost Software License, Version 1.0. (See accompanying
-//  file LICENSE_1_0.txt or copy at http://www.boost.org/LICENSE_1_0.txt)
-
-#if !defined(BOOST_SPIRIT_QI_MATCH_DEC_02_2009_0749PM)
-#define BOOST_SPIRIT_QI_MATCH_DEC_02_2009_0749PM
-
-#if defined(_MSC_VER)
-#pragma once
-#endif
-
-#include <boost/spirit/home/qi/stream/match_manip.hpp>
-#include <boost/spirit/home/qi/stream/match_manip_attr.hpp>
-
-#endif
+version https://git-lfs.github.com/spec/v1
+oid sha256:742a0c3b4a9d5b5dd77940c8d1b6beae369705b86b9e6f3d1b7838052d9ed15f
+size 489

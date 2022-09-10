@@ -1,11 +1,3 @@
-/* Copyright 2003-2016 Joaquin M Lopez Munoz.
- * Distributed under the Boost Software License, Version 1.0.
- * (See accompanying file LICENSE_1_0.txt or copy at
- * http://www.boost.org/LICENSE_1_0.txt)
- *
- * See http://www.boost.org/libs/multi_index for library home page.
- */
-
-#define BOOST_MULTI_INDEX_DETAIL_RESTORE_WSTRICT_ALIASING
-#include <boost/multi_index/detail/ignore_wstrict_aliasing.hpp>
-#undef BOOST_MULTI_INDEX_DETAIL_RESTORE_WSTRICT_ALIASING
+version https://git-lfs.github.com/spec/v1
+oid sha256:9b95959730c97886ada9bdbd039684c0043140acf8e9bc422d41f24b9924c6bf
+size 468

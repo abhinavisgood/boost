@@ -1,33 +1,3 @@
-/*!
-@file
-Defines `boost::hana::Functor`.
-
-@copyright Louis Dionne 2013-2017
-Distributed under the Boost Software License, Version 1.0.
-(See accompanying file LICENSE.md or copy at http://boost.org/LICENSE_1_0.txt)
- */
-
-#ifndef BOOST_HANA_CONCEPT_FUNCTOR_HPP
-#define BOOST_HANA_CONCEPT_FUNCTOR_HPP
-
-#include <boost/hana/fwd/concept/functor.hpp>
-
-#include <boost/hana/adjust_if.hpp>
-#include <boost/hana/config.hpp>
-#include <boost/hana/core/default.hpp>
-#include <boost/hana/core/tag_of.hpp>
-#include <boost/hana/detail/integral_constant.hpp>
-#include <boost/hana/transform.hpp>
-
-
-namespace boost { namespace hana {
-    template <typename F>
-    struct Functor
-        : hana::integral_constant<bool,
-            !is_default<transform_impl<typename tag_of<F>::type>>::value ||
-            !is_default<adjust_if_impl<typename tag_of<F>::type>>::value
-        >
-    { };
-}} // end namespace boost::hana
-
-#endif // !BOOST_HANA_CONCEPT_FUNCTOR_HPP
+version https://git-lfs.github.com/spec/v1
+oid sha256:c8569ddc9d4bcab4605021d228465b5b155daebb49fe3428a7ee795159a8e260
+size 977

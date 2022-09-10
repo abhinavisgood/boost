@@ -1,29 +1,3 @@
-#ifndef BOOST_MP11_MPL_TUPLE_HPP_INCLUDED
-#define BOOST_MP11_MPL_TUPLE_HPP_INCLUDED
-
-// Copyright 2017, 2019 Peter Dimov.
-//
-// Distributed under the Boost Software License, Version 1.0.
-//
-// See accompanying file LICENSE_1_0.txt or copy at
-// http://www.boost.org/LICENSE_1_0.txt
-
-#include <boost/mp11/detail/mpl_common.hpp>
-#include <tuple>
-
-namespace boost
-{
-namespace mpl
-{
-
-template< typename Sequence > struct sequence_tag;
-
-template<class... T> struct sequence_tag<std::tuple<T...>>
-{
-    using type = aux::mp11_tag;
-};
-
-} // namespace mpl
-} // namespace boost
-
-#endif // #ifndef BOOST_MP11_MPL_TUPLE_HPP_INCLUDED
+version https://git-lfs.github.com/spec/v1
+oid sha256:80c8ce7307eaa23019f893f5bf71ac8d596b2613bff6a76700e764de8ed578eb
+size 651

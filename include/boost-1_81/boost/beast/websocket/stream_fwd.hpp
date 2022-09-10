@@ -1,34 +1,3 @@
-//
-// Copyright (c) 2016-2019 Vinnie Falco (vinnie dot falco at gmail dot com)
-//
-// Distributed under the Boost Software License, Version 1.0. (See accompanying
-// file LICENSE_1_0.txt or copy at http://www.boost.org/LICENSE_1_0.txt)
-//
-// Official repository: https://github.com/boostorg/beast
-//
-
-#ifndef BOOST_BEAST_WEBSOCKET_STREAM_FWD_HPP
-#define BOOST_BEAST_WEBSOCKET_STREAM_FWD_HPP
-
-#include <boost/beast/core/detail/config.hpp>
-
-//[code_websocket_1h
-
-namespace boost {
-namespace beast {
-namespace websocket {
-
-#ifndef BOOST_BEAST_DOXYGEN
-template<
-    class NextLayer,
-    bool deflateSupported = true>
-class stream;
-#endif
-
-} // websocket
-} // beast
-} // boost
-
-//]
-
-#endif
+version https://git-lfs.github.com/spec/v1
+oid sha256:0995f06213e633968f2d4499ccfee9feac929dd5b8aa9fae898b89d67e5b36de
+size 718

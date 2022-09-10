@@ -1,19 +1,3 @@
-/*=============================================================================
-    Copyright (c) 2016 Paul Fultz II
-    recursive_constexpr_depth.hpp
-    Distributed under the Boost Software License, Version 1.0. (See accompanying
-    file LICENSE_1_0.txt or copy at http://www.boost.org/LICENSE_1_0.txt)
-==============================================================================*/
-
-#ifndef BOOST_HOF_GUARD_RECURSIVE_CONSTEXPR_DEPTH_HPP
-#define BOOST_HOF_GUARD_RECURSIVE_CONSTEXPR_DEPTH_HPP
-
-#ifndef BOOST_HOF_RECURSIVE_CONSTEXPR_DEPTH
-#define BOOST_HOF_RECURSIVE_CONSTEXPR_DEPTH 16
-#endif
-
-namespace boost { namespace hof {
-
-}} // namespace boost::hof
-
-#endif
+version https://git-lfs.github.com/spec/v1
+oid sha256:f53808b40842809bc44ed34c707c0c3069e9f8c82cbfb9f5adf3c747200a08b0
+size 685

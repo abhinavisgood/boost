@@ -1,12 +1,3 @@
-/*=============================================================================
-  Copyright (c) 2001-2008 Joel de Guzman
-  Copyright (c) 2001-2008 Hartmut Kaiser
-  http://spirit.sourceforge.net/
-
-  Distributed under the Boost Software License, Version 1.0. (See accompanying
-  file LICENSE_1_0.txt or copy at http://www.boost.org/LICENSE_1_0.txt)
-=============================================================================*/
-#ifndef BOOST_SPIRIT_INCLUDE_CLASSIC_ERROR_HANDLING
-#define BOOST_SPIRIT_INCLUDE_CLASSIC_ERROR_HANDLING
-#include <boost/spirit/home/classic/error_handling.hpp>
-#endif
+version https://git-lfs.github.com/spec/v1
+oid sha256:a7a48eef5ff3d2e8d2d5f94596d46c09859ea9df927a2115b9c0bf30912377bb
+size 606

@@ -1,12 +1,3 @@
-//---------------------------------------------------------------------------//
-// Copyright (c) 2013-2015 Kyle Lutz <kyle.r.lutz@gmail.com>
-//
-// Distributed under the Boost Software License, Version 1.0
-// See accompanying file LICENSE_1_0.txt or copy at
-// http://www.boost.org/LICENSE_1_0.txt
-//
-// See http://boostorg.github.com/compute for more information.
-//---------------------------------------------------------------------------//
-
-// deprecated, use <boost/compute/image/image_sampler.hpp> instead
-#include <boost/compute/image/image_sampler.hpp>
+version https://git-lfs.github.com/spec/v1
+oid sha256:7f1244c3b2c730cbe175f8589e7fa9f2ca83f99b6b992791bee92d0cd3443ca8
+size 573

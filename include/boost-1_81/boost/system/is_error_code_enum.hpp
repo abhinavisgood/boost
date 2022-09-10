@@ -1,30 +1,3 @@
-#ifndef BOOST_SYSTEM_IS_ERROR_CODE_ENUM_HPP_INCLUDED
-#define BOOST_SYSTEM_IS_ERROR_CODE_ENUM_HPP_INCLUDED
-
-//  Copyright Beman Dawes 2006, 2007
-//  Copyright Christoper Kohlhoff 2007
-//  Copyright Peter Dimov 2017, 2018
-//
-//  Distributed under the Boost Software License, Version 1.0. (See accompanying
-//  file LICENSE_1_0.txt or copy at http://www.boost.org/LICENSE_1_0.txt)
-//
-//  See library home page at http://www.boost.org/libs/system
-
-namespace boost
-{
-
-namespace system
-{
-
-class error_code;
-
-template<class T> struct is_error_code_enum
-{
-    static const bool value = false;
-};
-
-} // namespace system
-
-} // namespace boost
-
-#endif // #ifndef BOOST_SYSTEM_IS_ERROR_CODE_ENUM_HPP_INCLUDED
+version https://git-lfs.github.com/spec/v1
+oid sha256:e2f774d7278f3ec26e18e4d78f53be3f2dfdb670911b8950a9dd2c06c2346fb2
+size 727

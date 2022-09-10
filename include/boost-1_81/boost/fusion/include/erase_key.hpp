@@ -1,13 +1,3 @@
-/*=============================================================================
-    Copyright (c) 2001-2007 Joel de Guzman
-
-    Distributed under the Boost Software License, Version 1.0. (See accompanying
-    file LICENSE_1_0.txt or copy at http://www.boost.org/LICENSE_1_0.txt)
-==============================================================================*/
-#if !defined(FUSION_INCLUDE_ERASE_KEY)
-#define FUSION_INCLUDE_ERASE_KEY
-
-#include <boost/fusion/support/config.hpp>
-#include <boost/fusion/algorithm/transformation/erase_key.hpp>
-
-#endif
+version https://git-lfs.github.com/spec/v1
+oid sha256:29c6b4eda9ffa894ea76a9fcb22d0225b985e258b30b19082f1867c6d1b29923
+size 560

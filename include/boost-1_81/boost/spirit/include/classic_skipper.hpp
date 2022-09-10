@@ -1,12 +1,3 @@
-/*=============================================================================
-  Copyright (c) 2001-2008 Joel de Guzman
-  Copyright (c) 2001-2008 Hartmut Kaiser
-  http://spirit.sourceforge.net/
-
-  Distributed under the Boost Software License, Version 1.0. (See accompanying
-  file LICENSE_1_0.txt or copy at http://www.boost.org/LICENSE_1_0.txt)
-=============================================================================*/
-#ifndef BOOST_SPIRIT_INCLUDE_CLASSIC_SKIPPER
-#define BOOST_SPIRIT_INCLUDE_CLASSIC_SKIPPER
-#include <boost/spirit/home/classic/core/scanner/skipper.hpp>
-#endif
+version https://git-lfs.github.com/spec/v1
+oid sha256:35c4e9e4fefe67879c2fdba59332bea409aa7cdd5df92f51edfa8100832edf1d
+size 598

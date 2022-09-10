@@ -1,19 +1,3 @@
-/*=============================================================================
-    Copyright (c) 2001-2011 Joel de Guzman
-    Copyright (c) 2001-2011 Hartmut Kaiser
-    Copyright (c) 2009 Francois Barel
-    http://spirit.sourceforge.net/
-
-    Distributed under the Boost Software License, Version 1.0. (See accompanying
-    file LICENSE_1_0.txt or copy at http://www.boost.org/LICENSE_1_0.txt)
-=============================================================================*/
-#ifndef BOOST_SPIRIT_REPOSITORY_INCLUDE_KARMA_SUBRULE
-#define BOOST_SPIRIT_REPOSITORY_INCLUDE_KARMA_SUBRULE
-
-#if defined(_MSC_VER)
-#pragma once
-#endif
-
-#include <boost/spirit/repository/home/karma/nonterminal/subrule.hpp>
-
-#endif
+version https://git-lfs.github.com/spec/v1
+oid sha256:30a596e473ca4182f72f06e91173e6809c8fa015d1bc1b0eaacbcec2fcf13755
+size 724

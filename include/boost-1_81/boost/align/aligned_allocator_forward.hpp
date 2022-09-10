@@ -1,22 +1,3 @@
-/*
-Copyright 2014 Glen Joseph Fernandes
-(glenjofe@gmail.com)
-
-Distributed under the Boost Software License, Version 1.0.
-(http://www.boost.org/LICENSE_1_0.txt)
-*/
-#ifndef BOOST_ALIGN_ALIGNED_ALLOCATOR_FORWARD_HPP
-#define BOOST_ALIGN_ALIGNED_ALLOCATOR_FORWARD_HPP
-
-#include <cstddef>
-
-namespace boost {
-namespace alignment {
-
-template<class T, std::size_t Alignment = 1>
-class aligned_allocator;
-
-} /* alignment */
-} /* boost */
-
-#endif
+version https://git-lfs.github.com/spec/v1
+oid sha256:eb362d8efa48aa4c8302cfdfd62a95e996f50e00bce195142606eb640f12e807
+size 458

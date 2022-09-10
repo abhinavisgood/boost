@@ -1,21 +1,3 @@
-/*!
-@file
-Includes all the adaptors for the Boost.MPL library.
-
-@copyright Louis Dionne 2013-2017
-Distributed under the Boost Software License, Version 1.0.
-(See accompanying file LICENSE.md or copy at http://boost.org/LICENSE_1_0.txt)
- */
-
-#ifndef BOOST_HANA_EXT_BOOST_MPL_HPP
-#define BOOST_HANA_EXT_BOOST_MPL_HPP
-
-//! @ingroup group-ext
-//! @defgroup group-ext-mpl Boost.MPL adapters
-//! Adapters for Boost.MPL containers.
-
-#include <boost/hana/ext/boost/mpl/integral_c.hpp>
-#include <boost/hana/ext/boost/mpl/list.hpp>
-#include <boost/hana/ext/boost/mpl/vector.hpp>
-
-#endif // !BOOST_HANA_EXT_BOOST_MPL_HPP
+version https://git-lfs.github.com/spec/v1
+oid sha256:6fa127507f894f2d0b11e4fa4442473d964fa9c1a1870661e18a8e566eb19a4d
+size 631

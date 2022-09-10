@@ -1,26 +1,3 @@
-/*=============================================================================
-    Copyright (c) 2001-2014 Joel de Guzman
-    Copyright (c) 2013 Agustin Berge
-
-    Distributed under the Boost Software License, Version 1.0. (See accompanying
-    file LICENSE_1_0.txt or copy at http://www.boost.org/LICENSE_1_0.txt)
-==============================================================================*/
-#if !defined(BOOST_SPIRIT_X3_SFINAE_MAY_20_2013_0840AM)
-#define BOOST_SPIRIT_X3_SFINAE_MAY_20_2013_0840AM
-
-namespace boost { namespace spirit { namespace x3
-{
-    template <typename Expr, typename T = void>
-    struct disable_if_substitution_failure
-    {
-        typedef T type;
-    };
-    
-    template <typename Expr, typename T>
-    struct lazy_disable_if_substitution_failure
-    {
-        typedef typename T::type type;
-    };
-}}}
-
-#endif
+version https://git-lfs.github.com/spec/v1
+oid sha256:92ccef9e0b09e170cc6f8b491f17f699fb75fb710fa1adb774d6c56d18a930aa
+size 868

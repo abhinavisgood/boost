@@ -1,24 +1,3 @@
-/*
- * Copyright 2017 Andrey Semashev
- *
- * Distributed under the Boost Software License, Version 1.0.
- * See http://www.boost.org/LICENSE_1_0.txt
- *
- * This header is deprecated, use boost/winapi/timers.hpp instead.
- */
-
-#ifndef BOOST_DETAIL_WINAPI_TIMERS_HPP
-#define BOOST_DETAIL_WINAPI_TIMERS_HPP
-
-#include <boost/config/header_deprecated.hpp>
-
-BOOST_HEADER_DEPRECATED("<boost/winapi/timers.hpp>")
-
-#include <boost/winapi/timers.hpp>
-#include <boost/detail/winapi/detail/deprecated_namespace.hpp>
-
-#ifdef BOOST_HAS_PRAGMA_ONCE
-#pragma once
-#endif
-
-#endif // BOOST_DETAIL_WINAPI_TIMERS_HPP
+version https://git-lfs.github.com/spec/v1
+oid sha256:87ed58871e8864cda0a35b06dd4dd28d18afeda7103de312afa32b83eefa52d0
+size 615

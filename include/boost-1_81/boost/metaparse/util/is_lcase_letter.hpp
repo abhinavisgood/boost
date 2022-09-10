@@ -1,23 +1,3 @@
-#ifndef BOOST_METAPARSE_UTIL_IS_LCASE_LETTER_HPP
-#define BOOST_METAPARSE_UTIL_IS_LCASE_LETTER_HPP
-
-// Copyright Abel Sinkovics (abel@sinkovics.hu)  2013.
-// Distributed under the Boost Software License, Version 1.0.
-//    (See accompanying file LICENSE_1_0.txt or copy at
-//          http://www.boost.org/LICENSE_1_0.txt)
-
-#include <boost/metaparse/v1/util/is_lcase_letter.hpp>
-
-namespace boost
-{
-  namespace metaparse
-  {
-    namespace util
-    {
-      using v1::util::is_lcase_letter;
-    }
-  }
-}
-
-#endif
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:34bc31a0b6283c7f77d994ff559c03e7a603db4c1c7ae01853f34d6c639afc69
+size 531

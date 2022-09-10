@@ -1,19 +1,3 @@
-// Copyright David Abrahams 2002.
-// Distributed under the Boost Software License, Version 1.0. (See
-// accompanying file LICENSE_1_0.txt or copy at
-// http://www.boost.org/LICENSE_1_0.txt)
-#ifndef CLASS_DETAIL_DWA200295_HPP
-# define CLASS_DETAIL_DWA200295_HPP
-
-# include <boost/python/handle.hpp>
-# include <boost/python/type_id.hpp>
-
-namespace boost { namespace python { namespace objects { 
-
-BOOST_PYTHON_DECL type_handle registered_class_object(type_info id);
-BOOST_PYTHON_DECL type_handle class_metatype();
-BOOST_PYTHON_DECL type_handle class_type();
-
-}}} // namespace boost::python::object
-
-#endif // CLASS_DETAIL_DWA200295_HPP
+version https://git-lfs.github.com/spec/v1
+oid sha256:0972b2417f5f82d55704f05928ad8d36620dafae72e005eafe3bea3c1819ca4e
+size 653

@@ -1,16 +1,3 @@
-#//////////////////////////////////////////////////////////////////////////////
-#//
-#// (C) Copyright Ion Gaztanaga 2015-2015.
-#// Distributed under the Boost Software License, Version 1.0.
-#// (See accompanying file LICENSE_1_0.txt or copy at
-#// http://www.boost.org/LICENSE_1_0.txt)
-#//
-#// See http://www.boost.org/libs/move for documentation.
-#//
-#//////////////////////////////////////////////////////////////////////////////
-#ifdef BOOST_MOVE_STD_NS_GCC_DIAGNOSTIC_PUSH
-   #pragma GCC diagnostic pop
-   #undef BOOST_MOVE_STD_NS_GCC_DIAGNOSTIC_PUSH
-#elif defined(_MSC_VER) && (_MSC_VER >= 1915)
-   #pragma warning (pop)
-#endif   //BOOST_MOVE_STD_NS_GCC_DIAGNOSTIC_PUSH
+version https://git-lfs.github.com/spec/v1
+oid sha256:e9ee9c76c874a4afad728933ea41bf2b2dc153e6b2deebf7ac5b4c870fa5b042
+size 691

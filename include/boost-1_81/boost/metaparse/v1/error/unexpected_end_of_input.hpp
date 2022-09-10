@@ -1,30 +1,3 @@
-#ifndef BOOST_METAPARSE_V1_ERROR_UNEXPECTED_END_OF_INPUT_HPP
-#define BOOST_METAPARSE_V1_ERROR_UNEXPECTED_END_OF_INPUT_HPP
-
-// Copyright Abel Sinkovics (abel@sinkovics.hu)  2013.
-// Distributed under the Boost Software License, Version 1.0.
-//    (See accompanying file LICENSE_1_0.txt or copy at
-//          http://www.boost.org/LICENSE_1_0.txt)
-
-#include <boost/metaparse/v1/define_error.hpp>
-
-namespace boost
-{
-  namespace metaparse
-  {
-    namespace v1
-    {
-      namespace error
-      {
-        BOOST_METAPARSE_V1_DEFINE_ERROR(
-          unexpected_end_of_input,
-          "Unexpected end of input"
-        );
-      }
-    }
-  }
-}
-
-#endif
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:8e311c345f755612b5f5727b9e7b7776add16a0a60fbcc2055648af1d59523ff
+size 675

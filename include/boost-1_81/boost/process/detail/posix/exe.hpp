@@ -1,36 +1,3 @@
-// Copyright (c) 2016 Klemens D. Morgenstern
-//
-// Distributed under the Boost Software License, Version 1.0. (See accompanying
-// file LICENSE_1_0.txt or copy at http://www.boost.org/LICENSE_1_0.txt)
-
-
-#ifndef BOOST_PROCESS_DETAIL_POSIX_EXE_HPP_
-#define BOOST_PROCESS_DETAIL_POSIX_EXE_HPP_
-
-
-namespace boost
-{
-namespace process
-{
-namespace detail
-{
-namespace posix
-{
-
-template<class StringType, class Executor>
-inline void apply_exe(const StringType & exe, Executor & e)
-{
-    e.exe = exe.c_str();
-}
-
-}
-
-
-
-}
-}
-}
-
-
-
-#endif /* INCLUDE_BOOST_PROCESS_WINDOWS_ARGS_HPP_ */
+version https://git-lfs.github.com/spec/v1
+oid sha256:9c647941e7b0215551b201b5bd8d54d0c9bbf5c78a5499149d610f8a179b9615
+size 605

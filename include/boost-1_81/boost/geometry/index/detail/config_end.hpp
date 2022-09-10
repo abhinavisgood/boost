@@ -1,12 +1,3 @@
-// Boost.Geometry Index
-//
-// Copyright (c) 2011-2013 Adam Wulkiewicz, Lodz, Poland.
-//
-// Use, modification and distribution is subject to the Boost Software License,
-// Version 1.0. (See accompanying file LICENSE_1_0.txt or copy at
-// http://www.boost.org/LICENSE_1_0.txt)
-
-#if defined BOOST_MSVC
-    #pragma warning (pop)
-#endif
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:45eea4c5273dd8b39af186f835dcb30964e3313b7b02001c93a6cde5286c63ea
+size 345

@@ -1,24 +1,3 @@
-// Boost.Assign library
-//
-//  Copyright Thorsten Ottosen 2003-2004. Use, modification and
-//  distribution is subject to the Boost Software License, Version
-//  1.0. (See accompanying file LICENSE_1_0.txt or copy at
-//  http://www.boost.org/LICENSE_1_0.txt)
-//
-// For more information, see http://www.boost.org/libs/assign/
-//
-
-
-#ifndef BOOST_ASSIGN_HPP
-#define BOOST_ASSIGN_HPP
-
-#if defined(_MSC_VER)
-# pragma once
-#endif
-
-#include <boost/assign/std.hpp>
-#include <boost/assign/list_of.hpp>
-#include <boost/assign/list_inserter.hpp>
-#include <boost/assign/assignment_exception.hpp>
-
-#endif
+version https://git-lfs.github.com/spec/v1
+oid sha256:45b05ee15acf040da0d1ddadfb673d42182be099fc822ef7239aa002eeeb4171
+size 616

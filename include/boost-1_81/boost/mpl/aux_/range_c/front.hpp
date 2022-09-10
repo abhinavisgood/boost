@@ -1,33 +1,3 @@
-
-#ifndef BOOST_MPL_AUX_RANGE_C_FRONT_HPP_INCLUDED
-#define BOOST_MPL_AUX_RANGE_C_FRONT_HPP_INCLUDED
-
-// Copyright Aleksey Gurtovoy 2000-2004
-//
-// Distributed under the Boost Software License, Version 1.0. 
-// (See accompanying file LICENSE_1_0.txt or copy at 
-// http://www.boost.org/LICENSE_1_0.txt)
-//
-// See http://www.boost.org/libs/mpl for documentation.
-
-// $Id$
-// $Date$
-// $Revision$
-
-#include <boost/mpl/front_fwd.hpp>
-#include <boost/mpl/aux_/range_c/tag.hpp>
-
-namespace boost { namespace mpl {
-
-template<>
-struct front_impl< aux::half_open_range_tag >
-{
-    template< typename Range > struct apply
-    {
-        typedef typename Range::start type;
-    };
-};
-
-}}
-
-#endif // BOOST_MPL_AUX_RANGE_C_FRONT_HPP_INCLUDED
+version https://git-lfs.github.com/spec/v1
+oid sha256:c0a69edf3db21c3b8f13d83c0597932227e3b26b645b5a8d324dc508ebb243f6
+size 759

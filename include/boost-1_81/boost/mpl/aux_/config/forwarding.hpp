@@ -1,27 +1,3 @@
-
-#ifndef BOOST_MPL_AUX_CONFIG_FORWARDING_HPP_INCLUDED
-#define BOOST_MPL_AUX_CONFIG_FORWARDING_HPP_INCLUDED
-
-// Copyright Aleksey Gurtovoy 2004
-//
-// Distributed under the Boost Software License, Version 1.0. 
-// (See accompanying file LICENSE_1_0.txt or copy at 
-// http://www.boost.org/LICENSE_1_0.txt)
-//
-// See http://www.boost.org/libs/mpl for documentation.
-
-// $Id$
-// $Date$
-// $Revision$
-
-#include <boost/mpl/aux_/config/workaround.hpp>
-
-#if    !defined(BOOST_MPL_CFG_NO_NESTED_FORWARDING) \
-    && !defined(BOOST_MPL_PREPROCESSING_MODE) \
-    && BOOST_WORKAROUND(BOOST_BORLANDC, BOOST_TESTED_AT(0x610))
-
-#   define BOOST_MPL_CFG_NO_NESTED_FORWARDING
-
-#endif
-
-#endif // BOOST_MPL_AUX_CONFIG_FORWARDING_HPP_INCLUDED
+version https://git-lfs.github.com/spec/v1
+oid sha256:aba830a068f07a700e0b261ec836ddc51d382ef733928e461121ac36fb25e0e3
+size 750

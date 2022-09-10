@@ -1,21 +1,3 @@
-#ifndef BOOST_METAPARSE_SPACE_HPP
-#define BOOST_METAPARSE_SPACE_HPP
-
-// Copyright Abel Sinkovics (abel@sinkovics.hu)  2013.
-// Distributed under the Boost Software License, Version 1.0.
-//    (See accompanying file LICENSE_1_0.txt or copy at
-//          http://www.boost.org/LICENSE_1_0.txt)
-
-#include <boost/metaparse/v1/space.hpp>
-
-namespace boost
-{
-  namespace metaparse
-  {
-    using v1::space;
-  }
-}
-
-#endif
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:448ea67fa3a680a10af3e521fecfb4879cfb3767ebeb4040c8b7e2d0ef4376e8
+size 436

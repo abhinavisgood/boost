@@ -1,25 +1,3 @@
-#ifndef BOOST_METAPARSE_V1_FWD_NEXT_CHAR_HPP
-#define BOOST_METAPARSE_V1_FWD_NEXT_CHAR_HPP
-
-//    Copyright Abel Sinkovics (abel@sinkovics.hu) 2013.
-// Distributed under the Boost Software License, Version 1.0.
-//    (See accompanying file LICENSE_1_0.txt or copy at
-//          http://www.boost.org/LICENSE_1_0.txt)
-
-namespace boost
-{
-  namespace metaparse
-  {
-    namespace v1
-    {
-      template <class P>
-      struct next_char_impl;
-      
-      template <class P, class Ch>
-      struct next_char;
-    }
-  }
-}
-
-#endif
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:cf03c6f70b2ba503edfe37c8acc3f8a6a192b59aaf79596061fd9b1bda71285f
+size 550

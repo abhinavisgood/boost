@@ -1,21 +1,3 @@
-/*!
-@file
-Includes all the adaptors for external Boost libraries.
-
-@copyright Louis Dionne 2013-2017
-Distributed under the Boost Software License, Version 1.0.
-(See accompanying file LICENSE.md or copy at http://boost.org/LICENSE_1_0.txt)
- */
-
-#ifndef BOOST_HANA_EXT_BOOST_HPP
-#define BOOST_HANA_EXT_BOOST_HPP
-
-//! @ingroup group-ext
-//! @defgroup group-ext-boost Other Boost adapters
-//! Adapters for miscellaneous heterogeneous containers in Boost.
-
-#include <boost/hana/ext/boost/fusion.hpp>
-#include <boost/hana/ext/boost/mpl.hpp>
-#include <boost/hana/ext/boost/tuple.hpp>
-
-#endif // !BOOST_HANA_EXT_BOOST_HPP
+version https://git-lfs.github.com/spec/v1
+oid sha256:7ff1c50f530da9528ce48babb281286ba14470fbf0c65162d2d329dbeb2f5364
+size 635

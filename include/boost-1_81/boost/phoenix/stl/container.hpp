@@ -1,13 +1,3 @@
-/*=============================================================================
-    Copyright (c) 2004 Angus Leeming
-    Copyright (c) 2007 Joel de Guzman
-
-    Distributed under the Boost Software License, Version 1.0. (See accompanying 
-    file LICENSE_1_0.txt or copy at http://www.boost.org/LICENSE_1_0.txt)
-==============================================================================*/
-#ifndef BOOST_PHOENIX_STL_CONTAINER_HPP
-#define BOOST_PHOENIX_STL_CONTAINER_HPP
-
-#include <boost/phoenix/stl/container/container.hpp>
-
-#endif // BOOST_PHOENIX_STL_CONTAINER_HPP
+version https://git-lfs.github.com/spec/v1
+oid sha256:8888df0614f82dc5821fe926f11c2cfd0cfd7cbefa4c76fe197a16e6eebc2a6f
+size 583

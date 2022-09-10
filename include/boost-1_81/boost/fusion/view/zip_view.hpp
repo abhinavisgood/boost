@@ -1,15 +1,3 @@
-/*=============================================================================
-    Copyright (c) 2001-2011 Joel de Guzman
-    Copyright (c) 2006 Dan Marsden
-
-    Distributed under the Boost Software License, Version 1.0. (See accompanying 
-    file LICENSE_1_0.txt or copy at http://www.boost.org/LICENSE_1_0.txt)
-==============================================================================*/
-#if !defined(FUSION_ZIP_VIEW_23012006_0811)
-#define FUSION_ZIP_VIEW_23012006_0811
-
-#include <boost/fusion/support/config.hpp>
-#include <boost/fusion/view/zip_view/zip_view.hpp>
-#include <boost/fusion/view/zip_view/zip_view_iterator.hpp>
-
-#endif
+version https://git-lfs.github.com/spec/v1
+oid sha256:4cedfc9880887a375b478281780e53f5d86e29d6fb9442546ddfa440cff87763
+size 656

@@ -1,19 +1,3 @@
-/*=============================================================================
-    Copyright (c) 2001-2010 Joel de Guzman
-    Copyright (c) 2001-2010 Hartmut Kaiser
-    Copyright (c) 2009 Francois Barel
-    http://spirit.sourceforge.net/
-
-    Distributed under the Boost Software License, Version 1.0. (See accompanying
-    file LICENSE_1_0.txt or copy at http://www.boost.org/LICENSE_1_0.txt)
-=============================================================================*/
-#ifndef BOOST_SPIRIT_REPOSITORY_INCLUDE_QI_NONTERMINAL
-#define BOOST_SPIRIT_REPOSITORY_INCLUDE_QI_NONTERMINAL
-
-#if defined(_MSC_VER)
-#pragma once
-#endif
-
-#include <boost/spirit/repository/home/qi/nonterminal.hpp>
-
-#endif
+version https://git-lfs.github.com/spec/v1
+oid sha256:71904982c32bd3c8b3055c08da280c68bda234959f241cc565beb5e540db6631
+size 715

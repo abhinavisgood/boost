@@ -1,14 +1,3 @@
-#ifndef BOOST_METAPARSE_VERSION_HPP
-#define BOOST_METAPARSE_VERSION_HPP
-
-// Copyright Abel Sinkovics (abel@sinkovics.hu)  2015.
-// Distributed under the Boost Software License, Version 1.0.
-//    (See accompanying file LICENSE_1_0.txt or copy at
-//          http://www.boost.org/LICENSE_1_0.txt)
-
-#include <boost/predef/version_number.h>
-
-#define BOOST_METAPARSE_VERSION BOOST_VERSION_NUMBER(1, 0, 0)
-
-#endif
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:08332a0a9fdc40bc214147d4fa396a51784645d9c78f0da4a0700b70cbba154c
+size 424

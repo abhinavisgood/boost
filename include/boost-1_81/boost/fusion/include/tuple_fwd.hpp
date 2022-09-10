@@ -1,13 +1,3 @@
-/*=============================================================================
-    Copyright (c) 2001-2007 Joel de Guzman
-
-    Distributed under the Boost Software License, Version 1.0. (See accompanying
-    file LICENSE_1_0.txt or copy at http://www.boost.org/LICENSE_1_0.txt)
-==============================================================================*/
-#if !defined(FUSION_INCLUDE_TUPLE_FWD)
-#define FUSION_INCLUDE_TUPLE_FWD
-
-#include <boost/fusion/support/config.hpp>
-#include <boost/fusion/tuple/tuple_fwd.hpp>
-
-#endif
+version https://git-lfs.github.com/spec/v1
+oid sha256:7b5d6aa67e082ac092174b86e47c5d63fadc901c5b45163bfecd46552fe567d2
+size 541

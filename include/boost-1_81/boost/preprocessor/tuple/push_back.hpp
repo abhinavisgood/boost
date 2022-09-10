@@ -1,26 +1,3 @@
-# /* **************************************************************************
-#  *                                                                          *
-#  *     (C) Copyright Edward Diener 2013.
-#  *     Distributed under the Boost Software License, Version 1.0. (See
-#  *     accompanying file LICENSE_1_0.txt or copy at
-#  *     http://www.boost.org/LICENSE_1_0.txt)
-#  *                                                                          *
-#  ************************************************************************** */
-#
-# /* See http://www.boost.org for most recent version. */
-#
-# ifndef BOOST_PREPROCESSOR_TUPLE_PUSH_BACK_HPP
-# define BOOST_PREPROCESSOR_TUPLE_PUSH_BACK_HPP
-#
-# include <boost/preprocessor/config/config.hpp>
-# include <boost/preprocessor/array/push_back.hpp>
-# include <boost/preprocessor/array/to_tuple.hpp>
-# include <boost/preprocessor/tuple/to_array.hpp>
-#
-# /* BOOST_PP_TUPLE_PUSH_BACK */
-#
-# define BOOST_PP_TUPLE_PUSH_BACK(tuple, elem) \
-    BOOST_PP_ARRAY_TO_TUPLE(BOOST_PP_ARRAY_PUSH_BACK(BOOST_PP_TUPLE_TO_ARRAY(tuple), elem)) \
-/**/
-#
-# endif // BOOST_PREPROCESSOR_TUPLE_PUSH_BACK_HPP
+version https://git-lfs.github.com/spec/v1
+oid sha256:72c9f09e60817c5fd467883ede9795182bcf7460936eaa30c79eaba87fb5d537
+size 1161

@@ -1,18 +1,3 @@
-/*=============================================================================
-    Copyright (c) 2001-2011 Joel de Guzman
-    Copyright (c) 2001-2011 Hartmut Kaiser
-    http://spirit.sourceforge.net/
-
-    Distributed under the Boost Software License, Version 1.0. (See accompanying
-    file LICENSE_1_0.txt or copy at http://www.boost.org/LICENSE_1_0.txt)
-=============================================================================*/
-#ifndef BOOST_SPIRIT_INCLUDE_KARMA_ATTR_CAST
-#define BOOST_SPIRIT_INCLUDE_KARMA_ATTR_CAST
-
-#if defined(_MSC_VER)
-#pragma once
-#endif
-
-#include <boost/spirit/home/karma/auxiliary/attr_cast.hpp>
-
-#endif
+version https://git-lfs.github.com/spec/v1
+oid sha256:5c8a9aca453647c52add7a9a2b8314d9079248176de1d0c5eed4e04434c3f6f7
+size 656

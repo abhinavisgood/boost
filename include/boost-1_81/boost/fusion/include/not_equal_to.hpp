@@ -1,14 +1,3 @@
-/*=============================================================================
-    Copyright (c) 2001-2007 Joel de Guzman
-
-    Distributed under the Boost Software License, Version 1.0. (See accompanying
-    file LICENSE_1_0.txt or copy at http://www.boost.org/LICENSE_1_0.txt)
-==============================================================================*/
-#if !defined(FUSION_INCLUDE_NOT_EQUAL_TO)
-#define FUSION_INCLUDE_NOT_EQUAL_TO
-
-#include <boost/fusion/support/config.hpp>
-#include <boost/fusion/iterator/equal_to.hpp>
-#include <boost/fusion/sequence/comparison/not_equal_to.hpp>
-
-#endif
+version https://git-lfs.github.com/spec/v1
+oid sha256:51682196eac617b44b05eb31bb9cfb429a92d6718e94a6394e5e78e605f86ecf
+size 611

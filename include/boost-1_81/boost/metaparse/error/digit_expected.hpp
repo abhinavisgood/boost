@@ -1,23 +1,3 @@
-#ifndef BOOST_METAPARSE_ERROR_DIGIT_EXPECTED_HPP
-#define BOOST_METAPARSE_ERROR_DIGIT_EXPECTED_HPP
-
-// Copyright Abel Sinkovics (abel@sinkovics.hu)  2013.
-// Distributed under the Boost Software License, Version 1.0.
-//    (See accompanying file LICENSE_1_0.txt or copy at
-//          http://www.boost.org/LICENSE_1_0.txt)
-
-#include <boost/metaparse/v1/error/digit_expected.hpp>
-
-namespace boost
-{
-  namespace metaparse
-  {
-    namespace error
-    {
-      using v1::error::digit_expected;
-    }
-  }
-}
-
-#endif
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:e0a3169ac50fccebe19d9e0da760499e99785e845d3226e4aad5d30ded203fde
+size 532

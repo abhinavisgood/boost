@@ -1,31 +1,3 @@
-#ifndef BOOST_STATECHART_DETAIL_AVOID_UNUSED_WARNING_HPP_INCLUDED
-#define BOOST_STATECHART_DETAIL_AVOID_UNUSED_WARNING_HPP_INCLUDED
-//////////////////////////////////////////////////////////////////////////////
-// Copyright 2002-2006 Andreas Huber Doenni
-// Distributed under the Boost Software License, Version 1.0. (See accompany-
-// ing file LICENSE_1_0.txt or copy at http://www.boost.org/LICENSE_1_0.txt)
-//////////////////////////////////////////////////////////////////////////////
-
-
-
-namespace boost
-{
-namespace statechart
-{
-namespace detail
-{
-
-
-
-template< typename T >
-inline void avoid_unused_warning( const T & ) {}
-
-
-
-} // namespace detail
-} // namespace statechart
-} // namespace boost
-
-
-
-#endif
+version https://git-lfs.github.com/spec/v1
+oid sha256:4197ec4922233af46913a32b9cd0cf8dd633fc20e83375b39e1a3a248025fe7f
+size 740

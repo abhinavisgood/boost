@@ -1,24 +1,3 @@
-/*
- * Copyright 2017 Andrey Semashev
- *
- * Distributed under the Boost Software License, Version 1.0.
- * See http://www.boost.org/LICENSE_1_0.txt
- *
- * This header is deprecated, use boost/winapi/thread_pool.hpp instead.
- */
-
-#ifndef BOOST_DETAIL_WINAPI_THREAD_POOL_HPP
-#define BOOST_DETAIL_WINAPI_THREAD_POOL_HPP
-
-#include <boost/config/header_deprecated.hpp>
-
-BOOST_HEADER_DEPRECATED("<boost/winapi/thread_pool.hpp>")
-
-#include <boost/winapi/thread_pool.hpp>
-#include <boost/detail/winapi/detail/deprecated_namespace.hpp>
-
-#ifdef BOOST_HAS_PRAGMA_ONCE
-#pragma once
-#endif
-
-#endif // BOOST_DETAIL_WINAPI_THREAD_POOL_HPP
+version https://git-lfs.github.com/spec/v1
+oid sha256:b6e8e8faaa05c01e1ce6931116046750f8d032a19bf30510b754869d5d777531
+size 645

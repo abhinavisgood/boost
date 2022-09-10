@@ -1,29 +1,3 @@
-/* Copyright 2006-2008 Joaquin M Lopez Munoz.
- * Distributed under the Boost Software License, Version 1.0.
- * (See accompanying file LICENSE_1_0.txt or copy at
- * http://www.boost.org/LICENSE_1_0.txt)
- *
- * See http://www.boost.org/libs/flyweight for library home page.
- */
-
-#ifndef BOOST_FLYWEIGHT_INTERMODULE_HOLDER_FWD_HPP
-#define BOOST_FLYWEIGHT_INTERMODULE_HOLDER_FWD_HPP
-
-#if defined(_MSC_VER)
-#pragma once
-#endif
-
-namespace boost{
-
-namespace flyweights{
-
-template<typename C>
-struct intermodule_holder_class;
-
-struct intermodule_holder;
-
-} /* namespace flyweights */
-
-} /* namespace boost */
-
-#endif
+version https://git-lfs.github.com/spec/v1
+oid sha256:78880c6289e7eef87a1081e819548e15310e646cc1c175e058b15841f8032c0e
+size 637

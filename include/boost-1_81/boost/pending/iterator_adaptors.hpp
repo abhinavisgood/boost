@@ -1,6 +1,3 @@
-// Copyright David Abrahams 2003.
-// Distributed under the Boost Software License, Version 1.0. (See
-// accompanying file LICENSE_1_0.txt or copy at
-// http://www.boost.org/LICENSE_1_0.txt)
-
-#include <boost/iterator_adaptors.hpp>
+version https://git-lfs.github.com/spec/v1
+oid sha256:b97cc116fd71b9512ff02948cf698a972b4f41185bd64ded5c030fcd9cebbcef
+size 236

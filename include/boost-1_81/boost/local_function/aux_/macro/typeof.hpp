@@ -1,22 +1,3 @@
-
-// Copyright (C) 2009-2012 Lorenzo Caminiti
-// Distributed under the Boost Software License, Version 1.0
-// (see accompanying file LICENSE_1_0.txt or a copy at
-// http://www.boost.org/LICENSE_1_0.txt)
-// Home at http://www.boost.org/libs/local_function
-
-#ifndef BOOST_LOCAL_FUNCTION_AUX_TYPEOF_HPP_
-#define BOOST_LOCAL_FUNCTION_AUX_TYPEOF_HPP_
-
-#include <boost/local_function/aux_/symbol.hpp>
-
-// PUBLIC //
-
-// Actual type-name for specified symbol name.
-#define BOOST_LOCAL_FUNCTION_AUX_TYPEOF_TYPE(name) \
-    /* cannot prefix in front of name because it could start with non */ \
-    /* alphanumeric symbols (e.g., & for binding by reference) */ \
-    BOOST_LOCAL_FUNCTION_AUX_SYMBOL_POSTFIX( (name)(typeof_type) )
-
-#endif // #include guard
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:7218e5e28ae66f216cb8f6eb351aabfe28bd0304fdd22edd9b29397d7b80a1e5
+size 768

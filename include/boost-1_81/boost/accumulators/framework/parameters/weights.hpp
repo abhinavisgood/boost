@@ -1,23 +1,3 @@
-///////////////////////////////////////////////////////////////////////////////
-// weights.hpp
-//
-//  Copyright 2005 Eric Niebler. Distributed under the Boost
-//  Software License, Version 1.0. (See accompanying file
-//  LICENSE_1_0.txt or copy at http://www.boost.org/LICENSE_1_0.txt)
-
-#ifndef BOOST_ACCUMULATORS_FRAMEWORK_PARAMETERS_WEIGHTS_HPP_EAN_28_10_2005
-#define BOOST_ACCUMULATORS_FRAMEWORK_PARAMETERS_WEIGHTS_HPP_EAN_28_10_2005
-
-#include <boost/parameter/name.hpp>
-#include <boost/accumulators/accumulators_fwd.hpp>
-
-namespace boost { namespace accumulators
-{
-
-// The weight accumulator
-BOOST_PARAMETER_NAME((weights, tag) weights)
-BOOST_ACCUMULATORS_IGNORE_GLOBAL(weights)
-
-}} // namespace boost::accumulators
-
-#endif
+version https://git-lfs.github.com/spec/v1
+oid sha256:ca24293c5ac18274d51dd29cfe2d93c22e0ed2c97b8cd788428b4c7bd09a15a5
+size 751

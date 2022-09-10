@@ -1,24 +1,3 @@
-/*
- * Copyright 2017 Andrey Semashev
- *
- * Distributed under the Boost Software License, Version 1.0.
- * See http://www.boost.org/LICENSE_1_0.txt
- *
- * This header is deprecated, use boost/winapi/synchronization.hpp instead.
- */
-
-#ifndef BOOST_DETAIL_WINAPI_SYNCHRONIZATION_HPP
-#define BOOST_DETAIL_WINAPI_SYNCHRONIZATION_HPP
-
-#include <boost/config/header_deprecated.hpp>
-
-BOOST_HEADER_DEPRECATED("<boost/winapi/synchronization.hpp>")
-
-#include <boost/winapi/synchronization.hpp>
-#include <boost/detail/winapi/detail/deprecated_namespace.hpp>
-
-#ifdef BOOST_HAS_PRAGMA_ONCE
-#pragma once
-#endif
-
-#endif // BOOST_DETAIL_WINAPI_SYNCHRONIZATION_HPP
+version https://git-lfs.github.com/spec/v1
+oid sha256:099d00f9307370ac74f94e5d21780de530e365bfa399bf67fc37729f741f2dfa
+size 669

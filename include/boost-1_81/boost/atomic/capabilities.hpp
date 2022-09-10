@@ -1,21 +1,3 @@
-/*
- * Distributed under the Boost Software License, Version 1.0.
- * (See accompanying file LICENSE_1_0.txt or copy at
- * http://www.boost.org/LICENSE_1_0.txt)
- *
- * Copyright (c) 2014 Andrey Semashev
- */
-/*!
- * \file   atomic/capabilities.hpp
- *
- * This header defines feature capabilities macros.
- */
-
-#ifndef BOOST_ATOMIC_CAPABILITIES_HPP_INCLUDED_
-#define BOOST_ATOMIC_CAPABILITIES_HPP_INCLUDED_
-
-#include <boost/atomic/detail/config.hpp>
-#include <boost/atomic/detail/capabilities.hpp>
-#include <boost/atomic/detail/wait_capabilities.hpp>
-
-#endif // BOOST_ATOMIC_CAPABILITIES_HPP_INCLUDED_
+version https://git-lfs.github.com/spec/v1
+oid sha256:9dcfe54ddfcf9c9f693ed2023c5237bdcde1f4c41976c2011d3f4b74ef2e3619
+size 615

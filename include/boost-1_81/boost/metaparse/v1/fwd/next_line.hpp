@@ -1,25 +1,3 @@
-#ifndef BOOST_METAPARSE_V1_FWD_NEXT_LINE_IMPL_HPP
-#define BOOST_METAPARSE_V1_FWD_NEXT_LINE_IMPL_HPP
-
-//    Copyright Abel Sinkovics (abel@sinkovics.hu) 2013.
-// Distributed under the Boost Software License, Version 1.0.
-//    (See accompanying file LICENSE_1_0.txt or copy at
-//          http://www.boost.org/LICENSE_1_0.txt)
-
-namespace boost
-{
-  namespace metaparse
-  {
-    namespace v1
-    {
-      template <class P>
-      struct next_line_impl;
-      
-      template <class P, class Ch>
-      struct next_line;
-    }
-  }
-}
-
-#endif
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:09186ed1c0b9fadad53f010dc7c75b42186a0d36a7af019cea71f10573443b75
+size 560

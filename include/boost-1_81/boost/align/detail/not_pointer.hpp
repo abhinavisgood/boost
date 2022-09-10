@@ -1,27 +1,3 @@
-/*
-Copyright 2019 Glen Joseph Fernandes
-(glenjofe@gmail.com)
-
-Distributed under the Boost Software License, Version 1.0.
-(http://www.boost.org/LICENSE_1_0.txt)
-*/
-#ifndef BOOST_ALIGN_DETAIL_NOT_POINTER_HPP
-#define BOOST_ALIGN_DETAIL_NOT_POINTER_HPP
-
-namespace boost {
-namespace alignment {
-namespace detail {
-
-template<class T, class U>
-struct not_pointer {
-    typedef U type;
-};
-
-template<class T, class U>
-struct not_pointer<T*, U> { };
-
-} /* detail */
-} /* alignment */
-} /* boost */
-
-#endif
+version https://git-lfs.github.com/spec/v1
+oid sha256:8a2d7a4c63614d51d058032438e63ee5aa46ce215c67ab760acf78d9df360442
+size 523

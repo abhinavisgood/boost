@@ -1,27 +1,3 @@
-// Copyright Sebastian Ramacher, 2007.
-// Distributed under the Boost Software License, Version 1.0. (See
-// accompanying file LICENSE_1_0.txt or copy at
-// http://www.boost.org/LICENSE_1_0.txt)
-
-#ifndef BOOST_PTR_CONTAINER_SERIALIZE_PTR_LIST_HPP
-#define BOOST_PTR_CONTAINER_SERIALIZE_PTR_LIST_HPP
-
-#include <boost/ptr_container/detail/serialize_reversible_cont.hpp>
-#include <boost/ptr_container/ptr_list.hpp>
-
-namespace boost 
-{
-
-namespace serialization 
-{
-
-template<class Archive, class T, class CloneAllocator, class Allocator>
-void serialize(Archive& ar, ptr_list<T, CloneAllocator, Allocator>& c, const unsigned int version)
-{
-   split_free(ar, c, version);
-}
-
-} // namespace serialization
-} // namespace boost
-
-#endif
+version https://git-lfs.github.com/spec/v1
+oid sha256:2390456b56a98a6961a536550ac8e7d3c69a71dddf73d624f74a577b7235299a
+size 752

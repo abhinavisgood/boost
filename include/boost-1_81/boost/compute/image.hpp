@@ -1,25 +1,3 @@
-//---------------------------------------------------------------------------//
-// Copyright (c) 2013-2015 Kyle Lutz <kyle.r.lutz@gmail.com>
-//
-// Distributed under the Boost Software License, Version 1.0
-// See accompanying file LICENSE_1_0.txt or copy at
-// http://www.boost.org/LICENSE_1_0.txt
-//
-// See http://boostorg.github.com/compute for more information.
-//---------------------------------------------------------------------------//
-
-#ifndef BOOST_COMPUTE_IMAGE_HPP
-#define BOOST_COMPUTE_IMAGE_HPP
-
-/// \file
-///
-/// Meta-header to include all Boost.Compute image headers.
-
-#include <boost/compute/image/image1d.hpp>
-#include <boost/compute/image/image2d.hpp>
-#include <boost/compute/image/image3d.hpp>
-#include <boost/compute/image/image_format.hpp>
-#include <boost/compute/image/image_object.hpp>
-#include <boost/compute/image/image_sampler.hpp>
-
-#endif // BOOST_COMPUTE_IMAGE_HPP
+version https://git-lfs.github.com/spec/v1
+oid sha256:dd5044ba21a16be6b98afc60a6ac52f4298d3ada1c5115bf9df9150c6e2e0355
+size 919

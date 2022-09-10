@@ -1,15 +1,3 @@
-// Copyright (C) 2005 Arkadiy Vertleyb, Peder Holt.
-// Use, modification and distribution is subject to the Boost Software
-// License, Version 1.0. (http://www.boost.org/LICENSE_1_0.txt)
-
-#ifndef BOOST_TYPEOF_STD_bitset_hpp_INCLUDED
-#define BOOST_TYPEOF_STD_bitset_hpp_INCLUDED
-
-#include <bitset>
-#include <boost/typeof/typeof.hpp>
-
-#include BOOST_TYPEOF_INCREMENT_REGISTRATION_GROUP()
-
-BOOST_TYPEOF_REGISTER_TEMPLATE(std::bitset, (BOOST_TYPEOF_INTEGRAL(std::size_t)))
-
-#endif//BOOST_TYPEOF_STD_bitset_hpp_INCLUDED
+version https://git-lfs.github.com/spec/v1
+oid sha256:eb24a6013860334192c4b25de8a03e54b273a3fac8d730eea3c68f1c13b6f255
+size 530

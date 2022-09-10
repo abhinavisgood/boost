@@ -1,12 +1,3 @@
-/*=============================================================================
-  Copyright (c) 2001-2008 Joel de Guzman
-  Copyright (c) 2001-2008 Hartmut Kaiser
-  http://spirit.sourceforge.net/
-
-  Distributed under the Boost Software License, Version 1.0. (See accompanying
-  file LICENSE_1_0.txt or copy at http://www.boost.org/LICENSE_1_0.txt)
-=============================================================================*/
-#ifndef BOOST_SPIRIT_INCLUDE_CLASSIC_INTERSECTION
-#define BOOST_SPIRIT_INCLUDE_CLASSIC_INTERSECTION
-#include <boost/spirit/home/classic/core/composite/intersection.hpp>
-#endif
+version https://git-lfs.github.com/spec/v1
+oid sha256:2ae4df86b906320f00f78f243a159b682e7cd114e4b318903721045e86356787
+size 615

@@ -1,18 +1,3 @@
-/*=============================================================================
-    Copyright (c) 2001-2011 Joel de Guzman
-    Copyright (c) 2001-2011 Hartmut Kaiser
-    http://spirit.sourceforge.net/
-
-    Distributed under the Boost Software License, Version 1.0. (See accompanying
-    file LICENSE_1_0.txt or copy at http://www.boost.org/LICENSE_1_0.txt)
-=============================================================================*/
-#ifndef BOOST_SPIRIT_INCLUDE_KARMA_LIST
-#define BOOST_SPIRIT_INCLUDE_KARMA_LIST
-
-#if defined(_MSC_VER)
-#pragma once
-#endif
-
-#include <boost/spirit/home/karma/operator/list.hpp>
-
-#endif
+version https://git-lfs.github.com/spec/v1
+oid sha256:d3a14b452f7b710246eee0f2f3997ed737789ec515e580f535ac1a71227e7f4a
+size 640

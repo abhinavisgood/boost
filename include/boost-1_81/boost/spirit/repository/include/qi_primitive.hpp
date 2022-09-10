@@ -1,18 +1,3 @@
-/*=============================================================================
-    Copyright (c) 2001-2011 Joel de Guzman
-    Copyright (c) 2001-2011 Hartmut Kaiser
-    http://spirit.sourceforge.net/
-
-    Distributed under the Boost Software License, Version 1.0. (See accompanying
-    file LICENSE_1_0.txt or copy at http://www.boost.org/LICENSE_1_0.txt)
-=============================================================================*/
-#ifndef BOOST_SPIRIT_INCLUDE_REPOSITORY_QI_PRIMITIVE
-#define BOOST_SPIRIT_INCLUDE_REPOSITORY_QI_PRIMITIVE
-
-#if defined(_MSC_VER)
-#pragma once
-#endif
-
-#include <boost/spirit/repository/home/qi/primitive.hpp>
-
-#endif
+version https://git-lfs.github.com/spec/v1
+oid sha256:47248695edd3e0fee71c45837e2eef90bed53eaea275d4c90e8a8ed19479c008
+size 670

@@ -1,27 +1,3 @@
-/*=============================================================================
-    Copyright (c) 2014 Paul Fultz II
-    holder.h
-    Distributed under the Boost Software License, Version 1.0. (See accompanying
-    file LICENSE_1_0.txt or copy at http://www.boost.org/LICENSE_1_0.txt)
-==============================================================================*/
-
-#ifndef BOOST_HOF_GUARD_HOLDER_H
-#define BOOST_HOF_GUARD_HOLDER_H
-
-namespace boost { namespace hof { namespace detail {
-
-template<class... Ts>
-struct holder
-{
-    typedef void type;
-};
-
-template<template<class...> class T>
-struct template_holder
-{
-    typedef void type;
-};
-
-}}} // namespace boost::hof
-
-#endif
+version https://git-lfs.github.com/spec/v1
+oid sha256:3d00d94f6f212f0e7b3b68cb7c73b70c7b820fc7e0f995d0e7b0769fabef64c4
+size 705

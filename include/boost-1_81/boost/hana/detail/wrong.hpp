@@ -1,33 +1,3 @@
-/*!
-@file
-Defines `boost::hana::detail::wrong`.
-
-@copyright Louis Dionne 2013-2017
-Distributed under the Boost Software License, Version 1.0.
-(See accompanying file LICENSE.md or copy at http://boost.org/LICENSE_1_0.txt)
- */
-
-#ifndef BOOST_HANA_DETAIL_WRONG_HPP
-#define BOOST_HANA_DETAIL_WRONG_HPP
-
-#include <boost/hana/config.hpp>
-
-#include <type_traits>
-
-
-namespace boost { namespace hana { namespace detail {
-    //! @ingroup group-detail
-    //! Equivalent to a type-dependent `std::false_type`.
-    //!
-    //! This is useful for making a static assertion that would otherwise
-    //! always fire up dependent on some template parameters.
-    //!
-    //!
-    //! Example
-    //! -------
-    //! @include example/detail/wrong.cpp
-    template <typename ...>
-    struct wrong : std::false_type { };
-} }} // end namespace boost::hana
-
-#endif // !BOOST_HANA_DETAIL_WRONG_HPP
+version https://git-lfs.github.com/spec/v1
+oid sha256:407b3adbf2e4d5c94808ee730f60edc15457513a25d16ce0aaaed4224c795f1a
+size 909

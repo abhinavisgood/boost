@@ -1,24 +1,3 @@
-#ifndef BOOST_METAPARSE_V1_STRING_TAG_HPP
-#define BOOST_METAPARSE_V1_STRING_TAG_HPP
-
-// Copyright Abel Sinkovics (abel@sinkovics.hu)  2013.
-// Distributed under the Boost Software License, Version 1.0.
-//    (See accompanying file LICENSE_1_0.txt or copy at
-//          http://www.boost.org/LICENSE_1_0.txt)
-
-namespace boost
-{
-  namespace metaparse
-  {
-    namespace v1
-    {
-      struct string_tag
-      {
-        typedef string_tag type;
-      };
-    }
-  }
-}
-
-#endif
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:3b4f67ab5b4ecc5b2ad5d3b48086a875e6dd1df3bae5f1c80f01d3ec7e704958
+size 495

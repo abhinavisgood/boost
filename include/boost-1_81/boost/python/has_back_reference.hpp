@@ -1,24 +1,3 @@
-// Copyright David Abrahams 2002.
-// Distributed under the Boost Software License, Version 1.0. (See
-// accompanying file LICENSE_1_0.txt or copy at
-// http://www.boost.org/LICENSE_1_0.txt)
-#ifndef HAS_BACK_REFERENCE_DWA2002323_HPP
-# define HAS_BACK_REFERENCE_DWA2002323_HPP
-
-# include <boost/python/detail/prefix.hpp>
-# include <boost/mpl/bool.hpp>
-
-namespace boost { namespace python { 
-
-// traits class which users can specialize to indicate that a class
-// contains a back-reference to its owning PyObject*
-template <class T>
-struct has_back_reference
-  : mpl::false_
-{
-};
-
-
-}} // namespace boost::python
-
-#endif // HAS_BACK_REFERENCE_DWA2002323_HPP
+version https://git-lfs.github.com/spec/v1
+oid sha256:40e75ba1c1445b27a63e1fc26f98f406c0e1ac0c8d96e9007b170346c4087352
+size 678

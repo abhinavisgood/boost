@@ -1,19 +1,3 @@
-///////////////////////////////////////////////////////////////////////////////
-//  Copyright 2012 John Maddock.
-//  Copyright Christopher Kormanyos 2013. Distributed under the Boost
-//  Software License, Version 1.0. (See accompanying file
-//  LICENSE_1_0.txt or copy at http://www.boost.org/LICENSE_1_0.txt)
-//
-
-#ifndef BOOST_MP_DETAIL_REBIND_HPP
-#define BOOST_MP_DETAIL_REBIND_HPP
-
-namespace boost { namespace multiprecision { namespace backends { namespace detail {
-template <class value_type, class my_allocator>
-struct rebind
-{
-   using type = typename std::allocator_traits<my_allocator>::template rebind_alloc<value_type>;
-};
-}}}} // namespace boost::multiprecision::backends::detail
-
-#endif // BOOST_MP_DETAIL_REBIND_HPP
+version https://git-lfs.github.com/spec/v1
+oid sha256:a98e1dad8e3e840f8797be9fa03df356e5cf4f4393e2aa50a170f262a40c09b9
+size 749

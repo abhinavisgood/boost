@@ -1,17 +1,3 @@
-# /* **************************************************************************
-#  *                                                                          *
-#  *     (C) Copyright Paul Mensonides 2002.
-#  *     Distributed under the Boost Software License, Version 1.0. (See
-#  *     accompanying file LICENSE_1_0.txt or copy at
-#  *     http://www.boost.org/LICENSE_1_0.txt)
-#  *                                                                          *
-#  ************************************************************************** */
-#
-# /* See http://www.boost.org for most recent version. */
-#
-# ifndef BOOST_PREPROCESSOR_LIMITS_HPP
-# define BOOST_PREPROCESSOR_LIMITS_HPP
-#
-# include <boost/preprocessor/config/limits.hpp>
-#
-# endif
+version https://git-lfs.github.com/spec/v1
+oid sha256:e26cea3d48446c364ac20489c967dd08f659ff46d1e8733f13bc74d96291541c
+size 758

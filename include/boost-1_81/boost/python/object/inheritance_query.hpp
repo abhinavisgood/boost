@@ -1,17 +1,3 @@
-// Copyright David Abrahams 2003.
-// Distributed under the Boost Software License, Version 1.0. (See
-// accompanying file LICENSE_1_0.txt or copy at
-// http://www.boost.org/LICENSE_1_0.txt)
-#ifndef INHERITANCE_QUERY_DWA2003520_HPP
-# define INHERITANCE_QUERY_DWA2003520_HPP
-
-# include <boost/python/type_id.hpp>
-
-namespace boost { namespace python { namespace objects {
-
-BOOST_PYTHON_DECL void* find_static_type(void* p, type_info src, type_info dst);
-BOOST_PYTHON_DECL void* find_dynamic_type(void* p, type_info src, type_info dst);
-
-}}} // namespace boost::python::object
-
-#endif // INHERITANCE_QUERY_DWA2003520_HPP
+version https://git-lfs.github.com/spec/v1
+oid sha256:0af0ed8deb09ee05a296aef4af336875c71bb9c043c3ceea2b58d4b1c8162933
+size 634

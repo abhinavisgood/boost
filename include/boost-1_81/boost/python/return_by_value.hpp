@@ -1,30 +1,3 @@
-// Copyright David Abrahams 2002.
-// Distributed under the Boost Software License, Version 1.0. (See
-// accompanying file LICENSE_1_0.txt or copy at
-// http://www.boost.org/LICENSE_1_0.txt)
-#ifndef BY_VALUE_DWA20021015_HPP
-# define BY_VALUE_DWA20021015_HPP
-
-# include <boost/python/detail/prefix.hpp>
-
-# include <boost/python/to_python_value.hpp>
-# include <boost/python/detail/type_traits.hpp>
-
-# include <boost/python/detail/value_arg.hpp>
-
-namespace boost { namespace python { 
-
-struct return_by_value
-{
-    template <class R>
-    struct apply
-    {
-       typedef to_python_value<
-           typename detail::value_arg<R>::type
-       > type;
-    };
-};
-
-}} // namespace boost::python
-
-#endif // BY_VALUE_DWA20021015_HPP
+version https://git-lfs.github.com/spec/v1
+oid sha256:ec6642992f793f49ef2cde2e050b8ad9679b1fa075010691ce9fc0ee6aa5c12f
+size 754

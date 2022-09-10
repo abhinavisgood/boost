@@ -1,25 +1,3 @@
-/*!
-@file
-Defines `boost::hana::detail::fast_and`.
-
-@copyright Louis Dionne 2013-2017
-Distributed under the Boost Software License, Version 1.0.
-(See accompanying file LICENSE.md or copy at http://boost.org/LICENSE_1_0.txt)
- */
-
-#ifndef BOOST_HANA_DETAIL_FAST_AND_HPP
-#define BOOST_HANA_DETAIL_FAST_AND_HPP
-
-#include <boost/hana/config.hpp>
-
-#include <type_traits>
-
-
-namespace boost { namespace hana { namespace detail {
-    template <bool ...b>
-    struct fast_and
-        : std::is_same<fast_and<b...>, fast_and<(b, true)...>>
-    { };
-} }} // end namespace boost::hana
-
-#endif // !BOOST_HANA_DETAIL_FAST_AND_HPP
+version https://git-lfs.github.com/spec/v1
+oid sha256:cb070b32b4a90b93772b14eb431daf66f775c15d09b80e6f7674d5541c290a37
+size 640

@@ -1,12 +1,3 @@
-/*=============================================================================
-  Copyright (c) 2001-2008 Joel de Guzman
-  Copyright (c) 2001-2008 Hartmut Kaiser
-  http://spirit.sourceforge.net/
-
-  Distributed under the Boost Software License, Version 1.0. (See accompanying
-  file LICENSE_1_0.txt or copy at http://www.boost.org/LICENSE_1_0.txt)
-=============================================================================*/
-#ifndef BOOST_SPIRIT_INCLUDE_CLASSIC_SWITCH
-#define BOOST_SPIRIT_INCLUDE_CLASSIC_SWITCH
-#include <boost/spirit/home/classic/dynamic/switch.hpp>
-#endif
+version https://git-lfs.github.com/spec/v1
+oid sha256:ec437261ba92fcd07b94213945334ad1556a6ddd74feb1092383b4781f8a4d17
+size 590

@@ -1,21 +1,3 @@
-// Boost.Geometry
-
-// Copyright (c) 2020, Oracle and/or its affiliates.
-
-// Contributed and/or modified by Adam Wulkiewicz, on behalf of Oracle
-
-// Licensed under the Boost Software License version 1.0.
-// http://www.boost.org/users/license.html
-
-#ifndef BOOST_GEOMETRY_STRATEGIES_SPHERICAL_EXPAND_SEGMENT_HPP
-#define BOOST_GEOMETRY_STRATEGIES_SPHERICAL_EXPAND_SEGMENT_HPP
-
-
-#include <boost/config/pragma_message.hpp>
-BOOST_PRAGMA_MESSAGE("This include file is deprecated and will be removed in the future.")
-
-
-#include <boost/geometry/strategy/spherical/expand_segment.hpp>
-
-
-#endif // BOOST_GEOMETRY_STRATEGIES_SPHERICAL_EXPAND_SEGMENT_HPP
+version https://git-lfs.github.com/spec/v1
+oid sha256:db19639bba7eaa7071baaa5cc5b85995344b06eb7152d5121749e22aaf52ae95
+size 663

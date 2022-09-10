@@ -1,12 +1,3 @@
-/*=============================================================================
-  Copyright (c) 2001-2008 Joel de Guzman
-  Copyright (c) 2001-2008 Hartmut Kaiser
-  http://spirit.sourceforge.net/
-
-  Distributed under the Boost Software License, Version 1.0. (See accompanying
-  file LICENSE_1_0.txt or copy at http://www.boost.org/LICENSE_1_0.txt)
-=============================================================================*/
-#ifndef BOOST_SPIRIT_INCLUDE_CLASSIC_MULTI_PASS
-#define BOOST_SPIRIT_INCLUDE_CLASSIC_MULTI_PASS
-#include <boost/spirit/home/classic/iterator/multi_pass.hpp>
-#endif
+version https://git-lfs.github.com/spec/v1
+oid sha256:b873f8f6338a844f75a8d15c43a0e4697f366b1ce8d4ac45e578944da4a5dbf2
+size 603

@@ -1,12 +1,3 @@
-/*=============================================================================
-    Copyright (c) 2014 Christoph Weiss
-
-    Distributed under the Boost Software License, Version 1.0. (See accompanying
-    file LICENSE_1_0.txt or copy at http://www.boost.org/LICENSE_1_0.txt)
-==============================================================================*/
-#if !defined(FUSION_INCLUDE_HASH)
-#define FUSION_INCLUDE_HASH
-
-#include <boost/fusion/sequence/hash.hpp>
-
-#endif
+version https://git-lfs.github.com/spec/v1
+oid sha256:a2aabe6283521d82c419c172d2d66e09d227815dbc3f88bbb9612b949c19e2fb
+size 481

@@ -1,13 +1,3 @@
-
-//          Copyright Oliver Kowalke 2009.
-// Distributed under the Boost Software License, Version 1.0.
-//    (See accompanying file LICENSE_1_0.txt or copy at
-//          http://www.boost.org/LICENSE_1_0.txt)
-
-#include <boost/config.hpp>
-
-#if defined(BOOST_WINDOWS)
-# include <boost/coroutine/windows/protected_stack_allocator.hpp>
-#else
-# include <boost/coroutine/posix/protected_stack_allocator.hpp>
-#endif
+version https://git-lfs.github.com/spec/v1
+oid sha256:9eb835848fa2dea29ac999b3a82274ef2a1ee3ceb238f1dc5de036f7580a4afb
+size 425

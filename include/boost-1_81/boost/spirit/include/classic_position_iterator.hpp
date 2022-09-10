@@ -1,12 +1,3 @@
-/*=============================================================================
-  Copyright (c) 2001-2008 Joel de Guzman
-  Copyright (c) 2001-2008 Hartmut Kaiser
-  http://spirit.sourceforge.net/
-
-  Distributed under the Boost Software License, Version 1.0. (See accompanying
-  file LICENSE_1_0.txt or copy at http://www.boost.org/LICENSE_1_0.txt)
-=============================================================================*/
-#ifndef BOOST_SPIRIT_INCLUDE_CLASSIC_POSITION_ITERATOR
-#define BOOST_SPIRIT_INCLUDE_CLASSIC_POSITION_ITERATOR
-#include <boost/spirit/home/classic/iterator/position_iterator.hpp>
-#endif
+version https://git-lfs.github.com/spec/v1
+oid sha256:df4acf3be58de985003609226f1ecfc36dbcf17a069740bdabbe612f3b389420
+size 624

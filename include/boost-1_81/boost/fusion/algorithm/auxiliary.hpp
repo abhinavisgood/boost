@@ -1,16 +1,3 @@
-/*=============================================================================
-    Copyright (c) 2001-2011 Joel de Guzman
-
-    Distributed under the Boost Software License, Version 1.0. (See accompanying
-    file LICENSE_1_0.txt or copy at http://www.boost.org/LICENSE_1_0.txt)
-==============================================================================*/
-#if !defined(FUSION_ALGORITHM_AUXILIARY_02192011_0907)
-#define FUSION_ALGORITHM_AUXILIARY_02192011_0907
-
-#include <boost/fusion/support/config.hpp>
-#include <boost/fusion/algorithm/auxiliary/copy.hpp>
-#ifndef BOOST_NO_CXX11_RVALUE_REFERENCES
-#include <boost/fusion/algorithm/auxiliary/move.hpp>
-#endif
-
-#endif
+version https://git-lfs.github.com/spec/v1
+oid sha256:45a6a19950c8d4cab25a22aaa00458e889d1a39b589b612c6295b25daa481b97
+size 686

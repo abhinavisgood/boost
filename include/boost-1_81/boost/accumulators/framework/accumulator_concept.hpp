@@ -1,29 +1,3 @@
-///////////////////////////////////////////////////////////////////////////////
-// accumulator_concept.hpp
-//
-//  Copyright 2005 Eric Niebler. Distributed under the Boost
-//  Software License, Version 1.0. (See accompanying file
-//  LICENSE_1_0.txt or copy at http://www.boost.org/LICENSE_1_0.txt)
-
-#ifndef BOOST_ACCUMULATORS_FRAMEWORK_ACCUMULATOR_CONCEPT_HPP_EAN_28_10_2005
-#define BOOST_ACCUMULATORS_FRAMEWORK_ACCUMULATOR_CONCEPT_HPP_EAN_28_10_2005
-
-#include <boost/concept_check.hpp>
-
-namespace boost { namespace accumulators
-{
-
-template<typename Stat>
-struct accumulator_concept
-{
-    void constraints()
-    {
-        // TODO: define the stat concept
-    }
-
-    Stat stat;
-};
-
-}} // namespace boost::accumulators
-
-#endif
+version https://git-lfs.github.com/spec/v1
+oid sha256:07b7d90ae1dc68aab2989fa064a4a0eedc95315810b2b3e3b2e50737c3d952b0
+size 754

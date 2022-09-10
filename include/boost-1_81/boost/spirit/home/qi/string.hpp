@@ -1,17 +1,3 @@
-/*=============================================================================
-    Copyright (c) 2001-2011 Joel de Guzman
-
-    Distributed under the Boost Software License, Version 1.0. (See accompanying
-    file LICENSE_1_0.txt or copy at http://www.boost.org/LICENSE_1_0.txt)
-==============================================================================*/
-#if !defined(BOOST_SPIRIT_STRING_FEBRUARY_03_2007_0355PM)
-#define BOOST_SPIRIT_STRING_FEBRUARY_03_2007_0355PM
-
-#if defined(_MSC_VER)
-#pragma once
-#endif
-
-#include <boost/spirit/home/qi/string/lit.hpp>
-#include <boost/spirit/home/qi/string/symbols.hpp>
-
-#endif
+version https://git-lfs.github.com/spec/v1
+oid sha256:b9a882c4b310726040a25efd919ea9434d4417c4e9cfc777f54ccfad458dde69
+size 637

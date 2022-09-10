@@ -1,18 +1,3 @@
-//
-// Copyright (c) 2018 Artyom Beilis (Tonkikh)
-//
-// Distributed under the Boost Software License, Version 1.0.
-// https://www.boost.org/LICENSE_1_0.txt
-
-#ifndef BOOST_NOWIDE_REPLACEMENT_HPP_INCLUDED
-#define BOOST_NOWIDE_REPLACEMENT_HPP_INCLUDED
-
-/// @file
-
-/// \def BOOST_NOWIDE_REPLACEMENT_CHARACTER
-/// Unicode character to be used to replace invalid UTF-8 sequences
-#ifndef BOOST_NOWIDE_REPLACEMENT_CHARACTER
-#define BOOST_NOWIDE_REPLACEMENT_CHARACTER 0xFFFD
-#endif
-
-#endif // boost/nowide/replacement.hpp
+version https://git-lfs.github.com/spec/v1
+oid sha256:ab52156c37a1e186aa07f4c056e50acd09cdb04cb1a005564b3de696007126e9
+size 530

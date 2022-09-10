@@ -1,20 +1,3 @@
-#ifndef BOOST_METAPARSE_ACCEPT_TAG_HPP
-#define BOOST_METAPARSE_ACCEPT_TAG_HPP
-
-// Copyright Abel Sinkovics (abel@sinkovics.hu)  2013.
-// Distributed under the Boost Software License, Version 1.0.
-//    (See accompanying file LICENSE_1_0.txt or copy at
-//          http://www.boost.org/LICENSE_1_0.txt)
-
-#include <boost/metaparse/v1/accept_tag.hpp>
-
-namespace boost
-{
-  namespace metaparse
-  {
-    using v1::accept_tag;
-  }
-}
-
-#endif
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:20cb01c27c75d2f8ea2363068937dd43f54aadaa1c76186eec3a4ad045bed215
+size 454

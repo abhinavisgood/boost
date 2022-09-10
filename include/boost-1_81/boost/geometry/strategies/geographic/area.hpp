@@ -1,21 +1,3 @@
-// Boost.Geometry
-
-// Copyright (c) 2020, Oracle and/or its affiliates.
-
-// Contributed and/or modified by Adam Wulkiewicz, on behalf of Oracle
-
-// Licensed under the Boost Software License version 1.0.
-// http://www.boost.org/users/license.html
-
-#ifndef BOOST_GEOMETRY_STRATEGIES_GEOGRAPHIC_AREA_HPP
-#define BOOST_GEOMETRY_STRATEGIES_GEOGRAPHIC_AREA_HPP
-
-
-#include <boost/config/pragma_message.hpp>
-BOOST_PRAGMA_MESSAGE("This include file is deprecated and will be removed in the future.")
-
-
-#include <boost/geometry/strategy/geographic/area.hpp>
-
-
-#endif // BOOST_GEOMETRY_STRATEGIES_GEOGRAPHIC_AREA_HPP
+version https://git-lfs.github.com/spec/v1
+oid sha256:77f8ce7829a178344549cf008f4e7a3c274189e6d8834e6a4f14857f4beceee9
+size 627

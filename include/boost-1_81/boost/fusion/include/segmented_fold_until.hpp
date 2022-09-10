@@ -1,13 +1,3 @@
-/*=============================================================================
-    Copyright (c) 2011 Eric Niebler
-
-    Distributed under the Boost Software License, Version 1.0. (See accompanying
-    file LICENSE_1_0.txt or copy at http://www.boost.org/LICENSE_1_0.txt)
-==============================================================================*/
-#if !defined(BOOST_FUSION_INCLUDE_SEGMENTED_FOLD_UNTIL)
-#define BOOST_FUSION_INCLUDE_SEGMENTED_FOLD_UNTIL
-
-#include <boost/fusion/support/config.hpp>
-#include <boost/fusion/support/segmented_fold_until.hpp>
-
-#endif
+version https://git-lfs.github.com/spec/v1
+oid sha256:4c2c8e28f1bcb816e16bae09d1bf05c95fa4e15f07f8e6c8896231bec550d34b
+size 581

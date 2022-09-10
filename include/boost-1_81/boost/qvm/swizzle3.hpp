@@ -1,6 +1,3 @@
-// Copyright 2008-2022 Emil Dotchevski and Reverge Studios, Inc.
-
-// Distributed under the Boost Software License, Version 1.0. (See accompanying
-// file LICENSE_1_0.txt or copy at http://www.boost.org/LICENSE_1_0.txt)
-
-#include <boost/qvm/gen/swizzle3.hpp>
+version https://git-lfs.github.com/spec/v1
+oid sha256:2fb49c39541ba3fa0407c13f4894d4273b02d951c91f1f9d528f5920af7f0617
+size 264
